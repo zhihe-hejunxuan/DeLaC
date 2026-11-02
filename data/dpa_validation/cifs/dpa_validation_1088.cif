@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Pr3(CoSn)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73195815
+_cell_length_b   6.73195815
+_cell_length_c   6.73195815
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3(CoSn)4
+_chemical_formula_sum   'Pr3 Co4 Sn4'
+_cell_volume   234.85636378
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.50000000  0.50000000  0.00000000  1.0
+  Pr  Pr1  1  0.00000000  0.50000000  0.50000000  1.0
+  Pr  Pr2  1  0.50000000  0.00000000  0.50000000  1.0
+  Co  Co3  1  0.77005159  0.77005159  0.77005159  1.0
+  Co  Co4  1  0.00000000  0.22994841  0.00000000  1.0
+  Co  Co5  1  0.00000000  0.00000000  0.22994841  1.0
+  Co  Co6  1  0.22994841  0.00000000  0.00000000  1.0
+  Sn  Sn7  1  0.00000000  0.00000000  0.59920280  1.0
+  Sn  Sn8  1  0.00000000  0.59920280  0.00000000  1.0
+  Sn  Sn9  1  0.59920280  0.00000000  0.00000000  1.0
+  Sn  Sn10  1  0.40079720  0.40079720  0.40079720  1.0

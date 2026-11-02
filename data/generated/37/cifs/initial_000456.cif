@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Li2InHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05771503
+_cell_length_b   3.16767656
+_cell_length_c   7.09107706
+_cell_angle_alpha   91.02194750
+_cell_angle_beta   69.63992395
+_cell_angle_gamma   89.80878737
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2InHg2
+_chemical_formula_sum   'Li2 In1 Hg2'
+_cell_volume   106.48746678
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.27569315  0.49507235  -0.02648295  1
+  Li  Li1  1  0.63509000  0.50586503  0.24337543  1
+  In  In2  1  0.84151666  0.00911506  0.84600907  1
+  Hg  Hg3  1  0.09367413  0.00670624  0.32782159  1
+  Hg  Hg4  1  0.45891177  1.00917502  0.60684373  1

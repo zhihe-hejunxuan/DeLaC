@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy8Cd3Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16376421
+_cell_length_b   6.65357962
+_cell_length_c   11.50074404
+_cell_angle_alpha   73.69845030
+_cell_angle_beta   63.32634257
+_cell_angle_gamma   90.00893787
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy8Cd3Ag
+_chemical_formula_sum   'Dy8 Cd3 Ag1'
+_cell_volume   335.20422459
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.35543882  0.56261234  0.74510433  1
+  Dy  Dy1  1  0.02499105  0.87948066  0.07533824  1
+  Dy  Dy2  1  0.70036632  0.08155610  0.40022126  1
+  Dy  Dy3  1  0.64710981  0.25619579  0.95307639  1
+  Dy  Dy4  1  0.68928276  0.59201116  0.41137164  1
+  Dy  Dy5  1  0.38174375  0.45631142  0.21885819  1
+  Dy  Dy6  1  0.73550633  0.80297460  0.86491056  1
+  Dy  Dy7  1  1.00845376  0.27227293  0.59196783  1
+  Cd  Cd8  1  0.34591114  0.91892013  0.25463492  1
+  Cd  Cd9  1  0.04203118  0.77380797  0.55861300  1
+  Cd  Cd10  1  0.35086837  0.08718514  0.74948461  1
+  Ag  Ag11  1  0.03588133  0.42065263  0.06449695  1

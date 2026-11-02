@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_MnBe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05959743
+_cell_length_b   3.32268231
+_cell_length_c   4.81120621
+_cell_angle_alpha   110.30139785
+_cell_angle_beta   101.94039482
+_cell_angle_gamma   114.15317163
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnBe5
+_chemical_formula_sum   'Mn1 Be5'
+_cell_volume   50.71305905
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.22545269  0.23958317  0.24727045  1
+  Be  Be1  1  0.72720716  0.74056242  0.74690854  1
+  Be  Be2  1  0.71113386  0.06321369  0.40853181  1
+  Be  Be3  1  0.20710857  0.90052720  0.58837615  1
+  Be  Be4  1  0.24811521  0.58202799  0.90788324  1
+  Be  Be5  1  0.74277399  0.41773031  0.08571716  1

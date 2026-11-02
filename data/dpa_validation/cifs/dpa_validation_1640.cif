@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CdAg2MoF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97040663
+_cell_length_b   5.69324364
+_cell_length_c   7.20731027
+_cell_angle_alpha   89.47154404
+_cell_angle_beta   89.57980215
+_cell_angle_gamma   87.11643412
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdAg2MoF8
+_chemical_formula_sum   'Cd1 Ag2 Mo1 F8'
+_cell_volume   203.67884340
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.50000000  1.0
+  Ag  Ag1  1  0.49602826  0.49309930  0.25383576  1.0
+  Ag  Ag2  1  0.50397174  0.50690070  0.74616424  1.0
+  Mo  Mo3  1  0.00000000  0.00000000  0.00000000  1.0
+  F  F4  1  0.16799252  0.17467558  0.79075396  1.0
+  F  F5  1  0.69679014  0.23931499  0.99986245  1.0
+  F  F6  1  0.83955597  0.82524769  0.78188648  1.0
+  F  F7  1  0.83200748  0.82532442  0.20924604  1.0
+  F  F8  1  0.30320986  0.76068501  0.00013755  1.0
+  F  F9  1  0.16044403  0.17475231  0.21811352  1.0
+  F  F10  1  0.68258475  0.26240258  0.50445414  1.0
+  F  F11  1  0.31741525  0.73759742  0.49554586  1.0

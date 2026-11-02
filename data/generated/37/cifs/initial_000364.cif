@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Bi2Br10O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41867818
+_cell_length_b   8.60665270
+_cell_length_c   8.57779044
+_cell_angle_alpha   66.24006172
+_cell_angle_beta   92.37360137
+_cell_angle_gamma   96.16962177
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2Br10O
+_chemical_formula_sum   'Bi2 Br10 O1'
+_cell_volume   498.36594218
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.97831023  -0.10541605  1.07184500  1
+  Bi  Bi1  1  0.44973870  0.67021444  0.33128790  1
+  Br  Br2  1  0.83514178  0.40739275  0.79472857  1
+  Br  Br3  1  0.11883912  0.25602163  0.93493535  1
+  Br  Br4  1  0.66326806  -0.01868152  0.21849292  1
+  Br  Br5  1  0.78383037  0.55321878  0.21611286  1
+  Br  Br6  1  0.11412448  0.37586073  0.37997370  1
+  Br  Br7  1  0.38483775  0.24641550  0.51532659  1
+  Br  Br8  1  0.56985110  0.59262940  0.68370646  1
+  Br  Br9  1  0.29124376  0.77428109  -0.00810399  1
+  Br  Br10  1  0.72278805  1.09127722  0.71248946  1
+  Br  Br11  1  0.19157569  0.82918656  0.41624077  1
+  O  O12  1  0.89650764  0.94294435  0.81213413  1

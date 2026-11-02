@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaTeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.30435780
+_cell_length_b   4.86906574
+_cell_length_c   4.28953666
+_cell_angle_alpha   87.24054389
+_cell_angle_beta   83.56960237
+_cell_angle_gamma   83.55304148
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTeO2
+_chemical_formula_sum   'Na1 Te1 O2'
+_cell_volume   68.10282496
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.32311332  0.16656881  0.71576888  1
+  Te  Te1  1  0.85941373  0.68753450  0.24439712  1
+  O  O2  1  0.93498498  0.75982695  0.79891422  1
+  O  O3  1  -0.07633045  0.29723571  0.26719004  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_RhO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53589619
+_cell_length_b   6.09163661
+_cell_length_c   5.98547914
+_cell_angle_alpha   67.43052167
+_cell_angle_beta   60.95540499
+_cell_angle_gamma   66.95923008
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RhO8
+_chemical_formula_sum   'Rh1 O8'
+_cell_volume   157.60401662
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.77373691  0.18575311  0.03992728  1
+  O  O1  1  0.43365536  0.31877964  0.24237993  1
+  O  O2  1  0.11385259  0.55133895  0.67992617  1
+  O  O3  1  0.22624788  0.81720471  -0.01087046  1
+  O  O4  1  0.69365083  0.28262174  0.70752030  1
+  O  O5  1  0.90010622  0.51456673  0.89022477  1
+  O  O6  1  0.93586601  0.84525749  0.18435218  1
+  O  O7  1  0.23538064  1.03428272  0.81611648  1
+  O  O8  1  0.89320198  0.23503297  0.49378840  1

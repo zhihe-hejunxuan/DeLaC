@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_KIn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34047083
+_cell_length_b   6.54258989
+_cell_length_c   5.44177699
+_cell_angle_alpha   66.37322859
+_cell_angle_beta   60.16276575
+_cell_angle_gamma   89.26751243
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KIn
+_chemical_formula_sum   'K2 In2'
+_cell_volume   146.88349544
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.10768122  0.33671637  0.78231774  1
+  K  K1  1  0.89311616  0.66374781  0.21765883  1
+  In  In2  1  0.33833672  0.01700014  0.32344178  1
+  In  In3  1  0.66248959  0.98349860  0.67648980  1

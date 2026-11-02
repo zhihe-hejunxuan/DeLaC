@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_H8PtRh2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79737676
+_cell_length_b   4.79737676
+_cell_length_c   6.53249833
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   111.54261293
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H8PtRh2Pb
+_chemical_formula_sum   'H8 Pt1 Rh2 Pb1'
+_cell_volume   117.91912821
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.39380651  0.80309675  0.59070976  1.0
+  H  H1  1  0.58096609  0.35664955  0.82178168  1.0
+  H  H2  1  0.60619349  0.19690325  0.40929024  1.0
+  H  H3  1  0.17843123  0.06238436  0.82178168  1.0
+  H  H4  1  0.82156877  0.93761564  0.17821832  1.0
+  H  H5  1  0.88416604  0.75918441  0.82178168  1.0
+  H  H6  1  0.11583396  0.24081559  0.17821832  1.0
+  H  H7  1  0.41903391  0.64335045  0.17821832  1.0
+  Pt  Pt8  1  0.00000000  0.00000000  0.00000000  1.0
+  Rh  Rh9  1  0.57254562  0.71372719  0.85881843  1.0
+  Rh  Rh10  1  0.42745438  0.28627281  0.14118157  1.0
+  Pb  Pb11  1  0.00000000  0.50000000  0.50000000  1.0

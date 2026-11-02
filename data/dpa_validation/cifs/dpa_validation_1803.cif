@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsAgHgCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.81574723
+_cell_length_b   7.62245805
+_cell_length_c   9.28126653
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   102.53411258
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAgHgCl4
+_chemical_formula_sum   'Cs2 Ag2 Hg2 Cl8'
+_cell_volume   470.69531094
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.76519464  0.75000000  0.94985891  1.0
+  Cs  Cs1  1  0.23480536  0.25000000  0.05014109  1.0
+  Ag  Ag2  1  0.89732380  0.75000000  0.50291940  1.0
+  Ag  Ag3  1  0.10267620  0.25000000  0.49708060  1.0
+  Hg  Hg4  1  0.26312368  0.75000000  0.33402756  1.0
+  Hg  Hg5  1  0.73687632  0.25000000  0.66597244  1.0
+  Cl  Cl6  1  0.02792333  0.49136094  0.70285907  1.0
+  Cl  Cl7  1  0.97207667  0.99136094  0.29714093  1.0
+  Cl  Cl8  1  0.97207667  0.50863906  0.29714093  1.0
+  Cl  Cl9  1  0.02792333  0.00863906  0.70285907  1.0
+  Cl  Cl10  1  0.31334618  0.75000000  0.07419904  1.0
+  Cl  Cl11  1  0.68665382  0.25000000  0.92580096  1.0
+  Cl  Cl12  1  0.52769386  0.75000000  0.55832107  1.0
+  Cl  Cl13  1  0.47230614  0.25000000  0.44167893  1.0

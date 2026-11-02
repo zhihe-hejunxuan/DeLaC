@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Li2Ce2DyTl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.64439364
+_cell_length_b   4.64439364
+_cell_length_c   9.43875062
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   75.75740727
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ce2DyTl2
+_chemical_formula_sum   'Li2 Ce2 Dy1 Tl2'
+_cell_volume   169.05589335
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.81938525  0.40969262  0.77092213  1.0
+  Li  Li1  1  0.18061475  0.59030738  0.22907787  1.0
+  Ce  Ce2  1  0.71248362  0.85624181  0.43127457  1.0
+  Ce  Ce3  1  0.28751638  0.14375819  0.56872543  1.0
+  Dy  Dy4  1  0.00000000  0.00000000  0.00000000  1.0
+  Tl  Tl5  1  0.53299771  0.26649886  0.20050343  1.0
+  Tl  Tl6  1  0.46700229  0.73350114  0.79949657  1.0

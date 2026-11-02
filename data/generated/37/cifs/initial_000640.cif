@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CeP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.31018632
+_cell_length_b   5.58685722
+_cell_length_c   4.66628458
+_cell_angle_alpha   110.28892053
+_cell_angle_beta   96.80771223
+_cell_angle_gamma   84.88466415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeP2
+_chemical_formula_sum   'Ce2 P4'
+_cell_volume   80.26421209
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.31584804  0.46524113  0.24232765  1
+  Ce  Ce1  1  0.82178812  0.89493873  0.73223081  1
+  P  P2  1  0.71109715  0.19854456  0.45317086  1
+  P  P3  1  0.75163257  0.10028927  0.59639355  1
+  P  P4  1  0.14377115  0.81496093  0.86647027  1
+  P  P5  1  0.25563826  0.46585611  0.05162031  1

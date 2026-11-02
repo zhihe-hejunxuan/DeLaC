@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2InGeAu6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72301114
+_cell_length_b   7.13172114
+_cell_length_c   7.27898494
+_cell_angle_alpha   82.62671964
+_cell_angle_beta   66.93269464
+_cell_angle_gamma   66.47484920
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2InGeAu6
+_chemical_formula_sum   'Sr2 In1 Ge1 Au6'
+_cell_volume   250.48020157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.46716423  0.78405233  0.28260943  1.0
+  Sr  Sr1  1  0.53283577  0.21594767  0.71739057  1.0
+  In  In2  1  0.00000000  0.50000000  0.50000000  1.0
+  Ge  Ge3  1  0.00000000  0.00000000  0.00000000  1.0
+  Au  Au4  1  0.50926601  0.23331281  0.24904345  1.0
+  Au  Au5  1  0.99067789  0.76581007  0.75225211  1.0
+  Au  Au6  1  0.15006149  0.60258629  0.09906273  1.0
+  Au  Au7  1  0.49073399  0.76668719  0.75095655  1.0
+  Au  Au8  1  0.00932211  0.23418993  0.24774789  1.0
+  Au  Au9  1  0.84993851  0.39741371  0.90093727  1.0

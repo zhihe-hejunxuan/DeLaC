@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Dy2Te3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.37449949
+_cell_length_b   7.81815246
+_cell_length_c   12.37853814
+_cell_angle_alpha   127.80896348
+_cell_angle_beta   82.46369197
+_cell_angle_gamma   98.82713617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Te3
+_chemical_formula_sum   'Dy4 Te6'
+_cell_volume   330.13868231
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.70022503  0.98870895  0.86241653  1
+  Dy  Dy1  1  0.22878843  0.33258487  0.32063042  1
+  Dy  Dy2  1  0.77167698  0.66727030  0.11516707  1
+  Dy  Dy3  1  0.29985577  0.01115749  0.57329237  1
+  Te  Te4  1  0.34090615  0.85911478  0.04074629  1
+  Te  Te5  1  0.65963063  0.14070352  0.39501498  1
+  Te  Te6  1  0.78494024  0.67065929  0.37272114  1
+  Te  Te7  1  0.80190447  0.29617077  0.78024442  1
+  Te  Te8  1  0.19821194  0.70372441  0.65552112  1
+  Te  Te9  1  0.21533124  0.32915718  0.06306801  1

@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_Mn2Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.52938833
+_cell_length_b   2.52083811
+_cell_length_c   5.55059064
+_cell_angle_alpha   102.82332096
+_cell_angle_beta   76.89814424
+_cell_angle_gamma   89.85825685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Cu
+_chemical_formula_sum   'Mn2 Cu1'
+_cell_volume   33.55858835
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.38998121  0.70638179  0.06206664  1
+  Mn  Mn1  1  0.03327392  0.06269954  0.77264764  1
+  Cu  Cu2  1  0.71420760  0.38221335  0.41676655  1

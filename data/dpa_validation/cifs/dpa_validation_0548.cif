@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiErSn3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67739665
+_cell_length_b   6.11288524
+_cell_length_c   8.74095435
+_cell_angle_alpha   91.50344398
+_cell_angle_beta   105.51891032
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiErSn3
+_chemical_formula_sum   'Li2 Er2 Sn6'
+_cell_volume   240.72376604
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.19908122  0.27515225  0.39816243  1.0
+  Li  Li1  1  0.80091878  0.72484775  0.60183757  1.0
+  Er  Er2  1  0.39492861  0.01414717  0.78985723  1.0
+  Er  Er3  1  0.60507139  0.98585283  0.21014277  1.0
+  Sn  Sn4  1  0.01155446  0.25275138  0.02310892  1.0
+  Sn  Sn5  1  0.98844554  0.74724862  0.97689108  1.0
+  Sn  Sn6  1  0.62767224  0.48931292  0.25534449  1.0
+  Sn  Sn7  1  0.37232776  0.51068708  0.74465551  1.0
+  Sn  Sn8  1  0.79111291  0.20757949  0.58222582  1.0
+  Sn  Sn9  1  0.20888709  0.79242051  0.41777418  1.0

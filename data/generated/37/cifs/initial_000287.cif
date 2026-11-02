@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MnIr2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90583017
+_cell_length_b   3.90220236
+_cell_length_c   3.80702366
+_cell_angle_alpha   90.06462505
+_cell_angle_beta   90.06759976
+_cell_angle_gamma   90.03839412
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnIr2Pt
+_chemical_formula_sum   'Mn1 Ir2 Pt1'
+_cell_volume   58.02405045
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.24998089  0.75004067  0.25000934  1
+  Ir  Ir1  1  0.75001167  0.75007057  0.75002386  1
+  Ir  Ir2  1  0.24994481  0.25002372  0.75000616  1
+  Pt  Pt3  1  0.74993457  0.25005657  0.25000586  1

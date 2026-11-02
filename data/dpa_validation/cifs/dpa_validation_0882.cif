@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnCu2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.38595346
+_cell_length_b   4.09568698
+_cell_length_c   9.61788905
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCu2O3
+_chemical_formula_sum   'Mn2 Cu4 O6'
+_cell_volume   133.37901460
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.36976421  0.00000000  0.00000000  1.0
+  Mn  Mn1  1  0.63023579  0.50000000  0.50000000  1.0
+  Cu  Cu2  1  0.15834968  0.00000000  0.33540564  1.0
+  Cu  Cu3  1  0.15834968  0.00000000  0.66459436  1.0
+  Cu  Cu4  1  0.84165032  0.50000000  0.83540564  1.0
+  Cu  Cu5  1  0.84165032  0.50000000  0.16459436  1.0
+  O  O6  1  0.47535956  0.00000000  0.50000000  1.0
+  O  O7  1  0.88989407  0.00000000  0.84167225  1.0
+  O  O8  1  0.88989407  0.00000000  0.15832775  1.0
+  O  O9  1  0.52464044  0.50000000  0.00000000  1.0
+  O  O10  1  0.11010593  0.50000000  0.34167225  1.0
+  O  O11  1  0.11010593  0.50000000  0.65832775  1.0

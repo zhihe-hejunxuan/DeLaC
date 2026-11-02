@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_KSeCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06352612
+_cell_length_b   4.13368507
+_cell_length_c   12.50310006
+_cell_angle_alpha   66.23878109
+_cell_angle_beta   60.79599576
+_cell_angle_gamma   71.38250124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSeCl
+_chemical_formula_sum   'K2 Se2 Cl2'
+_cell_volume   247.39487873
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.51066493  1.15569241  0.47912660  1
+  K  K1  1  0.18770909  -0.15599471  0.26401917  1
+  Se  Se2  1  0.96703373  0.23428642  0.83850313  1
+  Se  Se3  1  0.73104432  0.76556319  0.90466911  1
+  Cl  Cl4  1  0.69564619  0.84389799  0.25570243  1
+  Cl  Cl5  1  0.00272588  0.15581273  0.48744406  1

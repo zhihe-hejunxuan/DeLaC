@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na2Hf2Te6Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06809078
+_cell_length_b   7.11690231
+_cell_length_c   8.04348449
+_cell_angle_alpha   81.52618283
+_cell_angle_beta   72.73748632
+_cell_angle_gamma   60.22662040
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Hf2Te6Pd
+_chemical_formula_sum   'Na2 Hf2 Te6 Pd1'
+_cell_volume   335.38079029
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.15947568  0.68104865  0.00000000  1.0
+  Na  Na1  1  0.84052432  0.31895135  0.00000000  1.0
+  Hf  Hf2  1  0.67844953  0.64310095  0.50000000  1.0
+  Hf  Hf3  1  0.32155047  0.35689905  0.50000000  1.0
+  Te  Te4  1  0.25584260  0.00000000  0.69707206  1.0
+  Te  Te5  1  0.90903728  0.67555857  0.72330725  1.0
+  Te  Te6  1  0.74415740  0.00000000  0.30292794  1.0
+  Te  Te7  1  0.58459585  0.32444143  0.72330725  1.0
+  Te  Te8  1  0.09096272  0.32444143  0.27669275  1.0
+  Te  Te9  1  0.41540415  0.67555857  0.27669275  1.0
+  Pd  Pd10  1  0.00000000  0.00000000  0.50000000  1.0

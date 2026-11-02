@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RhO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29960924
+_cell_length_b   4.55638986
+_cell_length_c   4.86840024
+_cell_angle_alpha   104.24374238
+_cell_angle_beta   87.47126000
+_cell_angle_gamma   80.89310882
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RhO4
+_chemical_formula_sum   'Rh1 O4'
+_cell_volume   90.93358348
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.05744379  0.99829385  0.37587740  1
+  O  O1  1  0.22892025  0.19220341  0.15624322  1
+  O  O2  1  0.73819913  0.24105933  0.58959587  1
+  O  O3  1  0.33551250  0.88399195  0.59589993  1
+  O  O4  1  0.92561693  0.68014831  0.16485076  1

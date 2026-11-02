@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Er4Tl5Ag2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.60559312
+_cell_length_b   8.11595430
+_cell_length_c   9.85861176
+_cell_angle_alpha   91.65484646
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er4Tl5Ag2
+_chemical_formula_sum   'Er4 Tl5 Ag2'
+_cell_volume   288.37054922
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.50000000  0.22998285  0.40703429  1.0
+  Er  Er1  1  0.50000000  0.78923751  0.14093025  1.0
+  Er  Er2  1  0.50000000  0.77001715  0.59296571  1.0
+  Er  Er3  1  0.50000000  0.21076249  0.85906975  1.0
+  Tl  Tl4  1  0.00000000  0.45156379  0.66016853  1.0
+  Tl  Tl5  1  0.00000000  0.86398766  0.86844616  1.0
+  Tl  Tl6  1  0.00000000  0.50000000  0.00000000  1.0
+  Tl  Tl7  1  0.00000000  0.13601234  0.13155384  1.0
+  Tl  Tl8  1  0.00000000  0.54843621  0.33983147  1.0
+  Ag  Ag9  1  0.00000000  0.91962330  0.37216993  1.0
+  Ag  Ag10  1  0.00000000  0.08037670  0.62783007  1.0

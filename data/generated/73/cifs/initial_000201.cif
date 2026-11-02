@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Re2IrO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.66614326
+_cell_length_b   3.38101870
+_cell_length_c   10.80157978
+_cell_angle_alpha   95.68907536
+_cell_angle_beta   106.27292233
+_cell_angle_gamma   103.18498823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re2IrO8
+_chemical_formula_sum   'Re2 Ir1 O8'
+_cell_volume   89.60831789
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.99186738  0.69063087  0.71037171  1
+  Re  Re1  1  0.80735761  0.68041385  1.00060727  1
+  Ir  Ir2  1  0.68752547  0.23776300  0.22296824  1
+  O  O3  1  0.23524001  0.90590719  0.76012834  1
+  O  O4  1  0.37099505  0.94939437  0.46700215  1
+  O  O5  1  0.48133499  0.25274310  0.52016085  1
+  O  O6  1  0.65202224  0.32412090  0.25822859  1
+  O  O7  1  0.49879236  0.34315645  0.22126140  1
+  O  O8  1  0.80074964  0.64437516  0.97916208  1
+  O  O9  1  0.47912199  0.92727551  0.49295748  1
+  O  O10  1  0.75277186  0.35545833  0.95155175  1

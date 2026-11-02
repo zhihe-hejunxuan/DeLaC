@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KTbZnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54121907
+_cell_length_b   7.37991017
+_cell_length_c   9.24151740
+_cell_angle_alpha   110.26476661
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTbZnO3
+_chemical_formula_sum   'K2 Tb2 Zn2 O6'
+_cell_volume   226.56731823
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75000000  0.80707483  0.83257275  1.0
+  K  K1  1  0.25000000  0.19292517  0.16742725  1.0
+  Tb  Tb2  1  0.75000000  0.33218867  0.85447837  1.0
+  Tb  Tb3  1  0.25000000  0.66781133  0.14552163  1.0
+  Zn  Zn4  1  0.75000000  0.95994621  0.38153678  1.0
+  Zn  Zn5  1  0.25000000  0.04005379  0.61846322  1.0
+  O  O6  1  0.25000000  0.11006869  0.84221362  1.0
+  O  O7  1  0.75000000  0.88993131  0.15778638  1.0
+  O  O8  1  0.75000000  0.16698603  0.58591185  1.0
+  O  O9  1  0.25000000  0.83301397  0.41408815  1.0
+  O  O10  1  0.25000000  0.54045504  0.88426623  1.0
+  O  O11  1  0.75000000  0.45954496  0.11573377  1.0

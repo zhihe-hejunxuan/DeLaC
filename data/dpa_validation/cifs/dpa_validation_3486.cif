@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs3Ca(TbTe3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.91832182
+_cell_length_b   7.91832182
+_cell_length_c   9.40704547
+_cell_angle_alpha   98.00511413
+_cell_angle_beta   98.00511413
+_cell_angle_gamma   119.95377365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3Ca(TbTe3)2
+_chemical_formula_sum   'Cs3 Ca1 Tb2 Te6'
+_cell_volume   490.84377794
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.16387369  0.83612631  0.50000000  1.0
+  Cs  Cs1  1  0.83612631  0.16387369  0.50000000  1.0
+  Cs  Cs2  1  0.50000000  0.50000000  0.50000000  1.0
+  Ca  Ca3  1  0.00000000  0.00000000  0.00000000  1.0
+  Tb  Tb4  1  0.33302395  0.66697605  0.00000000  1.0
+  Tb  Tb5  1  0.66697605  0.33302395  0.00000000  1.0
+  Te  Te6  1  0.40713500  0.06415765  0.19188608  1.0
+  Te  Te7  1  0.27911457  0.27911457  0.80945274  1.0
+  Te  Te8  1  0.59286500  0.93584235  0.80811392  1.0
+  Te  Te9  1  0.06415765  0.40713500  0.19188608  1.0
+  Te  Te10  1  0.72088543  0.72088543  0.19054726  1.0
+  Te  Te11  1  0.93584235  0.59286500  0.80811392  1.0

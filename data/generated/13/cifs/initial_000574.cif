@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_HfFeRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.03688637
+_cell_length_b   2.72935575
+_cell_length_c   1.99768870
+_cell_angle_alpha   78.14162682
+_cell_angle_beta   86.29405555
+_cell_angle_gamma   80.89191435
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfFeRh
+_chemical_formula_sum   'Hf1 Fe1 Rh1'
+_cell_volume   15.99179500
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.32562258  0.77821604  0.89189257  1
+  Fe  Fe1  1  0.67037601  0.71577413  0.19539002  1
+  Rh  Rh2  1  0.00443032  0.41193966  -0.05309727  1

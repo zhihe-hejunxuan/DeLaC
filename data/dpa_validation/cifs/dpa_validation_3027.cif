@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb2Pr(HgTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86344771
+_cell_length_b   8.77926752
+_cell_length_c   9.07168487
+_cell_angle_alpha   109.13783315
+_cell_angle_beta   105.54864837
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Pr(HgTe2)2
+_chemical_formula_sum   'Rb2 Pr1 Hg2 Te4'
+_cell_volume   350.89208709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.86776239  0.41814575  0.73552478  1.0
+  Rb  Rb1  1  0.13223761  0.58185425  0.26447522  1.0
+  Pr  Pr2  1  0.00000000  0.00000000  0.00000000  1.0
+  Hg  Hg3  1  0.33123885  0.00990272  0.66247770  1.0
+  Hg  Hg4  1  0.66876115  0.99009728  0.33752230  1.0
+  Te  Te5  1  0.80107004  0.81019796  0.60214007  1.0
+  Te  Te6  1  0.19892996  0.18980204  0.39785993  1.0
+  Te  Te7  1  0.49782811  0.24724940  0.99565622  1.0
+  Te  Te8  1  0.50217189  0.75275060  0.00434378  1.0

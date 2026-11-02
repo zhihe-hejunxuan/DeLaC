@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Rb2Ag2SnI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69562160
+_cell_length_b   8.78677346
+_cell_length_c   8.80324463
+_cell_angle_alpha   119.93812599
+_cell_angle_beta   116.18866724
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Ag2SnI6
+_chemical_formula_sum   'Rb2 Ag2 Sn1 I6'
+_cell_volume   501.61929606
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.79705502  0.25868160  0.51736320  1.0
+  Rb  Rb1  1  0.20294498  0.74131840  0.48263680  1.0
+  Ag  Ag2  1  0.20239667  0.05327404  0.10654807  1.0
+  Ag  Ag3  1  0.79760333  0.94672596  0.89345193  1.0
+  Sn  Sn4  1  0.50000000  0.50000000  0.00000000  1.0
+  I  I5  1  0.37900539  0.26454190  0.52908380  1.0
+  I  I6  1  0.81300410  0.31600926  0.12223169  1.0
+  I  I7  1  0.18699590  0.19377757  0.87776831  1.0
+  I  I8  1  0.18699590  0.68399074  0.87776831  1.0
+  I  I9  1  0.81300410  0.80622243  0.12223169  1.0
+  I  I10  1  0.62099461  0.73545810  0.47091620  1.0

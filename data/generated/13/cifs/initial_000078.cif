@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Rb2MnGaSbCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19414884
+_cell_length_b   7.17883755
+_cell_length_c   16.67837395
+_cell_angle_alpha   108.41442217
+_cell_angle_beta   95.73316310
+_cell_angle_gamma   108.36405071
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2MnGaSbCl6
+_chemical_formula_sum   'Rb4 Mn2 Ga2 Sb2 Cl12'
+_cell_volume   756.38121501
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.87725241  0.01338496  0.59245227  1
+  Rb  Rb1  1  0.29784411  0.90256534  0.81916960  1
+  Rb  Rb2  1  0.10374900  0.61823358  0.25849063  1
+  Rb  Rb3  1  0.64445295  0.67160978  1.00003258  1
+  Mn  Mn4  1  0.59840336  0.16207425  0.31886936  1
+  Mn  Mn5  1  0.42113145  0.12965670  0.10536895  1
+  Ga  Ga6  1  0.58113841  0.48095802  0.72764016  1
+  Ga  Ga7  1  1.00674035  0.31659439  0.94211637  1
+  Sb  Sb8  1  0.70617640  0.44900835  0.58642864  1
+  Sb  Sb9  1  0.39581510  0.48299979  0.48704828  1
+  Cl  Cl10  1  0.29146387  0.73463093  0.59924107  1
+  Cl  Cl11  1  0.81518537  0.50986162  0.38750376  1
+  Cl  Cl12  1  0.69013299  0.28731885  0.79792129  1
+  Cl  Cl13  1  0.68534165  0.24031423  0.01989353  1
+  Cl  Cl14  1  0.11650243  0.14950562  0.45782650  1
+  Cl  Cl15  1  0.28049279  0.12987188  0.23821795  1
+  Cl  Cl16  1  0.27055214  0.39961574  0.76102560  1
+  Cl  Cl17  1  0.29187314  0.39306974  0.08952995  1
+  Cl  Cl18  1  0.69857224  1.05452478  0.18213000  1
+  Cl  Cl19  1  0.20241451  0.79336645  -0.00106534  1
+  Cl  Cl20  1  0.54856020  0.90808361  0.37884384  1
+  Cl  Cl21  1  0.74505361  0.81770343  0.83640803  1

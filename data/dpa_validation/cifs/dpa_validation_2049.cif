@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CsNaIBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83563676
+_cell_length_b   4.83563676
+_cell_length_c   8.73771271
+_cell_angle_alpha   73.93601483
+_cell_angle_beta   106.06398517
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNaIBr
+_chemical_formula_sum   'Cs1 Na1 I1 Br1'
+_cell_volume   167.66859271
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.74708931  0.25291069  0.24126794  1.0
+  Na  Na1  1  0.23699425  0.76300575  0.71098276  1.0
+  I  I2  1  0.97486475  0.02513525  0.92459426  1.0
+  Br  Br3  1  0.50589903  0.49410097  0.51769708  1.0

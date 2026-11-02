@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_In2BiPbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86235387
+_cell_length_b   5.86235387
+_cell_length_c   6.02585279
+_cell_angle_alpha   60.89356281
+_cell_angle_beta   119.10643719
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2BiPbO6
+_chemical_formula_sum   'In2 Bi1 Pb1 O6'
+_cell_volume   148.38263146
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.52071164  0.47928836  0.56213493  1.0
+  In  In1  1  0.02383384  0.97616616  0.07150151  1.0
+  Bi  Bi2  1  0.80373139  0.19626861  0.41119418  1.0
+  Pb  Pb3  1  0.30244741  0.69755259  0.90734224  1.0
+  O  O4  1  0.87730898  0.34320973  0.75241661  1.0
+  O  O5  1  0.65679027  0.78168264  0.75241661  1.0
+  O  O6  1  0.21831736  0.12269102  0.75241661  1.0
+  O  O7  1  0.15691874  0.62344704  0.25841172  1.0
+  O  O8  1  0.37655296  0.27505998  0.25841172  1.0
+  O  O9  1  0.72494002  0.84308126  0.25841172  1.0

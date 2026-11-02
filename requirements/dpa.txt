@@ -1,0 +1,21 @@
+# Separate Python 3.10 environment; pinned DeePMD implementation used in the experiments.
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.8.0
+deepmd-kit @ git+https://github.com/deepmodeling/deepmd-kit@6f00250189d97930d3f63ed33ef2cd99085cdbda
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+pymatgen==2025.10.7
+ase==3.26.0
+scikit-learn==1.7.2
+SMACT==3.2.0
+monty==2025.3.3
+PyYAML==6.0.3
+joblib==1.5.2
+tqdm==4.67.1
+cachetools==6.2.1
+lmdb==1.6.2
+psutil==7.1.0
+pathos==0.3.4
+typing_extensions==4.16.0
+h5py==3.14.0

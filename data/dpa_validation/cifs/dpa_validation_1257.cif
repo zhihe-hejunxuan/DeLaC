@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba3Cd8Pb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12175590
+_cell_length_b   9.74023691
+_cell_length_c   9.74023691
+_cell_angle_alpha   70.11289534
+_cell_angle_beta   74.75675786
+_cell_angle_gamma   74.75675786
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Cd8Pb3
+_chemical_formula_sum   'Ba3 Cd8 Pb3'
+_cell_volume   432.72484449
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.50000000  0.50000000  1.0
+  Ba  Ba1  1  0.81123094  0.18876906  0.18876906  1.0
+  Ba  Ba2  1  0.18876906  0.81123094  0.81123094  1.0
+  Cd  Cd3  1  0.64699399  0.08658952  0.61942251  1.0
+  Cd  Cd4  1  0.35300601  0.91341048  0.38057749  1.0
+  Cd  Cd5  1  0.64699399  0.61942251  0.08658952  1.0
+  Cd  Cd6  1  0.35300601  0.38057749  0.91341048  1.0
+  Cd  Cd7  1  0.83260459  0.79639157  0.53839925  1.0
+  Cd  Cd8  1  0.16739541  0.20360843  0.46160075  1.0
+  Cd  Cd9  1  0.83260459  0.53839925  0.79639157  1.0
+  Cd  Cd10  1  0.16739541  0.46160075  0.20360843  1.0
+  Pb  Pb11  1  0.50000000  0.00000000  0.00000000  1.0
+  Pb  Pb12  1  0.00000000  0.78586103  0.21413897  1.0
+  Pb  Pb13  1  0.00000000  0.21413897  0.78586103  1.0

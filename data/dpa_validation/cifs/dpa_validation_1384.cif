@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ho2MgMo2(ClO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67228060
+_cell_length_b   6.67228034
+_cell_length_c   7.12946734
+_cell_angle_alpha   76.58165231
+_cell_angle_beta   76.58165657
+_cell_angle_gamma   60.45118751
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2MgMo2(ClO4)2
+_chemical_formula_sum   'Ho2 Mg1 Mo2 Cl2 O8'
+_cell_volume   265.97223278
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.29279512  0.26830119  0.87548948  1.0
+  Ho  Ho1  1  0.73169881  0.70720488  0.12451052  1.0
+  Mg  Mg2  1  0.23818105  0.76181895  0.00000000  1.0
+  Mo  Mo3  1  0.66993944  0.61930111  0.70791320  1.0
+  Mo  Mo4  1  0.38069889  0.33006056  0.29208680  1.0
+  Cl  Cl5  1  0.05306178  0.07324032  0.20210126  1.0
+  Cl  Cl6  1  0.92675968  0.94693822  0.79789874  1.0
+  O  O7  1  0.49367868  0.55131340  0.19634459  1.0
+  O  O8  1  0.69916039  0.69808638  0.44842155  1.0
+  O  O9  1  0.47587612  0.87993297  0.85639492  1.0
+  O  O10  1  0.90427086  0.47637109  0.86477071  1.0
+  O  O11  1  0.30191362  0.30083961  0.55157845  1.0
+  O  O12  1  0.52362891  0.09572914  0.13522929  1.0
+  O  O13  1  0.12006703  0.52412388  0.14360508  1.0
+  O  O14  1  0.44868660  0.50632132  0.80365541  1.0

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Dy(CoB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86455446
+_cell_length_b   5.11939435
+_cell_length_c   7.18627676
+_cell_angle_alpha   57.90615917
+_cell_angle_beta   52.63627513
+_cell_angle_gamma   51.32949667
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy(CoB3)2
+_chemical_formula_sum   'Dy1 Co2 B6'
+_cell_volume   85.53359888
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.70493723  0.18382213  0.03311219  1
+  Co  Co1  1  0.73501808  0.52808749  0.41031429  1
+  Co  Co2  1  0.78032351  0.80826821  0.58142626  1
+  B  B3  1  0.34897493  0.31662878  0.46617131  1
+  B  B4  1  1.20856099  1.00877670  0.51744995  1
+  B  B5  1  0.24297574  0.60347278  0.74974446  1
+  B  B6  1  0.63714936  0.79924824  0.92983999  1
+  B  B7  1  0.54122776  0.18908015  0.71423342  1
+  B  B8  1  0.34042689  0.67025082  0.22979408  1

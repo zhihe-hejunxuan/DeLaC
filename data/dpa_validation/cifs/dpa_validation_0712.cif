@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ag(SnAu3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.27358241
+_cell_length_b   6.12075794
+_cell_length_c   6.12075794
+_cell_angle_alpha   103.15032277
+_cell_angle_beta   100.45945045
+_cell_angle_gamma   79.54054955
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag(SnAu3)2
+_chemical_formula_sum   'Ag1 Sn2 Au6'
+_cell_volume   187.15032502
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.00000000  0.00000000  0.00000000  1.0
+  Sn  Sn1  1  0.84314744  0.31603793  0.68396207  1.0
+  Sn  Sn2  1  0.15685256  0.68396207  0.31603793  1.0
+  Au  Au3  1  0.29423647  0.22667609  0.39353310  1.0
+  Au  Au4  1  0.40278085  0.15008491  0.84991509  1.0
+  Au  Au5  1  0.29423647  0.60646690  0.77332391  1.0
+  Au  Au6  1  0.70576353  0.77332391  0.60646690  1.0
+  Au  Au7  1  0.59721915  0.84991509  0.15008491  1.0
+  Au  Au8  1  0.70576353  0.39353310  0.22667609  1.0

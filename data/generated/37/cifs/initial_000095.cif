@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SO2F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.93869691
+_cell_length_b   4.56949320
+_cell_length_c   6.00707822
+_cell_angle_alpha   102.40219996
+_cell_angle_beta   84.54089091
+_cell_angle_gamma   86.77406140
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SO2F
+_chemical_formula_sum   'S2 O4 F2'
+_cell_volume   51.57702045
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.56353197  0.78252308  0.25787894  1
+  S  S1  1  0.44025609  0.64711148  0.75731801  1
+  O  O2  1  0.45857495  0.26967251  0.76390782  1
+  O  O3  1  0.13056896  0.42988337  0.21424400  1
+  O  O4  1  0.32062732  0.56546166  0.69965933  1
+  O  O5  1  0.39770514  0.82630958  0.27403757  1
+  F  F6  1  0.77949771  0.94259639  0.77592234  1
+  F  F7  1  0.86087194  0.16395607  0.23994924  1

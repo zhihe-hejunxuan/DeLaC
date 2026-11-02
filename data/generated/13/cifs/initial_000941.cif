@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Cd2SbPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26863878
+_cell_length_b   5.92108457
+_cell_length_c   5.01244525
+_cell_angle_alpha   114.54498846
+_cell_angle_beta   115.12865217
+_cell_angle_gamma   89.92359370
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2SbPd2
+_chemical_formula_sum   'Cd2 Sb1 Pd2'
+_cell_volume   101.94961438
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.80957134  0.38299779  0.80707114  1
+  Cd  Cd1  1  0.17873905  0.63508451  0.54462764  1
+  Sb  Sb2  1  0.92179903  0.97368402  0.03173308  1
+  Pd  Pd3  1  0.55131215  0.82327335  0.28962299  1
+  Pd  Pd4  1  0.48360822  0.28332605  0.15565352  1

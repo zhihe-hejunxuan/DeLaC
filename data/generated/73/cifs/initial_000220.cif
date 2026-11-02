@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Dy2Ga5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05044631
+_cell_length_b   4.10613652
+_cell_length_c   9.07450407
+_cell_angle_alpha   90.18242589
+_cell_angle_beta   76.69919664
+_cell_angle_gamma   89.96684738
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Ga5
+_chemical_formula_sum   'Dy2 Ga5'
+_cell_volume   146.87497317
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  1.00872491  0.21187001  0.63707165  1
+  Dy  Dy1  1  0.80276740  0.71989531  0.04077787  1
+  Ga  Ga2  1  0.37209975  0.21334554  0.90357744  1
+  Ga  Ga3  1  0.63269191  0.23834559  0.37395298  1
+  Ga  Ga4  1  0.13423694  0.73097520  0.37049005  1
+  Ga  Ga5  1  0.45603731  0.71198426  0.74185513  1
+  Ga  Ga6  1  0.23000100  0.22760730  0.18051132  1

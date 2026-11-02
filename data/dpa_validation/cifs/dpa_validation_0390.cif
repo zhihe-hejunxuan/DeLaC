@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ErMnTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17932112
+_cell_length_b   7.83448164
+_cell_length_c   8.57037125
+_cell_angle_alpha   94.53904017
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErMnTe3
+_chemical_formula_sum   'Er2 Mn2 Te6'
+_cell_volume   279.73795812
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.75000000  0.61939963  0.78495924  1.0
+  Er  Er1  1  0.25000000  0.38060037  0.21504076  1.0
+  Mn  Mn2  1  0.75000000  0.14838510  0.66568758  1.0
+  Mn  Mn3  1  0.25000000  0.85161490  0.33431242  1.0
+  Te  Te4  1  0.25000000  0.37492350  0.59820424  1.0
+  Te  Te5  1  0.75000000  0.62507650  0.40179576  1.0
+  Te  Te6  1  0.25000000  0.72246361  0.03516133  1.0
+  Te  Te7  1  0.75000000  0.09992947  0.33941841  1.0
+  Te  Te8  1  0.75000000  0.27753639  0.96483867  1.0
+  Te  Te9  1  0.25000000  0.90007053  0.66058159  1.0

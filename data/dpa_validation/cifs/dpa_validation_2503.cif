@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Tm3Ni8Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96092039
+_cell_length_b   4.96092039
+_cell_length_c   8.59901554
+_cell_angle_alpha   73.23430140
+_cell_angle_beta   106.76569860
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm3Ni8Ag
+_chemical_formula_sum   'Tm3 Ni8 Ag1'
+_cell_volume   172.80977975
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.62304932  0.37695068  0.86914795  1.0
+  Tm  Tm1  1  0.00793945  0.99206055  0.02381834  1.0
+  Tm  Tm2  1  0.49337900  0.50662100  0.48013700  1.0
+  Ni  Ni3  1  0.56343992  0.94199353  0.18488632  1.0
+  Ni  Ni4  1  0.06270615  0.43729471  0.68811758  1.0
+  Ni  Ni5  1  0.56343992  0.43656008  0.18488632  1.0
+  Ni  Ni6  1  0.06270615  0.93729385  0.68811758  1.0
+  Ni  Ni7  1  0.81225843  0.18774157  0.43677530  1.0
+  Ni  Ni8  1  0.31216774  0.68783226  0.93650323  1.0
+  Ni  Ni9  1  0.05800647  0.43656008  0.18488632  1.0
+  Ni  Ni10  1  0.56270529  0.93729385  0.68811758  1.0
+  Ag  Ag11  1  0.12820408  0.87179592  0.38461223  1.0

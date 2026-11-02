@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K2Nd(CuSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09595612
+_cell_length_b   7.91172691
+_cell_length_c   8.04776653
+_cell_angle_alpha   108.85509412
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   105.00204270
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Nd(CuSe2)2
+_chemical_formula_sum   'K2 Nd1 Cu2 Se4'
+_cell_volume   237.38971915
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.13075238  0.26150476  0.05673231  1.0
+  K  K1  1  0.86924762  0.73849524  0.94326769  1.0
+  Nd  Nd2  1  0.00000000  0.00000000  0.50000000  1.0
+  Cu  Cu3  1  0.68126460  0.36252920  0.48839140  1.0
+  Cu  Cu4  1  0.31873540  0.63747080  0.51160860  1.0
+  Se  Se5  1  0.20683180  0.41366360  0.67798609  1.0
+  Se  Se6  1  0.79316820  0.58633640  0.32201391  1.0
+  Se  Se7  1  0.52479459  0.04958918  0.25785129  1.0
+  Se  Se8  1  0.47520541  0.95041082  0.74214871  1.0

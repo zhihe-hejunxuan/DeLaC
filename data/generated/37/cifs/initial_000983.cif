@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_NdSm
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.64521799
+_cell_length_b   5.22221337
+_cell_length_c   3.63524936
+_cell_angle_alpha   90.00701062
+_cell_angle_beta   89.62003048
+_cell_angle_gamma   90.07562823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdSm
+_chemical_formula_sum   'Nd1 Sm1'
+_cell_volume   69.19940994
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.24983769  0.24997568  0.24989920  1
+  Sm  Sm1  1  0.75016231  0.75002433  0.75010080  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbMn(GeCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99861485
+_cell_length_b   7.78949809
+_cell_length_c   8.83784493
+_cell_angle_alpha   96.70405347
+_cell_angle_beta   95.64177941
+_cell_angle_gamma   110.79550162
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbMn(GeCl4)2
+_chemical_formula_sum   'Rb1 Mn1 Ge2 Cl8'
+_cell_volume   379.04789507
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  0.50000000  1.0
+  Mn  Mn1  1  0.00000000  0.00000000  0.00000000  1.0
+  Ge  Ge2  1  0.28774398  0.66380030  0.16043570  1.0
+  Ge  Ge3  1  0.71225602  0.33619970  0.83956430  1.0
+  Cl  Cl4  1  0.02749249  0.77295448  0.82965787  1.0
+  Cl  Cl5  1  0.29092173  0.26949215  0.85280682  1.0
+  Cl  Cl6  1  0.67647390  0.99780261  0.83245710  1.0
+  Cl  Cl7  1  0.97250751  0.22704552  0.17034213  1.0
+  Cl  Cl8  1  0.70907827  0.73050785  0.14719318  1.0
+  Cl  Cl9  1  0.32352610  0.00219739  0.16754290  1.0
+  Cl  Cl10  1  0.66386373  0.29325840  0.57585131  1.0
+  Cl  Cl11  1  0.33613627  0.70674160  0.42414869  1.0

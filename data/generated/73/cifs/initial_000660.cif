@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_SnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43558953
+_cell_length_b   3.95878347
+_cell_length_c   3.95611671
+_cell_angle_alpha   87.39266869
+_cell_angle_beta   83.70789315
+_cell_angle_gamma   83.12644428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnO4
+_chemical_formula_sum   'Sn1 O4'
+_cell_volume   83.96279902
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.30192374  0.81504782  0.18211311  1
+  O  O1  1  0.86484677  0.90543519  0.25798316  1
+  O  O2  1  0.31719004  0.81398179  0.68013525  1
+  O  O3  1  0.29379968  0.31622884  0.18701326  1
+  O  O4  1  0.74018989  0.72792134  1.09060617  1

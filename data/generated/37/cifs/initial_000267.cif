@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2CuSbCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22105225
+_cell_length_b   7.91876831
+_cell_length_c   3.60915309
+_cell_angle_alpha   89.16276267
+_cell_angle_beta   83.76186677
+_cell_angle_gamma   69.11773331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CuSbCl6
+_chemical_formula_sum   'Rb2 Cu1 Sb1 Cl6'
+_cell_volume   191.61566861
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.42141291  0.97794510  0.10001484  1
+  Rb  Rb1  1  0.62046219  0.37122927  0.72793855  1
+  Cu  Cu2  1  0.78289329  0.20933363  0.82635814  1
+  Sb  Sb3  1  0.99461378  0.61793375  0.43558403  1
+  Cl  Cl4  1  0.35066829  1.01807629  0.37803421  1
+  Cl  Cl5  1  0.76269260  0.22498937  0.87531864  1
+  Cl  Cl6  1  0.05812222  0.58445902  0.16260711  1
+  Cl  Cl7  1  0.28513412  0.05843110  0.61369985  1
+  Cl  Cl8  1  0.11255133  0.54952815  0.93662976  1
+  Cl  Cl9  1  0.64151432  0.38167894  0.63022060  1

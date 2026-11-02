@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CdInGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90389169
+_cell_length_b   5.74520728
+_cell_length_c   5.98194393
+_cell_angle_alpha   61.74526563
+_cell_angle_beta   80.85191677
+_cell_angle_gamma   70.67639031
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdInGa
+_chemical_formula_sum   'Cd2 In2 Ga2'
+_cell_volume   140.09016561
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.25023626  0.08259792  0.83354209  1.0
+  Cd  Cd1  1  0.74976374  0.91740208  0.16645791  1.0
+  In  In2  1  0.75069574  0.59341406  0.81205273  1.0
+  In  In3  1  0.24930426  0.40658594  0.18794727  1.0
+  Ga  Ga4  1  0.74959973  0.24310848  0.51340446  1.0
+  Ga  Ga5  1  0.25040027  0.75689152  0.48659554  1.0

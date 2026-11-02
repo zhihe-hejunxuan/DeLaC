@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KPrFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76547190
+_cell_length_b   7.50713555
+_cell_length_c   9.36738165
+_cell_angle_alpha   107.05722925
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KPrFeO3
+_chemical_formula_sum   'K2 Pr2 Fe2 O6'
+_cell_volume   253.14848864
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.17364388  0.15263582  1.0
+  K  K1  1  0.75000000  0.82635612  0.84736418  1.0
+  Pr  Pr2  1  0.75000000  0.33827919  0.85204157  1.0
+  Pr  Pr3  1  0.25000000  0.66172081  0.14795843  1.0
+  Fe  Fe4  1  0.75000000  0.96636424  0.37596266  1.0
+  Fe  Fe5  1  0.25000000  0.03363576  0.62403734  1.0
+  O  O6  1  0.75000000  0.11512234  0.59794388  1.0
+  O  O7  1  0.25000000  0.11731870  0.84556406  1.0
+  O  O8  1  0.25000000  0.55187160  0.88402914  1.0
+  O  O9  1  0.25000000  0.88487766  0.40205612  1.0
+  O  O10  1  0.75000000  0.44812840  0.11597086  1.0
+  O  O11  1  0.75000000  0.88268130  0.15443594  1.0

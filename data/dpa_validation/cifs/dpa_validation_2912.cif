@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_PrYSeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11911654
+_cell_length_b   6.66742954
+_cell_length_c   7.80442844
+_cell_angle_alpha   108.23421958
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrYSeO2
+_chemical_formula_sum   'Pr2 Y2 Se2 O4'
+_cell_volume   203.57717335
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.75000000  0.30976491  0.07201176  1.0
+  Pr  Pr1  1  0.25000000  0.69023509  0.92798824  1.0
+  Y  Y2  1  0.75000000  0.32806842  0.58006159  1.0
+  Y  Y3  1  0.25000000  0.67193158  0.41993841  1.0
+  Se  Se4  1  0.75000000  0.95302835  0.24811805  1.0
+  Se  Se5  1  0.25000000  0.04697165  0.75188195  1.0
+  O  O6  1  0.25000000  0.48426463  0.61284213  1.0
+  O  O7  1  0.75000000  0.51573537  0.38715787  1.0
+  O  O8  1  0.25000000  0.48414401  0.12880941  1.0
+  O  O9  1  0.75000000  0.51585599  0.87119059  1.0

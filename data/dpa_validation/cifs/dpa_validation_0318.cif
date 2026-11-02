@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2CdAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34865080
+_cell_length_b   7.23017665
+_cell_length_c   8.55682333
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.72051581
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2CdAs2
+_chemical_formula_sum   'Ca4 Cd2 As4'
+_cell_volume   260.20874742
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.03343069  0.75848764  0.06686137  1.0
+  Ca  Ca1  1  0.20002139  0.10632133  0.40004279  1.0
+  Ca  Ca2  1  0.79997861  0.60632133  0.59995721  1.0
+  Ca  Ca3  1  0.96656931  0.25848764  0.93313863  1.0
+  Cd  Cd4  1  0.59881981  0.42330186  0.19763962  1.0
+  Cd  Cd5  1  0.40118019  0.92330186  0.80236038  1.0
+  As  As6  1  0.56480030  0.04662185  0.12960060  1.0
+  As  As7  1  0.18166279  0.53090869  0.36332558  1.0
+  As  As8  1  0.81833721  0.03090869  0.63667442  1.0
+  As  As9  1  0.43519970  0.54662185  0.87039940  1.0

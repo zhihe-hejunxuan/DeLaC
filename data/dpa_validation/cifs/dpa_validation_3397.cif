@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TiZnInBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86013500
+_cell_length_b   6.86013500
+_cell_length_c   7.18741824
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiZnInBr6
+_chemical_formula_sum   'Ti1 Zn1 In1 Br6'
+_cell_volume   292.93338759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.33333333  0.66666667  0.50000000  1.0
+  Zn  Zn1  1  0.66666667  0.33333333  0.50000000  1.0
+  In  In2  1  0.00000000  0.00000000  0.00000000  1.0
+  Br  Br3  1  0.37256272  0.37860086  0.29116053  1.0
+  Br  Br4  1  0.37256272  0.99396187  0.70883947  1.0
+  Br  Br5  1  0.00603813  0.37860086  0.70883947  1.0
+  Br  Br6  1  0.62139914  0.62743728  0.70883947  1.0
+  Br  Br7  1  0.00603813  0.62743728  0.29116053  1.0
+  Br  Br8  1  0.62139914  0.99396187  0.29116053  1.0

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Cd10InGa2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86004917
+_cell_length_b   7.79571271
+_cell_length_c   7.83508415
+_cell_angle_alpha   81.92009812
+_cell_angle_beta   68.03982070
+_cell_angle_gamma   67.92309492
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd10InGa2
+_chemical_formula_sum   'Cd10 In1 Ga2'
+_cell_volume   307.62266143
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.64917665  0.34479474  0.35685196  1.0
+  Cd  Cd1  1  0.35082335  0.65520526  0.64314804  1.0
+  Cd  Cd2  1  0.00602861  0.34479474  0.64314804  1.0
+  Cd  Cd3  1  0.99397139  0.65520526  0.35685196  1.0
+  Cd  Cd4  1  0.00000000  0.50000000  0.00000000  1.0
+  Cd  Cd5  1  0.50000000  0.50000000  0.00000000  1.0
+  Cd  Cd6  1  0.71350816  0.79041072  0.78257297  1.0
+  Cd  Cd7  1  0.28649184  0.20958928  0.21742703  1.0
+  Cd  Cd8  1  0.49608113  0.79041072  0.21742703  1.0
+  Cd  Cd9  1  0.50391887  0.20958928  0.78257297  1.0
+  In  In10  1  0.00000000  0.00000000  0.00000000  1.0
+  Ga  Ga11  1  0.00000000  0.00000000  0.50000000  1.0
+  Ga  Ga12  1  0.50000000  0.00000000  0.50000000  1.0

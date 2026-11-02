@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbMn2SbBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83583483
+_cell_length_b   6.83583483
+_cell_length_c   11.70049527
+_cell_angle_alpha   73.01524003
+_cell_angle_beta   106.98475997
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbMn2SbBr8
+_chemical_formula_sum   'Rb1 Mn2 Sb1 Br8'
+_cell_volume   445.74817871
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  0.00000000  1.0
+  Mn  Mn1  1  0.75436689  0.24563311  0.26310067  1.0
+  Mn  Mn2  1  0.24563311  0.75436689  0.73689933  1.0
+  Sb  Sb3  1  0.50000000  0.50000000  0.50000000  1.0
+  Br  Br4  1  0.68118621  0.31881379  0.04355863  1.0
+  Br  Br5  1  0.31881379  0.68118621  0.95644137  1.0
+  Br  Br6  1  0.86811761  0.42737366  0.66902878  1.0
+  Br  Br7  1  0.13188239  0.22828483  0.33097122  1.0
+  Br  Br8  1  0.42737366  0.86811761  0.33097122  1.0
+  Br  Br9  1  0.57262634  0.77171517  0.66902878  1.0
+  Br  Br10  1  0.22828483  0.13188239  0.66902878  1.0
+  Br  Br11  1  0.77171517  0.57262634  0.33097122  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaSr2DyBr8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86814214
+_cell_length_b   7.07162274
+_cell_length_c   9.16521548
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.68957066
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSr2DyBr8
+_chemical_formula_sum   'Na1 Sr2 Dy1 Br8'
+_cell_volume   445.11228828
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1.0
+  Sr  Sr1  1  0.50000000  0.50000000  0.25533981  1.0
+  Sr  Sr2  1  0.50000000  0.50000000  0.74466019  1.0
+  Dy  Dy3  1  0.00000000  0.00000000  0.00000000  1.0
+  Br  Br4  1  0.78381786  0.16345789  0.77353827  1.0
+  Br  Br5  1  0.74122620  0.68101965  0.00000000  1.0
+  Br  Br6  1  0.21618214  0.83654211  0.77353827  1.0
+  Br  Br7  1  0.21618214  0.83654211  0.22646173  1.0
+  Br  Br8  1  0.25877380  0.31898035  0.00000000  1.0
+  Br  Br9  1  0.78381786  0.16345789  0.22646173  1.0
+  Br  Br10  1  0.72837924  0.67679957  0.50000000  1.0
+  Br  Br11  1  0.27162076  0.32320043  0.50000000  1.0

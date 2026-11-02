@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Dy4Mg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.52225611
+_cell_length_b   3.56881380
+_cell_length_c   15.12543172
+_cell_angle_alpha   111.25772167
+_cell_angle_beta   82.51431006
+_cell_angle_gamma   120.33919882
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy4Mg
+_chemical_formula_sum   'Dy4 Mg1'
+_cell_volume   152.59685980
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.11569019  0.02064020  0.40174081  1
+  Dy  Dy1  1  1.01042000  0.35057709  0.99630938  1
+  Dy  Dy2  1  0.84441899  0.69275286  0.60267827  1
+  Dy  Dy3  1  0.74558173  1.03233664  0.19688274  1
+  Mg  Mg4  1  0.23997489  0.65935193  0.79843481  1

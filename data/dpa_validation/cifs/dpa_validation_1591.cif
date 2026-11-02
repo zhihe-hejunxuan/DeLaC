@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Rb3(Cd2Sn)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.18767052
+_cell_length_b   7.16246351
+_cell_length_c   10.37647563
+_cell_angle_alpha   72.64077638
+_cell_angle_beta   89.85254220
+_cell_angle_gamma   68.95230182
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3(Cd2Sn)2
+_chemical_formula_sum   'Rb3 Cd4 Sn2'
+_cell_volume   341.06565561
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.38246350  0.23673145  0.62904208  1.0
+  Rb  Rb1  1  0.00000000  0.00000000  0.00000000  1.0
+  Rb  Rb2  1  0.61753650  0.76326855  0.37095792  1.0
+  Cd  Cd3  1  0.73032259  0.53816291  0.07228022  1.0
+  Cd  Cd4  1  0.08930595  0.82223753  0.63550524  1.0
+  Cd  Cd5  1  0.91069405  0.17776247  0.36449476  1.0
+  Cd  Cd6  1  0.26967741  0.46183709  0.92771978  1.0
+  Sn  Sn7  1  0.29934208  0.39984675  0.23435592  1.0
+  Sn  Sn8  1  0.70065792  0.60015325  0.76564408  1.0

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Cd2Se12O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91476428
+_cell_length_b   6.82983131
+_cell_length_c   11.68166892
+_cell_angle_alpha   62.95026715
+_cell_angle_beta   69.95464091
+_cell_angle_gamma   71.91419891
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2Se12O
+_chemical_formula_sum   'Cd2 Se12 O1'
+_cell_volume   453.62920362
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.92328328  0.12971596  0.44551328  1
+  Cd  Cd1  1  0.30135987  0.42013942  0.60170841  1
+  Se  Se2  1  0.89082614  0.31633791  -0.02072274  1
+  Se  Se3  1  0.02289026  0.71038141  0.46529157  1
+  Se  Se4  1  0.32075742  0.48826257  0.79720893  1
+  Se  Se5  1  0.40088051  0.92527963  0.87203526  1
+  Se  Se6  1  0.50067374  0.14735742  0.47041679  1
+  Se  Se7  1  0.08651092  0.47821597  0.25687773  1
+  Se  Se8  1  0.16246021  0.02463288  0.05348299  1
+  Se  Se9  1  0.87743262  0.24898494  0.66694708  1
+  Se  Se10  1  0.74314193  0.94432786  0.86511631  1
+  Se  Se11  1  0.44256173  0.39921976  0.25415763  1
+  Se  Se12  1  0.58471829  0.12215427  0.10539860  1
+  Se  Se13  1  0.66023032  0.60751641  0.66889829  1
+  O  O14  1  0.66273157  0.87968282  0.22093999  1

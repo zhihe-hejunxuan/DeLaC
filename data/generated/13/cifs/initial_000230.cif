@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiAl2Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.82942629
+_cell_length_b   6.02562883
+_cell_length_c   2.80035331
+_cell_angle_alpha   103.41034901
+_cell_angle_beta   90.15868936
+_cell_angle_gamma   47.67541887
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAl2Cu
+_chemical_formula_sum   'Li1 Al2 Cu1'
+_cell_volume   57.25856614
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.87311191  0.74660106  0.87428960  1
+  Al  Al1  1  0.61169984  0.26549690  0.63476523  1
+  Al  Al2  1  0.13454342  0.22763284  0.11379871  1
+  Cu  Cu3  1  0.37314707  0.74655948  0.37424176  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2CdSn7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16757620
+_cell_length_b   5.16757620
+_cell_length_c   13.00669407
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2CdSn7
+_chemical_formula_sum   'Rb2 Cd1 Sn7'
+_cell_volume   347.32872697
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.50000000  0.00000000  0.75396349  1.0
+  Rb  Rb1  1  0.00000000  0.50000000  0.24603651  1.0
+  Cd  Cd2  1  0.50000000  0.50000000  0.00000000  1.0
+  Sn  Sn3  1  0.00000000  0.50000000  0.87463511  1.0
+  Sn  Sn4  1  0.50000000  0.00000000  0.37236196  1.0
+  Sn  Sn5  1  0.50000000  0.00000000  0.12536489  1.0
+  Sn  Sn6  1  0.00000000  0.50000000  0.62763804  1.0
+  Sn  Sn7  1  0.00000000  0.00000000  0.50000000  1.0
+  Sn  Sn8  1  0.00000000  0.00000000  0.00000000  1.0
+  Sn  Sn9  1  0.50000000  0.50000000  0.50000000  1.0

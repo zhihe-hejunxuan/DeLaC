@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiCdPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45936501
+_cell_length_b   3.52067623
+_cell_length_c   9.33852441
+_cell_angle_alpha   79.67801383
+_cell_angle_beta   70.51725112
+_cell_angle_gamma   91.10011473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCdPb2
+_chemical_formula_sum   'Li1 Cd1 Pb2'
+_cell_volume   105.10613254
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.40763053  0.31906529  0.89352391  1
+  Cd  Cd1  1  -0.10217410  0.09153361  0.37381419  1
+  Pb  Pb2  1  0.70423462  0.71634035  0.11545770  1
+  Pb  Pb3  1  0.11201297  0.91968218  0.67000569  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Dy5O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67420219
+_cell_length_b   5.45936712
+_cell_length_c   3.33241308
+_cell_angle_alpha   68.38108438
+_cell_angle_beta   71.85274449
+_cell_angle_gamma   70.27408354
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy5O4
+_chemical_formula_sum   'Dy5 O4'
+_cell_volume   72.69519045
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.15128478  0.32689089  0.86333127  1
+  Dy  Dy1  1  0.10379310  0.76016927  0.81978581  1
+  Dy  Dy2  1  0.39598959  0.76589441  0.56538284  1
+  Dy  Dy3  1  0.83908132  0.26826296  0.16487661  1
+  Dy  Dy4  1  0.45287033  0.17284748  0.49034107  1
+  O  O5  1  0.49999388  0.22120683  0.32187817  1
+  O  O6  1  0.82234823  0.64786506  0.11224314  1
+  O  O7  1  0.83992296  0.20327747  0.11743430  1
+  O  O8  1  0.48730437  0.76161536  0.43705302  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Gd3SbC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91014067
+_cell_length_b   4.91033406
+_cell_length_c   4.90999451
+_cell_angle_alpha   90.00128800
+_cell_angle_beta   89.99939562
+_cell_angle_gamma   90.00101055
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3SbC
+_chemical_formula_sum   'Gd3 Sb1 C1'
+_cell_volume   118.38208356
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.99999985  0.50000243  0.00000089  1.0
+  Gd  Gd1  1  0.00000161  0.00000555  0.49999769  1.0
+  Gd  Gd2  1  0.49999922  0.99999603  0.00000239  1.0
+  Sb  Sb3  1  0.50000011  0.49999711  0.50000054  1.0
+  C  C4  1  0.99999921  0.99999889  0.99999849  1.0

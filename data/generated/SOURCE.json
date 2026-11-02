@@ -1,0 +1,86 @@
+{
+  "generator": "DeLaC (full-covariance empirical Gaussian)",
+  "arm": "Raw",
+  "paper_table": "Table 1 (tab:quality)",
+  "seeds": [
+    13,
+    37,
+    73
+  ],
+  "request_records": 3000,
+  "final_cif_files": 2966,
+  "evaluable_records": 2948,
+  "structure_stage": "Final structure after the archived relaxation attempt; convergence is recorded separately.",
+  "layout": "Each seed directory contains labels.csv and cifs/. CIF paths are relative to that seed directory.",
+  "label_definitions": {
+    "stable": "Original DPA-derived hull label at E_hull <= 0.1 eV/atom.",
+    "unique": "Original within-seed label in the evaluated Raw pool; not recomputed across seeds.",
+    "novel": "Original reference-dataset novelty label.",
+    "evaluated": "A complete original stable/unique/novel label record is available.",
+    "sun": "Intersection of the original stable/unique/novel labels; failed or unevaluable requests count as non-SUN in the 1000-request denominator."
+  },
+  "missing_values": "Blank stable/unique/novel cells mean no original label is available, not False. Blank cif_file means no final CIF is available. No placeholder or pre-relaxation CIF is substituted.",
+  "labels_recomputed": false,
+  "seed_counts": [
+    {
+      "seed": 13,
+      "request_records": 1000,
+      "final_cif_files": 990,
+      "evaluable_records": 981,
+      "sun_count": 225
+    },
+    {
+      "seed": 37,
+      "request_records": 1000,
+      "final_cif_files": 990,
+      "evaluable_records": 984,
+      "sun_count": 216
+    },
+    {
+      "seed": 73,
+      "request_records": 1000,
+      "final_cif_files": 986,
+      "evaluable_records": 983,
+      "sun_count": 233
+    }
+  ],
+  "original_run_id": "ours_8seed_four_arm/run_20260918_083240",
+  "source_files_sha256": [
+    {
+      "source": "result/final_experiments/experiment_speed/ours_8seed_four_arm/run_20260918_083240/seed_13/stage1/raw/selected_1000.csv",
+      "sha256": "be03eb8ece446e67a61181ec66d402a6e71f1282da71cacf927f42b635352336"
+    },
+    {
+      "source": "result/final_experiments/experiment_speed/ours_8seed_four_arm/run_20260918_083240/seed_13/raw/ordinary_workers_2_raw/relaxed_merged.csv",
+      "sha256": "2d13bd4f2ef5776ebc50b29a02fcdff111a0bd9f5078703b32ce91b85c855b47"
+    },
+    {
+      "source": "result/final_experiments/experiment_speed/ours_8seed_four_arm/run_20260918_083240/seed_13/raw/sun_relaxed_labels.csv",
+      "sha256": "ea68d505e8743a3672329a6bccdb701fdd73434b60d1ea826bf6299f3f45b5f1"
+    },
+    {
+      "source": "result/final_experiments/experiment_speed/ours_8seed_four_arm/run_20260918_083240/seed_37/stage1/raw/selected_1000.csv",
+      "sha256": "52124375128db829481b04cb9753eee8214b2b076abfc04495cfd007c440b802"
+    },
+    {
+      "source": "result/final_experiments/experiment_speed/ours_8seed_four_arm/run_20260918_083240/seed_37/raw/ordinary_workers_2_raw/relaxed_merged.csv",
+      "sha256": "dbe51148f4a5d8b48d5f2c86ffc91cc2aefa7045e78c788d23b3b6435a9114e7"
+    },
+    {
+      "source": "result/final_experiments/experiment_speed/ours_8seed_four_arm/run_20260918_083240/seed_37/raw/sun_relaxed_labels.csv",
+      "sha256": "5866fd9a4329868c3e4c2c6904b10aaa0c86602b4b51f606f0f1326b8ba7cbec"
+    },
+    {
+      "source": "result/final_experiments/experiment_speed/ours_8seed_four_arm/run_20260918_083240/seed_73/stage1/raw/selected_1000.csv",
+      "sha256": "5b7aa28fa500c8bb5aa755c4a49c306e213a5bd9aeab936a2217d122e1f9e119"
+    },
+    {
+      "source": "result/final_experiments/experiment_speed/ours_8seed_four_arm/run_20260918_083240/seed_73/raw/ordinary_workers_2_raw/relaxed_merged.csv",
+      "sha256": "4446b137d1b14650d127df3b9908a5c314ea395fa75312b2bea2845729792d41"
+    },
+    {
+      "source": "result/final_experiments/experiment_speed/ours_8seed_four_arm/run_20260918_083240/seed_73/raw/sun_relaxed_labels.csv",
+      "sha256": "54722ba9467dd4574f2502d7646d58af0fe81441a249d4172d036747d2882436"
+    }
+  ]
+}

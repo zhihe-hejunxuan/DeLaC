@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_FeIr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81754801
+_cell_length_b   3.81844800
+_cell_length_c   3.80641072
+_cell_angle_alpha   89.98852338
+_cell_angle_beta   90.02963092
+_cell_angle_gamma   90.13602345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeIr3
+_chemical_formula_sum   'Fe1 Ir3'
+_cell_volume   55.48629734
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.74990053  0.25023495  0.24994149  1
+  Ir  Ir1  1  0.74983451  0.75055005  0.74996333  1
+  Ir  Ir2  1  0.24985946  0.25016139  0.74995813  1
+  Ir  Ir3  1  0.25035139  0.74911020  0.24995260  1

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_KTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75204451
+_cell_length_b   4.73521707
+_cell_length_c   12.08784537
+_cell_angle_alpha   99.24097730
+_cell_angle_beta   96.40516076
+_cell_angle_gamma   98.91662304
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTe4
+_chemical_formula_sum   'K1 Te4'
+_cell_volume   262.61604409
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.59672310  0.39756674  1.00172953  1
+  Te  Te1  1  0.27403878  0.57828562  0.74862417  1
+  Te  Te2  1  0.95352103  0.20563030  0.24575131  1
+  Te  Te3  1  0.41683348  0.86171902  0.23677952  1
+  Te  Te4  1  0.94815835  0.06139510  0.77506961  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr2CuO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04461200
+_cell_length_b   4.63775674
+_cell_length_c   7.03683164
+_cell_angle_alpha   92.05102481
+_cell_angle_beta   98.60990544
+_cell_angle_gamma   104.36703560
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CuO8
+_chemical_formula_sum   'Sr2 Cu1 O8'
+_cell_volume   188.39511770
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.57045281  0.70702381  0.08656086  1
+  Sr  Sr1  1  0.63374592  0.28084179  0.61654108  1
+  Cu  Cu2  1  0.10192614  0.99388758  0.85147237  1
+  O  O3  1  0.37730426  0.83200799  0.38921333  1
+  O  O4  1  0.81812107  0.44351135  0.31692500  1
+  O  O5  1  0.82535895  0.15641051  0.31392622  1
+  O  O6  1  0.31802194  0.34770421  0.80490086  1
+  O  O7  1  0.43023666  0.15659822  0.93946270  1
+  O  O8  1  0.38732919  0.54607147  0.38641756  1
+  O  O9  1  0.77334883  0.83188049  0.76363366  1
+  O  O10  1  0.88553873  0.64023649  0.89775931  1

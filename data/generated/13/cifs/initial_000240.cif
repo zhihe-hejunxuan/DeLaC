@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Yb5Hg4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30693331
+_cell_length_b   6.47606429
+_cell_length_c   8.39954726
+_cell_angle_alpha   75.04969379
+_cell_angle_beta   71.44584855
+_cell_angle_gamma   89.65108421
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb5Hg4
+_chemical_formula_sum   'Yb5 Hg4'
+_cell_volume   263.49598417
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.10912564  0.58933481  0.87240892  1
+  Yb  Yb1  1  0.71188083  -0.00456920  0.67482980  1
+  Yb  Yb2  1  0.91619743  0.78833810  0.25864008  1
+  Yb  Yb3  1  0.51638567  0.19556030  0.06115340  1
+  Yb  Yb4  1  0.31543983  0.39346584  0.46524193  1
+  Hg  Hg5  1  0.71563164  0.49695802  0.66158634  1
+  Hg  Hg6  1  0.50990609  0.69035339  0.06926279  1
+  Hg  Hg7  1  0.11575424  0.09466313  0.86516163  1
+  Hg  Hg8  1  0.91226322  0.28668540  0.27156827  1

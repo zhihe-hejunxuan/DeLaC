@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_I3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38475243
+_cell_length_b   7.33643666
+_cell_length_c   7.13433676
+_cell_angle_alpha   86.02646349
+_cell_angle_beta   105.89390179
+_cell_angle_gamma   84.03428743
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   I3O2
+_chemical_formula_sum   'I6 O4'
+_cell_volume   367.79670984
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.43426172  0.37238554  0.40653364  1
+  I  I1  1  0.14950925  0.23687029  0.72425079  1
+  I  I2  1  0.11561558  0.92982959  0.11877642  1
+  I  I3  1  0.94034515  0.65137794  0.41946327  1
+  I  I4  1  0.38189191  0.78949508  0.90986257  1
+  I  I5  1  0.63393111  0.69546688  0.64827498  1
+  O  O6  1  0.13412133  0.65905827  0.25868355  1
+  O  O7  1  0.63885226  0.20453432  0.52927872  1
+  O  O8  1  0.23075214  0.25235153  0.43706981  1
+  O  O9  1  1.11330432  0.19914905  0.99092462  1

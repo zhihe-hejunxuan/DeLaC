@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ga2FeC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.81245548
+_cell_length_b   4.86221913
+_cell_length_c   5.80098728
+_cell_angle_alpha   71.40124581
+_cell_angle_beta   59.67368785
+_cell_angle_gamma   66.23875540
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2FeC
+_chemical_formula_sum   'Ga2 Fe1 C1'
+_cell_volume   61.99482652
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  1.06481316  0.70885159  0.29495105  1
+  Ga  Ga1  1  0.07950937  0.10226725  0.68428025  1
+  Fe  Fe2  1  0.89345106  0.24778387  0.27503209  1
+  C  C3  1  0.69653346  0.12844054  0.07156663  1

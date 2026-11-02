@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Hf5TeCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45377114
+_cell_length_b   6.80849879
+_cell_length_c   8.89547838
+_cell_angle_alpha   77.10846488
+_cell_angle_beta   78.41665810
+_cell_angle_gamma   90.24216921
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf5TeCl2
+_chemical_formula_sum   'Hf5 Te1 Cl2'
+_cell_volume   199.48846436
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.35679622  0.89291226  0.91403841  1
+  Hf  Hf1  1  0.72872621  0.62367506  0.15915331  1
+  Hf  Hf2  1  0.76476076  0.15026180  0.08886104  1
+  Hf  Hf3  1  -0.09496843  0.57310561  0.82466246  1
+  Hf  Hf4  1  -0.03066409  0.17567221  0.69785001  1
+  Te  Te5  1  0.14392281  0.30008131  0.32145791  1
+  Cl  Cl6  1  0.50806469  0.46910623  0.62723429  1
+  Cl  Cl7  1  0.61580814  0.85183147  0.34338064  1

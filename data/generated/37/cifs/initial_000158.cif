@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_HoMn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50654297
+_cell_length_b   4.96141907
+_cell_length_c   3.50646248
+_cell_angle_alpha   89.79905132
+_cell_angle_beta   90.24975802
+_cell_angle_gamma   134.83879514
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMn
+_chemical_formula_sum   'Ho1 Mn1'
+_cell_volume   43.25671626
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  1.00007116  0.25007567  0.75005361  1
+  Mn  Mn1  1  -0.00007114  0.74992432  0.24994639  1

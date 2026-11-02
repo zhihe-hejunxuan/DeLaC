@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CeHg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89299851
+_cell_length_b   4.88902149
+_cell_length_c   8.45618467
+_cell_angle_alpha   89.93202408
+_cell_angle_beta   89.97302698
+_cell_angle_gamma   90.13275905
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeHg3
+_chemical_formula_sum   'Ce2 Hg6'
+_cell_volume   202.28792898
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.74993642  0.74896580  0.37334949  1
+  Ce  Ce1  1  0.25014598  0.25109888  0.87284873  1
+  Hg  Hg2  1  0.24953864  0.24680555  0.37336711  1
+  Hg  Hg3  1  0.74940951  0.25043947  0.62294250  1
+  Hg  Hg4  1  0.75011319  0.25059571  0.12346543  1
+  Hg  Hg5  1  0.75048531  0.75324582  0.87285301  1
+  Hg  Hg6  1  0.24996118  0.74944057  0.12273707  1
+  Hg  Hg7  1  0.25066259  0.74958450  0.62326235  1

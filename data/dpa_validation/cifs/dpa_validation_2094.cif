@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Li2Y(MgCd)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96652109
+_cell_length_b   4.97840435
+_cell_length_c   7.81171371
+_cell_angle_alpha   70.98898889
+_cell_angle_beta   108.53532928
+_cell_angle_gamma   119.92107134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Y(MgCd)2
+_chemical_formula_sum   'Li2 Y1 Mg2 Cd2'
+_cell_volume   155.40030505
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.85158192  0.15036545  0.55279838  1.0
+  Li  Li1  1  0.14841808  0.84963455  0.44720162  1.0
+  Y  Y2  1  0.00000000  0.00000000  0.00000000  1.0
+  Mg  Mg3  1  0.42329483  0.57284071  0.27374895  1.0
+  Mg  Mg4  1  0.57670517  0.42715929  0.72625105  1.0
+  Cd  Cd5  1  0.27479891  0.72913103  0.82046680  1.0
+  Cd  Cd6  1  0.72520109  0.27086897  0.17953320  1.0

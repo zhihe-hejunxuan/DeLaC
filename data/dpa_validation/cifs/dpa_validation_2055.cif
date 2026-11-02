@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiLa(BiPd2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.64209979
+_cell_length_b   4.64209979
+_cell_length_c   9.24208393
+_cell_angle_alpha   75.45506349
+_cell_angle_beta   104.54493651
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLa(BiPd2)2
+_chemical_formula_sum   'Li1 La1 Bi2 Pd4'
+_cell_volume   165.06492701
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.50000000  0.50000000  1.0
+  La  La1  1  0.00000000  0.00000000  0.00000000  1.0
+  Bi  Bi2  1  0.75914278  0.24085722  0.27742833  1.0
+  Bi  Bi3  1  0.24085722  0.75914278  0.72257167  1.0
+  Pd  Pd4  1  0.39759035  0.60240965  0.19277105  1.0
+  Pd  Pd5  1  0.86499834  0.13500166  0.59499503  1.0
+  Pd  Pd6  1  0.13500166  0.86499834  0.40500497  1.0
+  Pd  Pd7  1  0.60240965  0.39759035  0.80722895  1.0

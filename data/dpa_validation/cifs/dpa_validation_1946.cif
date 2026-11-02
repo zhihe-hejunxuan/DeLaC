@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ho8NiAg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17524893
+_cell_length_b   6.74965638
+_cell_length_c   9.05927488
+_cell_angle_alpha   106.22725233
+_cell_angle_beta   106.59666732
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho8NiAg2
+_chemical_formula_sum   'Ho8 Ni1 Ag2'
+_cell_volume   290.08778915
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.41025749  0.56557933  0.82051497  1.0
+  Ho  Ho1  1  0.65757884  0.96779262  0.31515768  1.0
+  Ho  Ho2  1  0.79876885  0.69062603  0.59753769  1.0
+  Ho  Ho3  1  0.97306793  0.21351410  0.94613587  1.0
+  Ho  Ho4  1  0.20123115  0.30937397  0.40246231  1.0
+  Ho  Ho5  1  0.34242116  0.03220738  0.68484232  1.0
+  Ho  Ho6  1  0.58974251  0.43442067  0.17948503  1.0
+  Ho  Ho7  1  0.02693207  0.78648590  0.05386413  1.0
+  Ni  Ni8  1  0.50000000  0.00000000  0.00000000  1.0
+  Ag  Ag9  1  0.81431129  0.27754312  0.62862259  1.0
+  Ag  Ag10  1  0.18568871  0.72245688  0.37137741  1.0

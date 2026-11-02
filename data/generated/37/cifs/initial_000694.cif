@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_K2AgHgF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75843102
+_cell_length_b   3.84825114
+_cell_length_c   9.18576759
+_cell_angle_alpha   88.96641051
+_cell_angle_beta   119.04227117
+_cell_angle_gamma   110.31466278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2AgHgF4
+_chemical_formula_sum   'K2 Ag1 Hg1 F4'
+_cell_volume   164.05591887
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.66311259  1.00798562  0.82434767  1
+  K  K1  1  0.35544887  0.85842850  0.07720710  1
+  Ag  Ag2  1  1.01471658  0.20426647  0.60813229  1
+  Hg  Hg3  1  0.25786954  0.30238893  0.41869757  1
+  F  F4  1  0.52407194  0.94768244  0.40136315  1
+  F  F5  1  0.39431811  0.37521412  0.88539390  1
+  F  F6  1  0.08529782  0.21545181  0.13704029  1
+  F  F7  1  0.84066973  0.59986536  0.70375461  1

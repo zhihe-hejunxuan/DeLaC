@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca2Zn5Cu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70764964
+_cell_length_b   8.43299733
+_cell_length_c   8.43299733
+_cell_angle_alpha   80.71677848
+_cell_angle_beta   70.21986525
+_cell_angle_gamma   70.21986525
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Zn5Cu3
+_chemical_formula_sum   'Ca4 Zn10 Cu6'
+_cell_volume   358.91494615
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.62949568  0.13188746  0.60912118  1.0
+  Ca  Ca1  1  0.12949568  0.60912118  0.13188746  1.0
+  Ca  Ca2  1  0.37050432  0.86811254  0.39087882  1.0
+  Ca  Ca3  1  0.87050432  0.39087882  0.86811254  1.0
+  Zn  Zn4  1  0.88900134  0.96278876  0.25920855  1.0
+  Zn  Zn5  1  0.38900134  0.25920855  0.96278876  1.0
+  Zn  Zn6  1  0.11099866  0.03721124  0.74079145  1.0
+  Zn  Zn7  1  0.61099866  0.74079145  0.03721124  1.0
+  Zn  Zn8  1  0.48512105  0.76487895  0.76487895  1.0
+  Zn  Zn9  1  0.51487895  0.23512105  0.23512105  1.0
+  Zn  Zn10  1  0.75000000  0.50000000  0.50000000  1.0
+  Zn  Zn11  1  0.25000000  0.50000000  0.50000000  1.0
+  Zn  Zn12  1  0.01487895  0.23512105  0.23512105  1.0
+  Zn  Zn13  1  0.98512105  0.76487895  0.76487895  1.0
+  Cu  Cu14  1  0.86943135  0.75866898  0.50246832  1.0
+  Cu  Cu15  1  0.36943135  0.50246832  0.75866898  1.0
+  Cu  Cu16  1  0.13056865  0.24133102  0.49753168  1.0
+  Cu  Cu17  1  0.63056865  0.49753168  0.24133102  1.0
+  Cu  Cu18  1  0.25000000  0.00000000  0.00000000  1.0
+  Cu  Cu19  1  0.75000000  0.00000000  0.00000000  1.0

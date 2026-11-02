@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_RbZnTeCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47790211
+_cell_length_b   7.17596241
+_cell_length_c   7.64936607
+_cell_angle_alpha   83.50271065
+_cell_angle_beta   65.24531287
+_cell_angle_gamma   80.42346933
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbZnTeCl6
+_chemical_formula_sum   'Rb1 Zn1 Te1 Cl6'
+_cell_volume   318.03157980
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.92664724  0.04722842  0.05726725  1.0
+  Zn  Zn1  1  0.25980012  0.39259707  0.32992718  1.0
+  Te  Te2  1  0.64560587  0.54395823  0.67002637  1.0
+  Cl  Cl3  1  0.59009522  0.37583684  0.38460779  1.0
+  Cl  Cl4  1  0.74254167  0.66089478  0.90519694  1.0
+  Cl  Cl5  1  0.07584483  0.68820021  0.32143126  1.0
+  Cl  Cl6  1  0.38734985  0.82411378  0.65601715  1.0
+  Cl  Cl7  1  0.99597628  0.24614565  0.60748315  1.0
+  Cl  Cl8  1  0.37632535  0.22093601  0.06809301  1.0

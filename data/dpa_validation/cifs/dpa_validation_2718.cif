@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Nb2Tl2AgSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66589238
+_cell_length_b   6.66589238
+_cell_length_c   7.79784432
+_cell_angle_alpha   96.80530147
+_cell_angle_beta   96.80530147
+_cell_angle_gamma   118.19917082
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2Tl2AgSe6
+_chemical_formula_sum   'Nb2 Tl2 Ag1 Se6'
+_cell_volume   297.12538000
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.35778174  0.64221826  0.50000000  1.0
+  Nb  Nb1  1  0.64221826  0.35778174  0.50000000  1.0
+  Tl  Tl2  1  0.82990942  0.17009058  0.00000000  1.0
+  Tl  Tl3  1  0.17009058  0.82990942  0.00000000  1.0
+  Ag  Ag4  1  0.00000000  0.00000000  0.50000000  1.0
+  Se  Se5  1  0.34750481  0.34750481  0.25471962  1.0
+  Se  Se6  1  0.59230789  0.95846257  0.31909467  1.0
+  Se  Se7  1  0.65249519  0.65249519  0.74528038  1.0
+  Se  Se8  1  0.95846257  0.59230789  0.31909467  1.0
+  Se  Se9  1  0.40769211  0.04153743  0.68090533  1.0
+  Se  Se10  1  0.04153743  0.40769211  0.68090533  1.0

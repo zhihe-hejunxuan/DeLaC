@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba2Ti(TlTe2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06039400
+_cell_length_b   8.31500130
+_cell_length_c   8.32519694
+_cell_angle_alpha   119.95949641
+_cell_angle_beta   100.24313577
+_cell_angle_gamma   69.13989690
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Ti(TlTe2)3
+_chemical_formula_sum   'Ba2 Ti1 Tl3 Te6'
+_cell_volume   451.72918655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.33446204  0.66892408  1.0
+  Ba  Ba1  1  0.00000000  0.66553796  0.33107592  1.0
+  Ti  Ti2  1  0.00000000  0.00000000  0.00000000  1.0
+  Tl  Tl3  1  0.50000000  0.16486517  0.32973035  1.0
+  Tl  Tl4  1  0.50000000  0.83513483  0.67026965  1.0
+  Tl  Tl5  1  0.50000000  0.50000000  0.00000000  1.0
+  Te  Te6  1  0.77933113  0.35157655  0.27546318  1.0
+  Te  Te7  1  0.22667058  0.20152266  0.00000000  1.0
+  Te  Te8  1  0.22066887  0.64842345  0.72453682  1.0
+  Te  Te9  1  0.77933113  0.07611337  0.72453682  1.0
+  Te  Te10  1  0.77332942  0.79847734  0.00000000  1.0
+  Te  Te11  1  0.22066887  0.92388663  0.27546318  1.0

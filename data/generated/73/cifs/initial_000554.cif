@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_CeGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.19821884
+_cell_length_b   3.02142539
+_cell_length_c   2.20259336
+_cell_angle_alpha   79.24559363
+_cell_angle_beta   60.42554603
+_cell_angle_gamma   76.71250145
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeGa
+_chemical_formula_sum   'Ce1 Ga1'
+_cell_volume   17.94807969
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.92277349  0.93951390  0.87564941  1
+  Ga  Ga1  1  0.07722651  0.06048610  0.12435060  1

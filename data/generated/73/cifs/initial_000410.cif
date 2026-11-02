@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Na3Tl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30019205
+_cell_length_b   7.36121119
+_cell_length_c   3.70042303
+_cell_angle_alpha   102.99938536
+_cell_angle_beta   72.89798931
+_cell_angle_gamma   86.42604812
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Tl2
+_chemical_formula_sum   'Na3 Tl2'
+_cell_volume   158.29436915
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.34079015  0.56321744  -0.38592865  1
+  Na  Na1  1  0.83335761  0.39446839  0.85913596  1
+  Na  Na2  1  0.01049336  0.92191495  0.43743209  1
+  Tl  Tl3  1  0.32384643  0.19117627  -0.05999239  1
+  Tl  Tl4  1  0.58305771  0.85858490  1.13052905  1

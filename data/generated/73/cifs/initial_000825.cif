@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_ErMgCd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03832425
+_cell_length_b   5.04309788
+_cell_length_c   3.35223575
+_cell_angle_alpha   89.98836503
+_cell_angle_beta   90.07209265
+_cell_angle_gamma   119.98540936
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErMgCd
+_chemical_formula_sum   'Er1 Mg1 Cd1'
+_cell_volume   73.77549514
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.01440237  0.63854977  0.65343030  1
+  Mg  Mg1  1  0.68179510  0.97273707  0.15352342  1
+  Cd  Cd2  1  0.34638672  0.30374656  1.15261922  1

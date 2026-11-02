@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ce2Ga2Fe2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10986730
+_cell_length_b   5.75822711
+_cell_length_c   5.87745646
+_cell_angle_alpha   75.16400710
+_cell_angle_beta   69.53532913
+_cell_angle_gamma   69.09195575
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Ga2Fe2C
+_chemical_formula_sum   'Ce2 Ga2 Fe2 C1'
+_cell_volume   120.35679201
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.44983487  0.27936879  0.82096146  1.0
+  Ce  Ce1  1  0.55016513  0.72063121  0.17903854  1.0
+  Ga  Ga2  1  0.83643789  0.71549138  0.61163284  1.0
+  Ga  Ga3  1  0.16356211  0.28450862  0.38836716  1.0
+  Fe  Fe4  1  0.80780049  0.08585268  0.29854635  1.0
+  Fe  Fe5  1  0.19219951  0.91414732  0.70145365  1.0
+  C  C6  1  0.00000000  0.00000000  0.00000000  1.0

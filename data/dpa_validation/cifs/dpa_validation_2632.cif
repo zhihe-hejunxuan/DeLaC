@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca2Ga2SiRh5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13334228
+_cell_length_b   10.26319505
+_cell_length_c   10.26319505
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Ga2SiRh5
+_chemical_formula_sum   'Ca4 Ga4 Si2 Rh10'
+_cell_volume   330.04488323
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.67091112  0.17091112  1.0
+  Ca  Ca1  1  0.00000000  0.32908888  0.82908888  1.0
+  Ca  Ca2  1  0.00000000  0.17091112  0.32908888  1.0
+  Ca  Ca3  1  0.00000000  0.82908888  0.67091112  1.0
+  Ga  Ga4  1  0.00000000  0.13174358  0.63174358  1.0
+  Ga  Ga5  1  0.00000000  0.86825642  0.36825642  1.0
+  Ga  Ga6  1  0.00000000  0.63174358  0.86825642  1.0
+  Ga  Ga7  1  0.00000000  0.36825642  0.13174358  1.0
+  Si  Si8  1  0.00000000  0.00000000  0.00000000  1.0
+  Si  Si9  1  0.00000000  0.50000000  0.50000000  1.0
+  Rh  Rh10  1  0.50000000  0.18835440  0.06170544  1.0
+  Rh  Rh11  1  0.50000000  0.81164560  0.93829456  1.0
+  Rh  Rh12  1  0.50000000  0.06170544  0.81164560  1.0
+  Rh  Rh13  1  0.50000000  0.68835440  0.43829456  1.0
+  Rh  Rh14  1  0.50000000  0.93829456  0.18835440  1.0
+  Rh  Rh15  1  0.50000000  0.31164560  0.56170544  1.0
+  Rh  Rh16  1  0.50000000  0.56170544  0.68835440  1.0
+  Rh  Rh17  1  0.50000000  0.43829456  0.31164560  1.0
+  Rh  Rh18  1  0.50000000  0.50000000  0.00000000  1.0
+  Rh  Rh19  1  0.50000000  0.00000000  0.50000000  1.0

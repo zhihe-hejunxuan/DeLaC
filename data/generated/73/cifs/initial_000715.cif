@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Dy2Ge2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91489975
+_cell_length_b   3.91124463
+_cell_length_c   8.47314168
+_cell_angle_alpha   101.70891033
+_cell_angle_beta   102.00738039
+_cell_angle_gamma   87.58687903
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Ge2Sb
+_chemical_formula_sum   'Dy2 Ge2 Sb1'
+_cell_volume   124.26250932
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.35058263  0.78518577  0.20105666  1
+  Dy  Dy1  1  0.61010138  1.04593598  0.63234367  1
+  Ge  Ge2  1  0.23170088  0.16635774  0.91685891  1
+  Ge  Ge3  1  0.73115796  0.66140403  0.91640291  1
+  Sb  Sb4  1  0.98108255  0.41682420  0.41696353  1

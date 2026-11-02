@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaHo(InS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.86183875
+_cell_length_b   7.86183875
+_cell_length_c   7.90649869
+_cell_angle_alpha   60.18667598
+_cell_angle_beta   60.18667598
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHo(InS2)4
+_chemical_formula_sum   'Na1 Ho1 In4 S8'
+_cell_volume   346.52704287
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.62747790  0.62747790  0.11756631  1.0
+  Ho  Ho1  1  0.99267841  0.99267841  0.02196477  1.0
+  In  In2  1  0.37698514  0.37698514  0.86904458  1.0
+  In  In3  1  0.99439406  0.99439406  0.49166630  1.0
+  In  In4  1  0.51954557  0.99439406  0.49166630  1.0
+  In  In5  1  0.99439406  0.51954557  0.49166630  1.0
+  S  S6  1  0.75373996  0.75373996  0.26875643  1.0
+  S  S7  1  0.22376364  0.75373996  0.26875643  1.0
+  S  S8  1  0.75373996  0.22376364  0.26875643  1.0
+  S  S9  1  0.76191963  0.76191963  0.71424110  1.0
+  S  S10  1  0.24335202  0.24335202  0.73917479  1.0
+  S  S11  1  0.77412116  0.24335202  0.73917479  1.0
+  S  S12  1  0.24335202  0.77412116  0.73917479  1.0
+  S  S13  1  0.24053440  0.24053440  0.27839680  1.0

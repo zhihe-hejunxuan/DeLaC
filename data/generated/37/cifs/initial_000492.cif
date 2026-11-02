@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Yb2CdAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28962067
+_cell_length_b   6.63047768
+_cell_length_c   5.87994571
+_cell_angle_alpha   125.32047329
+_cell_angle_beta   111.37551904
+_cell_angle_gamma   89.93326604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb2CdAu2
+_chemical_formula_sum   'Yb2 Cd1 Au2'
+_cell_volume   122.14021654
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  1.18443445  0.69673874  0.35226660  1
+  Yb  Yb1  1  0.59393167  0.10528312  0.16992328  1
+  Cd  Cd2  1  0.38818405  0.40117891  0.76147040  1
+  Au  Au3  1  -0.11072037  0.11501512  0.76150449  1
+  Au  Au4  1  0.88668206  0.68655414  0.75882865  1

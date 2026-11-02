@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_DyGa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.30804313
+_cell_length_b   4.47753807
+_cell_length_c   5.54588378
+_cell_angle_alpha   89.96569769
+_cell_angle_beta   89.43063337
+_cell_angle_gamma   89.90619183
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyGa3
+_chemical_formula_sum   'Dy1 Ga3'
+_cell_volume   82.14083524
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.26543313  0.74524630  0.37516524  1
+  Ga  Ga1  1  0.76026734  0.24480342  0.61252573  1
+  Ga  Ga2  1  0.77060104  0.24569509  0.13780620  1
+  Ga  Ga3  1  0.76544538  0.74525213  0.87517445  1

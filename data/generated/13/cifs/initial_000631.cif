@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyHg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87051431
+_cell_length_b   7.32602862
+_cell_length_c   6.96091260
+_cell_angle_alpha   77.49944563
+_cell_angle_beta   84.69153011
+_cell_angle_gamma   99.90899211
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyHg
+_chemical_formula_sum   'Dy6 Hg6'
+_cell_volume   333.87767617
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.39857645  0.06664686  0.79488853  1
+  Dy  Dy1  1  0.85452682  0.51944910  0.32989228  1
+  Dy  Dy2  1  0.86521910  0.89658782  0.61743213  1
+  Dy  Dy3  1  0.35439217  0.69152671  0.50419056  1
+  Dy  Dy4  1  0.36705449  0.40368105  0.12336853  1
+  Dy  Dy5  1  0.90055647  0.22517808  0.95964168  1
+  Hg  Hg6  1  0.09858972  0.66464281  0.90745278  1
+  Hg  Hg7  1  0.59192705  0.11258255  0.35111053  1
+  Hg  Hg8  1  0.63833359  0.80879860  0.07164878  1
+  Hg  Hg9  1  0.13641252  0.95375186  0.21401843  1
+  Hg  Hg10  1  0.64537334  0.48132503  0.74265997  1
+  Hg  Hg11  1  0.13608622  0.28399478  0.53931110  1

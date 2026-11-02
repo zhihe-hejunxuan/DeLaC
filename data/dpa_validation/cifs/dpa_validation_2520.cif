@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_AlAgGeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.76327539
+_cell_length_b   6.38194313
+_cell_length_c   6.38194313
+_cell_angle_alpha   53.68375742
+_cell_angle_beta   116.84187871
+_cell_angle_gamma   116.84187871
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlAgGeS4
+_chemical_formula_sum   'Al1 Ag1 Ge1 S4'
+_cell_volume   163.13274302
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.50000000  0.50000000  0.50000000  1.0
+  Ag  Ag1  1  0.00000000  0.00000000  0.00000000  1.0
+  Ge  Ge2  1  0.25000000  0.75000000  0.75000000  1.0
+  S  S3  1  0.15094929  0.12458642  0.60928310  1.0
+  S  S4  1  0.39071690  0.84905071  0.41707978  1.0
+  S  S5  1  0.58292022  0.60928310  0.12458642  1.0
+  S  S6  1  0.87541358  0.41707978  0.84905071  1.0

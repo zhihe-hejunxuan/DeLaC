@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_LiGaCo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92374325
+_cell_length_b   2.67250175
+_cell_length_c   4.40417891
+_cell_angle_alpha   89.20605862
+_cell_angle_beta   90.44007339
+_cell_angle_gamma   89.98941626
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGaCo
+_chemical_formula_sum   'Li1 Ga1 Co1'
+_cell_volume   46.17735018
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.19619665  0.18309469  0.27301369  1
+  Ga  Ga1  1  0.69063689  0.16974152  0.77439291  1
+  Co  Co2  1  0.19096753  0.67199851  0.77228330  1

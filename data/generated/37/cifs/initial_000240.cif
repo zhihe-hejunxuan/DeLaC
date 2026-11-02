@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_ZrSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45687239
+_cell_length_b   4.05051597
+_cell_length_c   6.27247618
+_cell_angle_alpha   110.17270291
+_cell_angle_beta   105.93879723
+_cell_angle_gamma   89.99782652
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSb2
+_chemical_formula_sum   'Zr1 Sb2'
+_cell_volume   78.83379138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.67498183  0.31355920  0.00019107  1
+  Sb  Sb1  1  0.30884055  0.95674934  0.26895501  1
+  Sb  Sb2  1  0.04111784  0.67039430  0.73137231  1

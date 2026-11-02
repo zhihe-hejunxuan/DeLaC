@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Pr2InHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91957200
+_cell_length_b   5.71986372
+_cell_length_c   6.17501360
+_cell_angle_alpha   85.38258409
+_cell_angle_beta   90.26260242
+_cell_angle_gamma   64.84772082
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2InHg2
+_chemical_formula_sum   'Pr2 In1 Hg2'
+_cell_volume   156.62922144
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.96233984  0.80229019  0.77075412  1
+  Pr  Pr1  1  0.36553837  -0.00907294  0.22920165  1
+  In  In2  1  0.66393903  0.39659411  -0.00001522  1
+  Hg  Hg3  1  0.05807377  0.60060522  0.28865313  1
+  Hg  Hg4  1  0.26978674  0.19263687  0.71127470  1

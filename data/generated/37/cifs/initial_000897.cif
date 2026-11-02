@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Be4PtO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71872489
+_cell_length_b   4.45826991
+_cell_length_c   7.12263839
+_cell_angle_alpha   60.99335658
+_cell_angle_beta   51.68622375
+_cell_angle_gamma   69.12979046
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be4PtO4
+_chemical_formula_sum   'Be4 Pt1 O4'
+_cell_volume   102.48379625
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.69911737  0.86738523  0.35175079  1
+  Be  Be1  1  0.41464013  0.56281903  0.29789588  1
+  Be  Be2  1  0.68810288  0.34032495  0.60503491  1
+  Be  Be3  1  -0.02742125  0.64489308  0.65888864  1
+  Pt  Pt4  1  0.69361024  0.10385519  0.97839256  1
+  O  O5  1  0.98309629  0.62531174  0.42363389  1
+  O  O6  1  0.64929453  0.24995451  0.22420267  1
+  O  O7  1  0.73792510  -0.04224222  0.73258245  1
+  O  O8  1  0.40412539  0.58239951  0.53315062  1

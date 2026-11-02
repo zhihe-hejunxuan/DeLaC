@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Pr3(FeNi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09145254
+_cell_length_b   5.46576765
+_cell_length_c   8.31623415
+_cell_angle_alpha   100.74249961
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.97980532
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr3(FeNi2)2
+_chemical_formula_sum   'Pr3 Fe2 Ni4'
+_cell_volume   168.93804949
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.37717935  0.75435870  0.62442241  1.0
+  Pr  Pr1  1  0.00000000  0.00000000  0.00000000  1.0
+  Pr  Pr2  1  0.62282065  0.24564130  0.37557759  1.0
+  Fe  Fe3  1  0.32263325  0.64526649  0.21613600  1.0
+  Fe  Fe4  1  0.67736675  0.35473351  0.78386400  1.0
+  Ni  Ni5  1  0.74056440  0.48112880  0.08199565  1.0
+  Ni  Ni6  1  0.08912399  0.17824798  0.64050644  1.0
+  Ni  Ni7  1  0.91087601  0.82175202  0.35949356  1.0
+  Ni  Ni8  1  0.25943560  0.51887120  0.91800435  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbDy(BeCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23157916
+_cell_length_b   6.23157916
+_cell_length_c   10.49487539
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.27071046
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbDy(BeCl4)2
+_chemical_formula_sum   'Rb1 Dy1 Be2 Cl8'
+_cell_volume   331.55532872
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.50000000  0.50000000  1.0
+  Dy  Dy1  1  0.00000000  0.00000000  0.00000000  1.0
+  Be  Be2  1  0.51037771  0.74481114  0.76556657  1.0
+  Be  Be3  1  0.48962229  0.25518886  0.23443343  1.0
+  Cl  Cl4  1  0.37867851  0.81066075  0.56801776  1.0
+  Cl  Cl5  1  0.24677882  0.03089701  0.83906423  1.0
+  Cl  Cl6  1  0.62132149  0.18933925  0.43198224  1.0
+  Cl  Cl7  1  0.86996124  0.72232417  0.83906423  1.0
+  Cl  Cl8  1  0.13003876  0.27767583  0.16093577  1.0
+  Cl  Cl9  1  0.56138840  0.40771459  0.83906423  1.0
+  Cl  Cl10  1  0.43861160  0.59228541  0.16093577  1.0
+  Cl  Cl11  1  0.75322118  0.96910299  0.16093577  1.0

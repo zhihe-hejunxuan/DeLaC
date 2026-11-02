@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_VSn2PbCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35733135
+_cell_length_b   6.64981640
+_cell_length_c   8.40859208
+_cell_angle_alpha   89.07025841
+_cell_angle_beta   89.95013748
+_cell_angle_gamma   89.03438555
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VSn2PbCl8
+_chemical_formula_sum   'V1 Sn2 Pb1 Cl8'
+_cell_volume   355.37661747
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.00000000  0.00000000  0.00000000  1.0
+  Sn  Sn1  1  0.51296038  0.51779422  0.23219459  1.0
+  Sn  Sn2  1  0.48703962  0.48220578  0.76780541  1.0
+  Pb  Pb3  1  0.00000000  0.00000000  0.50000000  1.0
+  Cl  Cl4  1  0.76476424  0.13513120  0.78056428  1.0
+  Cl  Cl5  1  0.77343270  0.69560122  0.01952718  1.0
+  Cl  Cl6  1  0.20940830  0.83319988  0.78369841  1.0
+  Cl  Cl7  1  0.23523576  0.86486880  0.21943572  1.0
+  Cl  Cl8  1  0.22656730  0.30439878  0.98047282  1.0
+  Cl  Cl9  1  0.79059170  0.16680012  0.21630159  1.0
+  Cl  Cl10  1  0.72625215  0.65440008  0.48353698  1.0
+  Cl  Cl11  1  0.27374785  0.34559992  0.51646302  1.0

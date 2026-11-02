@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pr2ZnHPd6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80284295
+_cell_length_b   5.80841161
+_cell_length_c   6.91284922
+_cell_angle_alpha   65.21010909
+_cell_angle_beta   65.40719629
+_cell_angle_gamma   60.11712300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2ZnHPd6
+_chemical_formula_sum   'Pr2 Zn1 H1 Pd6'
+_cell_volume   176.93328617
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.27223789  0.27104155  0.18315828  1.0
+  Pr  Pr1  1  0.72776211  0.72895845  0.81684172  1.0
+  Zn  Zn2  1  0.00000000  0.00000000  0.00000000  1.0
+  H  H3  1  0.50000000  0.50000000  0.50000000  1.0
+  Pd  Pd4  1  0.72827107  0.22805762  0.31379545  1.0
+  Pd  Pd5  1  0.23139961  0.72658434  0.31212785  1.0
+  Pd  Pd6  1  0.72915168  0.72754023  0.31051651  1.0
+  Pd  Pd7  1  0.27084832  0.27245977  0.68948349  1.0
+  Pd  Pd8  1  0.76860039  0.27341566  0.68787215  1.0
+  Pd  Pd9  1  0.27172893  0.77194238  0.68620455  1.0

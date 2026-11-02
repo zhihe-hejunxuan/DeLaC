@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Mn6PtO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03159390
+_cell_length_b   5.59057127
+_cell_length_c   10.95025251
+_cell_angle_alpha   129.79534864
+_cell_angle_beta   100.25656272
+_cell_angle_gamma   89.32083938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn6PtO6
+_chemical_formula_sum   'Mn6 Pt1 O6'
+_cell_volume   184.89050833
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.13037362  0.22459237  0.07262482  1
+  Mn  Mn1  1  0.26610740  0.96066355  0.35178247  1
+  Mn  Mn2  1  0.62431805  0.71146950  0.05393287  1
+  Mn  Mn3  1  0.75699881  0.43860874  0.34128340  1
+  Mn  Mn4  1  0.89604359  0.39216072  0.62709767  1
+  Mn  Mn5  1  0.38815686  0.81989119  0.62422266  1
+  Pt  Pt6  1  -0.00529800  0.23009247  0.82949962  1
+  O  O7  1  0.63425307  0.11079401  0.07700378  1
+  O  O8  1  0.38506487  0.40381393  0.60447157  1
+  O  O9  1  0.13503375  0.62178022  0.07271469  1
+  O  O10  1  0.75686481  0.04687566  0.33582754  1
+  O  O11  1  0.25988733  0.57949385  0.35161560  1
+  O  O12  1  0.87935680  0.77686168  0.60655683  1

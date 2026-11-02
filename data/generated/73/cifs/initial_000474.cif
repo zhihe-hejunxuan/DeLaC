@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Dy2Er2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.66663382
+_cell_length_b   6.10433699
+_cell_length_c   8.05344442
+_cell_angle_alpha   124.15609774
+_cell_angle_beta   124.99473717
+_cell_angle_gamma   90.38896966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Er2Ni
+_chemical_formula_sum   'Dy2 Er2 Ni1'
+_cell_volume   136.00581665
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.31773259  0.09764091  0.67194077  1
+  Dy  Dy1  1  0.31406198  0.60336748  0.16826238  1
+  Er  Er2  1  0.97596356  0.31617413  0.33558342  1
+  Er  Er3  1  0.97188519  0.81120092  0.83082637  1
+  Ni  Ni4  1  0.63033860  0.70265522  0.98817803  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_HfIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.22187821
+_cell_length_b   3.49461352
+_cell_length_c   6.79505896
+_cell_angle_alpha   87.35787281
+_cell_angle_beta   96.86790954
+_cell_angle_gamma   78.32985010
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfIrO6
+_chemical_formula_sum   'Hf1 Ir1 O6'
+_cell_volume   74.19328386
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.18929529  0.79491820  0.40656458  1
+  Ir  Ir1  1  0.58534178  0.38257233  0.94625196  1
+  O  O2  1  0.97006782  1.00247324  0.60085363  1
+  O  O3  1  0.36516455  0.56537091  0.20539623  1
+  O  O4  1  0.03069641  0.04291409  0.59179606  1
+  O  O5  1  0.48604229  0.63345451  0.19464209  1
+  O  O6  1  0.56121297  0.40585629  0.98651444  1
+  O  O7  1  0.88991601  0.20643051  0.80717036  1

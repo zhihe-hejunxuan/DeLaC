@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_TlHg6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42360389
+_cell_length_b   5.32452282
+_cell_length_c   8.54995879
+_cell_angle_alpha   72.78310432
+_cell_angle_beta   69.88140328
+_cell_angle_gamma   94.58558404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlHg6
+_chemical_formula_sum   'Tl1 Hg6'
+_cell_volume   216.85761883
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.38013505  0.89274047  0.62474130  1
+  Hg  Hg1  1  0.01026200  0.00727416  0.38319062  1
+  Hg  Hg2  1  0.08221198  0.62031239  0.15050785  1
+  Hg  Hg3  1  0.93388476  0.38999937  0.61447985  1
+  Hg  Hg4  1  0.62553063  0.09236157  0.15277467  1
+  Hg  Hg5  1  0.27547339  0.26410776  0.87610159  1
+  Hg  Hg6  1  0.71657375  0.71332958  0.91979492  1

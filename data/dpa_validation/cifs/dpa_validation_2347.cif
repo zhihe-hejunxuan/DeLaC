@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Co2SbPbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23115807
+_cell_length_b   5.23115807
+_cell_length_c   6.67745667
+_cell_angle_alpha   66.93950062
+_cell_angle_beta   113.06049938
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2SbPbO6
+_chemical_formula_sum   'Co2 Sb1 Pb1 O6'
+_cell_volume   141.13575541
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.63894168  0.36105832  0.91682503  1.0
+  Co  Co1  1  0.98718335  0.01281665  0.96155004  1.0
+  Sb  Sb2  1  0.31926006  0.68073994  0.95778018  1.0
+  Pb  Pb3  1  0.81387029  0.18612971  0.44161088  1.0
+  O  O4  1  0.22585750  0.05559767  0.77638653  1.0
+  O  O5  1  0.94440233  0.39387330  0.77638653  1.0
+  O  O6  1  0.60612670  0.77414250  0.77638653  1.0
+  O  O7  1  0.71678931  0.95371488  0.12595642  1.0
+  O  O8  1  0.04628512  0.63711801  0.12595642  1.0
+  O  O9  1  0.36288199  0.28321069  0.12595642  1.0

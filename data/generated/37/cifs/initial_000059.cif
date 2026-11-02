@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Bi5Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96835101
+_cell_length_b   3.42799520
+_cell_length_c   8.66766961
+_cell_angle_alpha   74.34746148
+_cell_angle_beta   78.11936168
+_cell_angle_gamma   91.08393002
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi5Sb
+_chemical_formula_sum   'Bi5 Sb1'
+_cell_volume   110.75830772
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.32836120  0.29692304  0.29777190  1
+  Bi  Bi1  1  0.67747995  1.14175966  0.69785483  1
+  Bi  Bi2  1  0.32815595  0.62422045  0.30686955  1
+  Bi  Bi3  1  0.64607731  0.06148274  0.68793944  1
+  Bi  Bi4  1  0.13399188  1.04644089  0.76199839  1
+  Sb  Sb5  1  0.33436232  0.95794423  0.29330561  1

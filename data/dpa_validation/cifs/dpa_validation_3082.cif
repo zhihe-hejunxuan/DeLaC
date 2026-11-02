@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sm2Cu2AgPd5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97738738
+_cell_length_b   9.40531083
+_cell_length_c   9.40531083
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Cu2AgPd5
+_chemical_formula_sum   'Sm4 Cu4 Ag2 Pd10'
+_cell_volume   351.83917739
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.00000000  0.67879951  0.17879951  1.0
+  Sm  Sm1  1  0.00000000  0.32120049  0.82120049  1.0
+  Sm  Sm2  1  0.00000000  0.17879951  0.32120049  1.0
+  Sm  Sm3  1  0.00000000  0.82120049  0.67879951  1.0
+  Cu  Cu4  1  0.00000000  0.11808602  0.61808602  1.0
+  Cu  Cu5  1  0.00000000  0.88191398  0.38191398  1.0
+  Cu  Cu6  1  0.00000000  0.61808602  0.88191398  1.0
+  Cu  Cu7  1  0.00000000  0.38191398  0.11808602  1.0
+  Ag  Ag8  1  0.00000000  0.00000000  0.00000000  1.0
+  Ag  Ag9  1  0.00000000  0.50000000  0.50000000  1.0
+  Pd  Pd10  1  0.50000000  0.20712005  0.06796223  1.0
+  Pd  Pd11  1  0.50000000  0.79287995  0.93203777  1.0
+  Pd  Pd12  1  0.50000000  0.06796223  0.79287995  1.0
+  Pd  Pd13  1  0.50000000  0.70712005  0.43203777  1.0
+  Pd  Pd14  1  0.50000000  0.93203777  0.20712005  1.0
+  Pd  Pd15  1  0.50000000  0.29287995  0.56796223  1.0
+  Pd  Pd16  1  0.50000000  0.56796223  0.70712005  1.0
+  Pd  Pd17  1  0.50000000  0.43203777  0.29287995  1.0
+  Pd  Pd18  1  0.50000000  0.50000000  0.00000000  1.0
+  Pd  Pd19  1  0.50000000  0.00000000  0.50000000  1.0

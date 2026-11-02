@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Pr4Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.69157652
+_cell_length_b   6.59411621
+_cell_length_c   8.69790940
+_cell_angle_alpha   113.24927651
+_cell_angle_beta   110.95693326
+_cell_angle_gamma   92.17575720
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr4Rh
+_chemical_formula_sum   'Pr8 Rh2'
+_cell_volume   322.04541549
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.58324045  -0.01172152  0.10349827  1
+  Pr  Pr1  1  -0.01359526  0.88099881  0.90811452  1
+  Pr  Pr2  1  0.93945607  0.29955565  0.60041851  1
+  Pr  Pr3  1  0.65244949  0.34563614  0.89742794  1
+  Pr  Pr4  1  0.30139873  0.02857597  0.40074329  1
+  Pr  Pr5  1  0.83585335  0.69493500  0.40036418  1
+  Pr  Pr6  1  0.40138122  0.63509420  0.60036899  1
+  Pr  Pr7  1  0.25052733  0.44844607  0.09264180  1
+  Rh  Rh8  1  0.23316160  0.03664352  0.74055048  1
+  Rh  Rh9  1  1.00616706  0.29265050  0.26208690  1

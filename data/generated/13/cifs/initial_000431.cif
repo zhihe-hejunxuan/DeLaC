@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_GeKr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00934031
+_cell_length_b   4.09122103
+_cell_length_c   12.00476694
+_cell_angle_alpha   108.03019601
+_cell_angle_beta   118.23967823
+_cell_angle_gamma   121.60501654
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeKr2
+_chemical_formula_sum   'Ge1 Kr2'
+_cell_volume   98.88572755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.02997707  -0.30466788  0.04250703  1
+  Kr  Kr1  1  1.10151502  1.47889527  0.81090513  1
+  Kr  Kr2  1  -0.04359095  -0.14669518  0.27336440  1

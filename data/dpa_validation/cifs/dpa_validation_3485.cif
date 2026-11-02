@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sc2VB2Os5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.02256251
+_cell_length_b   9.43476263
+_cell_length_c   9.43476263
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2VB2Os5
+_chemical_formula_sum   'Sc4 V2 B4 Os10'
+_cell_volume   269.05263365
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.67546556  0.17546556  1.0
+  Sc  Sc1  1  0.00000000  0.32453444  0.82453444  1.0
+  Sc  Sc2  1  0.00000000  0.17546556  0.32453444  1.0
+  Sc  Sc3  1  0.00000000  0.82453444  0.67546556  1.0
+  V  V4  1  0.00000000  0.00000000  0.00000000  1.0
+  V  V5  1  0.00000000  0.50000000  0.50000000  1.0
+  B  B6  1  0.00000000  0.12361746  0.62361746  1.0
+  B  B7  1  0.00000000  0.87638254  0.37638254  1.0
+  B  B8  1  0.00000000  0.62361746  0.87638254  1.0
+  B  B9  1  0.00000000  0.37638254  0.12361746  1.0
+  Os  Os10  1  0.50000000  0.21220872  0.06869505  1.0
+  Os  Os11  1  0.50000000  0.78779128  0.93130495  1.0
+  Os  Os12  1  0.50000000  0.06869505  0.78779128  1.0
+  Os  Os13  1  0.50000000  0.71220872  0.43130495  1.0
+  Os  Os14  1  0.50000000  0.93130495  0.21220872  1.0
+  Os  Os15  1  0.50000000  0.28779128  0.56869505  1.0
+  Os  Os16  1  0.50000000  0.56869505  0.71220872  1.0
+  Os  Os17  1  0.50000000  0.43130495  0.28779128  1.0
+  Os  Os18  1  0.50000000  0.50000000  0.00000000  1.0
+  Os  Os19  1  0.50000000  0.00000000  0.50000000  1.0

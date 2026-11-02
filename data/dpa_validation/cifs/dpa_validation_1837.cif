@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ca4DyHo3Te8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.76698991
+_cell_length_b   8.76698991
+_cell_length_c   8.89235064
+_cell_angle_alpha   60.46525907
+_cell_angle_beta   60.46525907
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4DyHo3Te8
+_chemical_formula_sum   'Ca4 Dy1 Ho3 Te8'
+_cell_volume   486.65500161
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00000000  1.0
+  Ca  Ca1  1  0.00000000  0.50000000  0.00000000  1.0
+  Ca  Ca2  1  0.50000000  0.50000000  0.00000000  1.0
+  Ca  Ca3  1  0.50000000  0.00000000  0.00000000  1.0
+  Dy  Dy4  1  0.50000000  0.50000000  0.50000000  1.0
+  Ho  Ho5  1  0.00000000  0.00000000  0.50000000  1.0
+  Ho  Ho6  1  0.00000000  0.50000000  0.50000000  1.0
+  Ho  Ho7  1  0.50000000  0.00000000  0.50000000  1.0
+  Te  Te8  1  0.74836281  0.24725853  0.25601585  1.0
+  Te  Te9  1  0.74836281  0.74836281  0.25601585  1.0
+  Te  Te10  1  0.75218647  0.75218647  0.74344059  1.0
+  Te  Te11  1  0.24725853  0.74836281  0.25601585  1.0
+  Te  Te12  1  0.75274147  0.25163719  0.74398415  1.0
+  Te  Te13  1  0.24781353  0.24781353  0.25655941  1.0
+  Te  Te14  1  0.25163719  0.25163719  0.74398415  1.0
+  Te  Te15  1  0.25163719  0.75274147  0.74398415  1.0

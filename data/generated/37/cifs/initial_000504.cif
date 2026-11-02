@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_Ho2Hf
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78104051
+_cell_length_b   5.86293300
+_cell_length_c   3.40768118
+_cell_angle_alpha   106.91932477
+_cell_angle_beta   89.98744377
+_cell_angle_gamma   66.03848468
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Hf
+_chemical_formula_sum   'Ho2 Hf1'
+_cell_volume   82.74059729
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.33749659  0.66433786  0.32665013  1
+  Ho  Ho1  1  0.66253836  0.01496736  1.00638882  1
+  Hf  Hf2  1  0.00002646  0.33964354  0.66652111  1

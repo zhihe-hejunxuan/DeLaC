@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Cl4O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02165501
+_cell_length_b   8.12546237
+_cell_length_c   3.95619564
+_cell_angle_alpha   104.21127535
+_cell_angle_beta   88.54623228
+_cell_angle_gamma   77.93275214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cl4O
+_chemical_formula_sum   'Cl4 O1'
+_cell_volume   152.52610691
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.69984906  0.09950199  1.01051945  1
+  Cl  Cl1  1  0.81545808  0.47498278  0.94313399  1
+  Cl  Cl2  1  0.22322878  0.47804966  0.93357159  1
+  Cl  Cl3  1  0.51109945  0.91141881  0.74762264  1
+  O  O4  1  -0.06030349  0.03643342  0.20372568  1

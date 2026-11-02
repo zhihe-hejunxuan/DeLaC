@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SmCoH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86606114
+_cell_length_b   3.86606114
+_cell_length_c   7.65182650
+_cell_angle_alpha   75.36719293
+_cell_angle_beta   75.36719293
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmCoH
+_chemical_formula_sum   'Sm2 Co2 H2'
+_cell_volume   94.73752274
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.40693832  0.40693832  0.77918504  1.0
+  Sm  Sm1  1  0.59306168  0.59306168  0.22081496  1.0
+  Co  Co2  1  0.16601036  0.16601036  0.50196893  1.0
+  Co  Co3  1  0.83398964  0.83398964  0.49803107  1.0
+  H  H4  1  0.70060814  0.70060814  0.89817558  1.0
+  H  H5  1  0.29939186  0.29939186  0.10182442  1.0

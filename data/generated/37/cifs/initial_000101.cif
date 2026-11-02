@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_FeRe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.66098343
+_cell_length_b   4.23317914
+_cell_length_c   8.48351914
+_cell_angle_alpha   60.07067104
+_cell_angle_beta   91.21524566
+_cell_angle_gamma   89.79780342
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeRe2
+_chemical_formula_sum   'Fe2 Re4'
+_cell_volume   82.78831278
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.76304611  -0.01458556  0.60520147  1
+  Fe  Fe1  1  0.22320575  0.99996860  0.09155382  1
+  Re  Re2  1  1.20904468  0.31621305  0.27626373  1
+  Re  Re3  1  0.71696419  0.67070932  0.42043355  1
+  Re  Re4  1  0.25751990  0.33874783  0.75315186  1
+  Re  Re5  1  0.72239950  0.64581247  0.94361251  1

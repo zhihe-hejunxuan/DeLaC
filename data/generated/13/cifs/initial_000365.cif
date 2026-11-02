@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LaHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42377244
+_cell_length_b   6.70119958
+_cell_length_c   5.36451612
+_cell_angle_alpha   89.67190444
+_cell_angle_beta   60.36287451
+_cell_angle_gamma   88.98832757
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaHg2
+_chemical_formula_sum   'La2 Hg4'
+_cell_volume   169.44210554
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.68745758  0.33472853  0.65505508  1
+  La  La1  1  0.35339392  0.88635465  0.31740175  1
+  Hg  Hg2  1  0.34805323  0.39126044  0.32424230  1
+  Hg  Hg3  1  0.69204278  0.82773938  0.64885407  1
+  Hg  Hg4  1  0.02534134  0.11351921  0.97903428  1
+  Hg  Hg5  1  1.02639688  0.61348066  -0.01767858  1

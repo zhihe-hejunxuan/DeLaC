@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_HoEr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02608021
+_cell_length_b   5.03658581
+_cell_length_c   3.81749639
+_cell_angle_alpha   122.99666979
+_cell_angle_beta   113.28900724
+_cell_angle_gamma   94.89188451
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoEr
+_chemical_formula_sum   'Ho2 Er2'
+_cell_volume   68.54502390
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.73344394  0.69047492  0.79421785  1
+  Ho  Ho1  1  0.35762767  0.38422180  0.46157996  1
+  Er  Er2  1  0.08389116  0.10227192  0.17437001  1
+  Er  Er3  1  0.71309846  0.69856583  0.70887589  1

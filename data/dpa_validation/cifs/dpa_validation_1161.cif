@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Pr2Fe2Ni15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31627438
+_cell_length_b   6.31627438
+_cell_length_c   6.31627438
+_cell_angle_alpha   82.93610790
+_cell_angle_beta   82.93610790
+_cell_angle_gamma   82.93610790
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Fe2Ni15
+_chemical_formula_sum   'Pr2 Fe2 Ni15'
+_cell_volume   246.68632984
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.34328678  0.34328678  0.34328678  1.0
+  Pr  Pr1  1  0.65671322  0.65671322  0.65671322  1.0
+  Fe  Fe2  1  0.09366571  0.09366571  0.09366571  1.0
+  Fe  Fe3  1  0.90633429  0.90633429  0.90633429  1.0
+  Ni  Ni4  1  0.50000000  0.00000000  0.00000000  1.0
+  Ni  Ni5  1  0.00000000  0.00000000  0.50000000  1.0
+  Ni  Ni6  1  0.00000000  0.50000000  0.00000000  1.0
+  Ni  Ni7  1  0.00000000  0.70902488  0.29097512  1.0
+  Ni  Ni8  1  0.70902488  0.29097512  0.00000000  1.0
+  Ni  Ni9  1  0.29097512  0.00000000  0.70902488  1.0
+  Ni  Ni10  1  0.29097512  0.70902488  0.00000000  1.0
+  Ni  Ni11  1  0.70902488  0.00000000  0.29097512  1.0
+  Ni  Ni12  1  0.00000000  0.29097512  0.70902488  1.0
+  Ni  Ni13  1  0.15121548  0.65910242  0.65910242  1.0
+  Ni  Ni14  1  0.65910242  0.65910242  0.15121548  1.0
+  Ni  Ni15  1  0.65910242  0.15121548  0.65910242  1.0
+  Ni  Ni16  1  0.84878452  0.34089758  0.34089758  1.0
+  Ni  Ni17  1  0.34089758  0.34089758  0.84878452  1.0
+  Ni  Ni18  1  0.34089758  0.84878452  0.34089758  1.0

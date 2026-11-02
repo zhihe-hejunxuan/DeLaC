@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2ZnInAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96580956
+_cell_length_b   8.00923276
+_cell_length_c   8.04325372
+_cell_angle_alpha   119.86017931
+_cell_angle_beta   111.76854050
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ZnInAu2
+_chemical_formula_sum   'Na4 Zn2 In2 Au4'
+_cell_volume   301.28633332
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.68317992  0.85797646  0.36635985  1.0
+  Na  Na1  1  0.18317992  0.50838339  0.36635985  1.0
+  Na  Na2  1  0.81682008  0.49161661  0.63364015  1.0
+  Na  Na3  1  0.31682008  0.14202354  0.63364015  1.0
+  Zn  Zn4  1  0.75000000  0.50000000  0.00000000  1.0
+  Zn  Zn5  1  0.25000000  0.50000000  0.00000000  1.0
+  In  In6  1  0.25000000  0.00000000  0.00000000  1.0
+  In  In7  1  0.75000000  0.00000000  0.00000000  1.0
+  Au  Au8  1  0.40952793  0.63794150  0.81905586  1.0
+  Au  Au9  1  0.59047207  0.36205850  0.18094414  1.0
+  Au  Au10  1  0.09047207  0.81888564  0.18094414  1.0
+  Au  Au11  1  0.90952793  0.18111436  0.81905586  1.0

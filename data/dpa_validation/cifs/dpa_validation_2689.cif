@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sm6AgSe3S2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.10197058
+_cell_length_b   8.36824466
+_cell_length_c   9.27844741
+_cell_angle_alpha   103.55715213
+_cell_angle_beta   102.77061382
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm6AgSe3S2
+_chemical_formula_sum   'Sm6 Ag1 Se3 S2'
+_cell_volume   301.50990205
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.67063410  0.10026597  0.34126820  1.0
+  Sm  Sm1  1  0.32960686  0.42725907  0.65921371  1.0
+  Sm  Sm2  1  0.32936590  0.89973403  0.65873180  1.0
+  Sm  Sm3  1  0.99423339  0.74133268  0.98846677  1.0
+  Sm  Sm4  1  0.00576661  0.25866732  0.01153323  1.0
+  Sm  Sm5  1  0.67039314  0.57274093  0.34078629  1.0
+  Ag  Ag6  1  0.50000000  0.00000000  0.00000000  1.0
+  Se  Se7  1  0.50000000  0.50000000  0.00000000  1.0
+  Se  Se8  1  0.16472142  0.83362940  0.32944284  1.0
+  Se  Se9  1  0.83527858  0.16637060  0.67055716  1.0
+  S  S10  1  0.16840491  0.33508635  0.33680983  1.0
+  S  S11  1  0.83159509  0.66491365  0.66319017  1.0

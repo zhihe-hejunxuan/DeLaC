@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_Co2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.47770074
+_cell_length_b   3.51213728
+_cell_length_c   4.28755858
+_cell_angle_alpha   114.20588269
+_cell_angle_beta   106.66717293
+_cell_angle_gamma   89.93134125
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2Ni
+_chemical_formula_sum   'Co2 Ni1'
+_cell_volume   32.30976130
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.67199904  0.33300878  1.00088882  1
+  Co  Co1  1  0.33666661  0.99726293  0.33002779  1
+  Ni  Ni2  1  0.00430012  0.66515149  0.66543841  1

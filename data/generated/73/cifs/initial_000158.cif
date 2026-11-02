@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Na3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57445220
+_cell_length_b   3.58175099
+_cell_length_c   9.79939039
+_cell_angle_alpha   90.13940087
+_cell_angle_beta   111.09001897
+_cell_angle_gamma   90.48241678
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Au
+_chemical_formula_sum   'Na3 Au1'
+_cell_volume   117.04969958
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.76962617  0.74849270  0.11650528  1
+  Na  Na1  1  0.95354778  0.23719130  0.80463447  1
+  Na  Na2  1  0.59939150  0.23091963  0.44322543  1
+  Au  Au3  1  0.27794811  0.73328666  0.62498788  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cu(Bi4Ir)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24773977
+_cell_length_b   9.05375921
+_cell_length_c   11.71321098
+_cell_angle_alpha   90.91120069
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu(Bi4Ir)3
+_chemical_formula_sum   'Cu1 Bi12 Ir3'
+_cell_volume   450.40985556
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.59268867  0.97939024  1.0
+  Bi  Bi1  1  0.50000000  0.79981561  0.60824325  1.0
+  Bi  Bi2  1  0.50000000  0.28337241  0.88511997  1.0
+  Bi  Bi3  1  0.00000000  0.21487356  0.39515477  1.0
+  Bi  Bi4  1  0.00000000  0.68985476  0.11927712  1.0
+  Bi  Bi5  1  0.50000000  0.89108722  0.91194386  1.0
+  Bi  Bi6  1  0.50000000  0.39877274  0.60635583  1.0
+  Bi  Bi7  1  0.00000000  0.10707797  0.08362112  1.0
+  Bi  Bi8  1  0.00000000  0.61598162  0.39867467  1.0
+  Bi  Bi9  1  0.50000000  0.91672410  0.32035033  1.0
+  Bi  Bi10  1  0.50000000  0.38943302  0.17699185  1.0
+  Bi  Bi11  1  0.00000000  0.09275592  0.68048389  1.0
+  Bi  Bi12  1  0.00000000  0.58524840  0.81868256  1.0
+  Ir  Ir13  1  0.50000000  0.10841707  0.52336085  1.0
+  Ir  Ir14  1  0.00000000  0.40688954  0.01545194  1.0
+  Ir  Ir15  1  0.00000000  0.90700838  0.47689772  1.0

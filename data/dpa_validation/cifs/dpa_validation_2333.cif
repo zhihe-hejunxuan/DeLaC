@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaErAgBr5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.95886971
+_cell_length_b   7.95886971
+_cell_length_c   10.35075156
+_cell_angle_alpha   100.31562506
+_cell_angle_beta   100.31562506
+_cell_angle_gamma   117.91988861
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaErAgBr5
+_chemical_formula_sum   'Na2 Er2 Ag2 Br10'
+_cell_volume   543.28074053
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.43446095  0.56553905  0.75000000  1.0
+  Na  Na1  1  0.56553905  0.43446095  0.25000000  1.0
+  Er  Er2  1  0.00000000  0.00000000  0.50000000  1.0
+  Er  Er3  1  0.00000000  0.00000000  0.00000000  1.0
+  Ag  Ag4  1  0.71793133  0.28206867  0.75000000  1.0
+  Ag  Ag5  1  0.28206867  0.71793133  0.25000000  1.0
+  Br  Br6  1  0.08026341  0.91973659  0.75000000  1.0
+  Br  Br7  1  0.91973659  0.08026341  0.25000000  1.0
+  Br  Br8  1  0.65866078  0.99435462  0.87260656  1.0
+  Br  Br9  1  0.34133922  0.00564538  0.12739344  1.0
+  Br  Br10  1  0.00564538  0.34133922  0.62739344  1.0
+  Br  Br11  1  0.99435462  0.65866078  0.37260656  1.0
+  Br  Br12  1  0.41078484  0.23827047  0.54448679  1.0
+  Br  Br13  1  0.58921516  0.76172953  0.45551321  1.0
+  Br  Br14  1  0.76172953  0.58921516  0.95551321  1.0
+  Br  Br15  1  0.23827047  0.41078484  0.04448679  1.0

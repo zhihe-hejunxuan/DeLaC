@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_KLuAs2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98547545
+_cell_length_b   5.94390438
+_cell_length_c   5.94390438
+_cell_angle_alpha   102.80656824
+_cell_angle_beta   96.27963541
+_cell_angle_gamma   96.27963541
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLuAs2O7
+_chemical_formula_sum   'K1 Lu1 As2 O7'
+_cell_volume   169.09451886
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.24042849  0.75957151  1.0
+  Lu  Lu1  1  0.50000000  0.63386701  0.36613299  1.0
+  As  As2  1  0.92114999  0.16941763  0.24576704  1.0
+  As  As3  1  0.07885001  0.75423296  0.83058237  1.0
+  O  O4  1  0.76519927  0.95661775  0.35557778  1.0
+  O  O5  1  0.21916819  0.31670925  0.39796596  1.0
+  O  O6  1  0.70876887  0.36006388  0.18665273  1.0
+  O  O7  1  0.23480073  0.64442222  0.04338225  1.0
+  O  O8  1  0.00000000  0.04193297  0.95806703  1.0
+  O  O9  1  0.29123113  0.81334727  0.63993612  1.0
+  O  O10  1  0.78083181  0.60203404  0.68329075  1.0

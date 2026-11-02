@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cd2SnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73336230
+_cell_length_b   6.56209774
+_cell_length_c   6.41588684
+_cell_angle_alpha   124.15125344
+_cell_angle_beta   90.47580347
+_cell_angle_gamma   89.37402839
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2SnO4
+_chemical_formula_sum   'Cd4 Sn2 O8'
+_cell_volume   199.74690570
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.23651722  0.72369213  0.58617931  1
+  Cd  Cd1  1  0.75462725  0.86967543  0.41207189  1
+  Cd  Cd2  1  0.71415102  0.58409016  0.80984479  1
+  Cd  Cd3  1  0.26713887  0.10894967  0.33492316  1
+  Sn  Sn4  1  0.74382723  0.17389645  0.01077495  1
+  Sn  Sn5  1  0.23724697  0.40751623  0.97686247  1
+  O  O6  1  0.12253731  0.76145287  0.24942277  1
+  O  O7  1  0.91321030  0.28314135  0.78443127  1
+  O  O8  1  0.87086612  0.82823026  0.72525083  1
+  O  O9  1  0.54657173  0.50229217  0.20478119  1
+  O  O10  1  0.43807818  0.07689586  0.76793125  1
+  O  O11  1  0.06418843  0.30554832  0.20035681  1
+  O  O12  1  0.34447829  0.47651607  0.71133100  1
+  O  O13  1  0.62556567  1.00132093  0.17693904  1

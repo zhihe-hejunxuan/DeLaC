@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ga8BiIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49101883
+_cell_length_b   4.73000471
+_cell_length_c   11.67367449
+_cell_angle_alpha   96.78980814
+_cell_angle_beta   106.09820144
+_cell_angle_gamma   86.65636489
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga8BiIr
+_chemical_formula_sum   'Ga8 Bi1 Ir1'
+_cell_volume   236.49894579
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.36563413  -0.04597472  0.25269440  1
+  Ga  Ga1  1  0.33867603  0.94704218  0.92526908  1
+  Ga  Ga2  1  0.22519639  0.44741407  0.32604467  1
+  Ga  Ga3  1  0.29492344  0.11968514  0.67494595  1
+  Ga  Ga4  1  0.77486737  0.67423808  0.63984617  1
+  Ga  Ga5  1  0.73019165  0.21260355  0.10226129  1
+  Ga  Ga6  1  -0.19047576  0.72366972  0.16998793  1
+  Ga  Ga7  1  0.78515204  0.57781065  0.41545193  1
+  Bi  Bi8  1  0.93918876  0.47221702  0.89660377  1
+  Ir  Ir9  1  0.35569149  0.63544789  0.73886994  1

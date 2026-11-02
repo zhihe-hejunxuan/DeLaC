@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScNi2AsO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09779789
+_cell_length_b   5.09779789
+_cell_length_c   5.46154309
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   62.17973944
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScNi2AsO6
+_chemical_formula_sum   'Sc1 Ni2 As1 O6'
+_cell_volume   103.54154075
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.37681486  0.18840743  0.43477770  1.0
+  Ni  Ni1  1  0.95365682  0.47682841  0.56951476  1.0
+  Ni  Ni2  1  0.96760022  0.98380011  0.04859966  1.0
+  As  As3  1  0.35874193  0.67937097  0.96188710  1.0
+  O  O4  1  0.46204010  0.04192982  0.75977419  1.0
+  O  O5  1  0.19829599  0.42011028  0.75977419  1.0
+  O  O6  1  0.82011553  0.77818571  0.75977419  1.0
+  O  O7  1  0.46325871  0.88020043  0.22982177  1.0
+  O  O8  1  0.88997780  0.58305829  0.22982177  1.0
+  O  O9  1  0.18711994  0.30691951  0.22982177  1.0

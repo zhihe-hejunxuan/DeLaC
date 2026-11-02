@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScZn2BiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39684996
+_cell_length_b   5.39684996
+_cell_length_c   5.74759044
+_cell_angle_alpha   61.99893069
+_cell_angle_beta   118.00106931
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScZn2BiO6
+_chemical_formula_sum   'Sc1 Zn2 Bi1 O6'
+_cell_volume   121.82395401
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.81163697  0.18836303  0.43491092  1.0
+  Zn  Zn1  1  0.53022216  0.46977784  0.59066647  1.0
+  Zn  Zn2  1  0.02891740  0.97108260  0.08675221  1.0
+  Bi  Bi3  1  0.31511335  0.68488665  0.94534006  1.0
+  O  O4  1  0.91567975  0.39072532  0.73737433  1.0
+  O  O5  1  0.60927468  0.78758010  0.73737433  1.0
+  O  O6  1  0.21241990  0.08432025  0.73737433  1.0
+  O  O7  1  0.10519661  0.58268054  0.23857792  1.0
+  O  O8  1  0.41731946  0.28393815  0.23857792  1.0
+  O  O9  1  0.71606185  0.89480339  0.23857792  1.0

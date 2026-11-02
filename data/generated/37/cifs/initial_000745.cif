@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_FeSbPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.82227658
+_cell_length_b   2.73245073
+_cell_length_c   7.82028431
+_cell_angle_alpha   119.17069288
+_cell_angle_beta   107.19797880
+_cell_angle_gamma   131.95934506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeSbPd
+_chemical_formula_sum   'Fe1 Sb1 Pd1'
+_cell_volume   11.32485972
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.91327962  1.16615723  0.13431601  1
+  Sb  Sb1  1  -0.19627774  -0.22467120  0.53122849  1
+  Pd  Pd2  1  0.34470777  1.03832619  0.41621555  1

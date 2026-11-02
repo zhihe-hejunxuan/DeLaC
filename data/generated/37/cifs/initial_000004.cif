@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BiBrO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00500724
+_cell_length_b   3.63003339
+_cell_length_c   13.05559338
+_cell_angle_alpha   97.95757833
+_cell_angle_beta   101.83612639
+_cell_angle_gamma   89.70648991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiBrO
+_chemical_formula_sum   'Bi2 Br2 O2'
+_cell_volume   183.92879784
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.10647064  0.23314650  0.89574554  1
+  Bi  Bi1  1  0.42531676  0.98590358  0.39157588  1
+  Br  Br2  1  0.81845176  0.89781986  0.23015663  1
+  Br  Br3  1  0.03344637  0.07207038  0.55227681  1
+  O  O4  1  0.64642015  0.26258416  0.95585095  1
+  O  O5  1  0.04785922  0.69035493  0.80926068  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PdSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27338612
+_cell_length_b   3.88442876
+_cell_length_c   7.65366129
+_cell_angle_alpha   60.14077244
+_cell_angle_beta   67.79216562
+_cell_angle_gamma   62.22075375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PdSe3
+_chemical_formula_sum   'Pd1 Se3'
+_cell_volume   95.70494554
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.40574205  0.35764854  0.89383951  1
+  Se  Se1  1  0.66784359  0.56200278  0.05613426  1
+  Se  Se2  1  0.32032066  0.12935607  0.66303722  1
+  Se  Se3  1  0.84030999  0.11567012  0.39415999  1

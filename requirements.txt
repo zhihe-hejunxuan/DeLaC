@@ -1,0 +1,27 @@
+# Linux/CUDA runtime; install in a separate Python 3.10 environment.
+--extra-index-url https://download.pytorch.org/whl/cu128
+--find-links https://data.pyg.org/whl/torch-2.8.0+cu128.html
+torch==2.8.0
+torch-geometric==2.6.1
+torch-scatter==2.1.2
+torch_sparse==0.6.18+pt28cu128
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.13.1
+pymatgen==2024.8.9
+ase==3.25.0
+scikit-learn==1.6.1
+SMACT==2.5.4
+matminer==0.9.2
+monty==2025.3.3
+sympy==1.14.0
+PyYAML==6.0.2
+joblib==1.4.2
+tqdm==4.67.1
+matplotlib==3.9.4
+cachetools==6.2.0
+lmdb==1.7.3
+psutil==7.0.0
+pathos==0.3.4
+typing_extensions==4.15.0
+UMNN==1.71

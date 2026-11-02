@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Eu2DyTiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70934092
+_cell_length_b   5.71590695
+_cell_length_c   5.76279795
+_cell_angle_alpha   61.13105557
+_cell_angle_beta   61.11436085
+_cell_angle_gamma   60.61465667
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2DyTiO6
+_chemical_formula_sum   'Eu2 Dy1 Ti1 O6'
+_cell_volume   135.83064384
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.75387981  0.75236722  0.72251158  1.0
+  Eu  Eu1  1  0.24612019  0.24763278  0.27748842  1.0
+  Dy  Dy2  1  0.00000000  0.00000000  0.00000000  1.0
+  Ti  Ti3  1  0.50000000  0.50000000  0.50000000  1.0
+  O  O4  1  0.67510747  0.19630044  0.33287755  1.0
+  O  O5  1  0.73166724  0.73003492  0.15784090  1.0
+  O  O6  1  0.26833276  0.26996508  0.84215910  1.0
+  O  O7  1  0.32489253  0.80369956  0.66712245  1.0
+  O  O8  1  0.19752676  0.67384472  0.33147915  1.0
+  O  O9  1  0.80247324  0.32615528  0.66852085  1.0

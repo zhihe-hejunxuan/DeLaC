@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_P2Cl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84979483
+_cell_length_b   6.39861094
+_cell_length_c   9.38707770
+_cell_angle_alpha   96.98636349
+_cell_angle_beta   101.94184534
+_cell_angle_gamma   97.96849780
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   P2Cl5
+_chemical_formula_sum   'P2 Cl5'
+_cell_volume   278.82596760
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.37451492  0.45248040  0.60696941  1
+  P  P1  1  0.70935082  0.99511645  0.22573628  1
+  Cl  Cl2  1  0.73330623  0.21519924  0.08571722  1
+  Cl  Cl3  1  0.40485263  0.13300083  0.60847470  1
+  Cl  Cl4  1  -0.29268642  0.59201644  0.78565891  1
+  Cl  Cl5  1  0.57100938  0.51742402  0.43664688  1
+  Cl  Cl6  1  1.29887664  0.83730641  0.13583712  1

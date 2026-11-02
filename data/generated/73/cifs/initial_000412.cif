@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_VZn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.56125561
+_cell_length_b   2.56150714
+_cell_length_c   4.13627442
+_cell_angle_alpha   90.04578310
+_cell_angle_beta   89.95544030
+_cell_angle_gamma   94.63688311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VZn
+_chemical_formula_sum   'V1 Zn1'
+_cell_volume   27.04791725
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.25150758  0.24797291  0.74950796  1
+  Zn  Zn1  1  0.74849242  0.75202711  0.25049204  1

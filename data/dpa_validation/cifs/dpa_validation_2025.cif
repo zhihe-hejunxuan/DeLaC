@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La6ZnS2I3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30615914
+_cell_length_b   7.30668313
+_cell_length_c   8.39271156
+_cell_angle_alpha   81.73811169
+_cell_angle_beta   73.29664917
+_cell_angle_gamma   60.00237228
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6ZnS2I3
+_chemical_formula_sum   'La6 Zn1 S2 I3'
+_cell_volume   371.64656508
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.06688783  0.34717785  0.79964552  1.0
+  La  La1  1  0.28058877  0.00000000  0.19785131  1.0
+  La  La2  1  0.93311217  0.65282215  0.20035448  1.0
+  La  La3  1  0.41406568  0.65282215  0.79964552  1.0
+  La  La4  1  0.71941123  0.00000000  0.80214869  1.0
+  La  La5  1  0.58593432  0.34717785  0.20035448  1.0
+  Zn  Zn6  1  0.00000000  0.00000000  0.00000000  1.0
+  S  S7  1  0.66746140  0.66507721  0.00000000  1.0
+  S  S8  1  0.33253860  0.33492279  0.00000000  1.0
+  I  I9  1  0.83772297  0.32455406  0.50000000  1.0
+  I  I10  1  0.16227703  0.67544594  0.50000000  1.0
+  I  I11  1  0.50000000  0.00000000  0.50000000  1.0

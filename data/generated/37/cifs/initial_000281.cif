@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Sr3Ce
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98312007
+_cell_length_b   16.48289329
+_cell_length_c   7.14603923
+_cell_angle_alpha   150.04566204
+_cell_angle_beta   73.47587689
+_cell_angle_gamma   119.16397542
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ce
+_chemical_formula_sum   'Sr3 Ce1'
+_cell_volume   194.07499421
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00110134  0.87582767  1.00141411  1
+  Sr  Sr1  1  -0.02063386  0.61627547  0.99389160  1
+  Sr  Sr2  1  1.01915045  0.13230732  0.00260729  1
+  Ce  Ce3  1  1.00044100  0.37562101  0.00204085  1

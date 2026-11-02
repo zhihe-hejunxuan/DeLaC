@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/microsoft/mattergen",
+  "dataset_directory": "https://github.com/microsoft/mattergen/tree/main/data-release/mp-20",
+  "experiment_source_commit": "ac9ddd406171138c3f037d06b9b53fedbbb1c536",
+  "input_files": [
+    "train.csv",
+    "val.csv",
+    "test.csv"
+  ],
+  "local_working_directory": "data/mp_20",
+  "csv_files_redistributed": false
+}

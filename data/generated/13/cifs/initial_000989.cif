@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_InHg5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.57972519
+_cell_length_b   3.72078981
+_cell_length_c   7.32551506
+_cell_angle_alpha   102.22933795
+_cell_angle_beta   100.20112614
+_cell_angle_gamma   95.54953872
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InHg5
+_chemical_formula_sum   'In1 Hg5'
+_cell_volume   66.97115387
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.53275902  0.72550078  0.71584961  1
+  Hg  Hg1  1  0.93923257  1.01219925  0.30518874  1
+  Hg  Hg2  1  0.31498199  0.96921783  0.24414660  1
+  Hg  Hg3  1  0.75558234  0.27906833  0.83807202  1
+  Hg  Hg4  1  0.40915047  0.01012963  0.24721064  1
+  Hg  Hg5  1  0.05249722  0.71784166  0.70960064  1

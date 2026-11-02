@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2SrHfCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44007179
+_cell_length_b   6.58927414
+_cell_length_c   8.46035580
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   92.42330600
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SrHfCl8
+_chemical_formula_sum   'Na2 Sr1 Hf1 Cl8'
+_cell_volume   358.69750437
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  0.25511316  1.0
+  Na  Na1  1  0.50000000  0.50000000  0.74488684  1.0
+  Sr  Sr2  1  0.00000000  0.00000000  0.50000000  1.0
+  Hf  Hf3  1  0.00000000  0.00000000  0.00000000  1.0
+  Cl  Cl4  1  0.79819044  0.16568703  0.79094809  1.0
+  Cl  Cl5  1  0.74544811  0.71035981  0.00000000  1.0
+  Cl  Cl6  1  0.20180956  0.83431297  0.79094809  1.0
+  Cl  Cl7  1  0.20180956  0.83431297  0.20905191  1.0
+  Cl  Cl8  1  0.25455189  0.28964019  0.00000000  1.0
+  Cl  Cl9  1  0.79819044  0.16568703  0.20905191  1.0
+  Cl  Cl10  1  0.71136968  0.67440593  0.50000000  1.0
+  Cl  Cl11  1  0.28863032  0.32559407  0.50000000  1.0

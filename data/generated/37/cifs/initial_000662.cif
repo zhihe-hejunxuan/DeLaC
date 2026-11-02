@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_GaRe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45972176
+_cell_length_b   2.73906122
+_cell_length_c   6.19698417
+_cell_angle_alpha   62.94800120
+_cell_angle_beta   50.03309463
+_cell_angle_gamma   60.27110323
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaRe
+_chemical_formula_sum   'Ga2 Re2'
+_cell_volume   60.37107085
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.50552118  0.25016113  0.25877233  1
+  Ga  Ga1  1  1.00603575  0.74210799  0.75896335  1
+  Re  Re2  1  0.50691030  0.74127874  0.75763842  1
+  Re  Re3  1  0.00625206  0.24457311  0.25810438  1

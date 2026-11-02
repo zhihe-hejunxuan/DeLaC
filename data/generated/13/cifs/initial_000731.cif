@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_Kr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18104043
+_cell_length_b   4.18905720
+_cell_length_c   7.42404032
+_cell_angle_alpha   77.33982942
+_cell_angle_beta   87.55136294
+_cell_angle_gamma   93.28037153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Kr
+_chemical_formula_sum   Kr2
+_cell_volume   126.45595241
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Kr  Kr0  1  0.22687730  0.93616162  0.75275001  1
+  Kr  Kr1  1  0.77312270  0.06383838  0.24724999  1

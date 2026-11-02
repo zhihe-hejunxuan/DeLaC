@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ho2FeCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92840896
+_cell_length_b   5.25099622
+_cell_length_c   5.35226144
+_cell_angle_alpha   119.37607773
+_cell_angle_beta   111.52984957
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2FeCo2
+_chemical_formula_sum   'Ho2 Fe1 Co2'
+_cell_volume   87.26270163
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.20091735  0.70091735  0.40183471  1.0
+  Ho  Ho1  1  0.79908265  0.29908265  0.59816529  1.0
+  Fe  Fe2  1  0.00000000  0.00000000  0.00000000  1.0
+  Co  Co3  1  0.50000000  0.26386093  0.00000000  1.0
+  Co  Co4  1  0.50000000  0.73613907  0.00000000  1.0

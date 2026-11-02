@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li2Be2CuAu5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.20605847
+_cell_length_b   9.76502358
+_cell_length_c   9.76502358
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Be2CuAu5
+_chemical_formula_sum   'Li4 Be4 Cu2 Au10'
+_cell_volume   305.71590275
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.67354016  0.17354016  1.0
+  Li  Li1  1  0.00000000  0.32645984  0.82645984  1.0
+  Li  Li2  1  0.00000000  0.17354016  0.32645984  1.0
+  Li  Li3  1  0.00000000  0.82645984  0.67354016  1.0
+  Be  Be4  1  0.00000000  0.12784602  0.62784602  1.0
+  Be  Be5  1  0.00000000  0.87215398  0.37215398  1.0
+  Be  Be6  1  0.00000000  0.62784602  0.87215398  1.0
+  Be  Be7  1  0.00000000  0.37215398  0.12784602  1.0
+  Cu  Cu8  1  0.00000000  0.00000000  0.00000000  1.0
+  Cu  Cu9  1  0.00000000  0.50000000  0.50000000  1.0
+  Au  Au10  1  0.50000000  0.20294602  0.07645872  1.0
+  Au  Au11  1  0.50000000  0.79705398  0.92354128  1.0
+  Au  Au12  1  0.50000000  0.07645872  0.79705398  1.0
+  Au  Au13  1  0.50000000  0.70294602  0.42354128  1.0
+  Au  Au14  1  0.50000000  0.92354128  0.20294602  1.0
+  Au  Au15  1  0.50000000  0.29705398  0.57645872  1.0
+  Au  Au16  1  0.50000000  0.57645872  0.70294602  1.0
+  Au  Au17  1  0.50000000  0.42354128  0.29705398  1.0
+  Au  Au18  1  0.50000000  0.50000000  0.00000000  1.0
+  Au  Au19  1  0.50000000  0.00000000  0.50000000  1.0

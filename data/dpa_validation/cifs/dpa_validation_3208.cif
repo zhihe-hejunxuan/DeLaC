@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr2ErGaTe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38623052
+_cell_length_b   10.29164094
+_cell_length_c   13.80858217
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   102.30389186
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2ErGaTe5
+_chemical_formula_sum   'Sr4 Er2 Ga2 Te10'
+_cell_volume   609.02280611
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.87548077  0.75096154  0.82190485  1.0
+  Sr  Sr1  1  0.12014907  0.24029814  0.68204942  1.0
+  Sr  Sr2  1  0.12451923  0.24903846  0.32190485  1.0
+  Sr  Sr3  1  0.87985093  0.75970186  0.18204942  1.0
+  Er  Er4  1  0.79382100  0.58764200  0.52441147  1.0
+  Er  Er5  1  0.20617900  0.41235800  0.02441147  1.0
+  Ga  Ga6  1  0.56106060  0.12212121  0.93416189  1.0
+  Ga  Ga7  1  0.43893940  0.87787879  0.43416189  1.0
+  Te  Te8  1  0.35446006  0.70892013  0.00395157  1.0
+  Te  Te9  1  0.68721037  0.37442074  0.86529525  1.0
+  Te  Te10  1  0.49957978  0.99915957  0.76800017  1.0
+  Te  Te11  1  0.29246704  0.58493407  0.67540560  1.0
+  Te  Te12  1  0.95243107  0.90486214  0.54878979  1.0
+  Te  Te13  1  0.64553994  0.29107987  0.50395157  1.0
+  Te  Te14  1  0.31278963  0.62557926  0.36529525  1.0
+  Te  Te15  1  0.50042022  0.00084043  0.26800017  1.0
+  Te  Te16  1  0.70753296  0.41506593  0.17540560  1.0
+  Te  Te17  1  0.04756893  0.09513786  0.04878979  1.0

@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Na3Nd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39497439
+_cell_length_b   6.31664360
+_cell_length_c   6.42156627
+_cell_angle_alpha   86.78048818
+_cell_angle_beta   113.87025974
+_cell_angle_gamma   115.87236994
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Nd2
+_chemical_formula_sum   'Na3 Nd2'
+_cell_volume   178.11983369
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.61007106  0.38092203  0.15935081  1
+  Na  Na1  1  0.84984686  1.01002712  1.01123763  1
+  Na  Na2  1  0.23013087  0.19590565  0.58628565  1
+  Nd  Nd3  1  0.03617081  0.62026347  0.77250787  1
+  Nd  Nd4  1  0.42080114  0.76948978  0.39645472  1

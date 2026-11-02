@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Dy3Ho2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.58303206
+_cell_length_b   2.96168505
+_cell_length_c   5.25768346
+_cell_angle_alpha   108.67009107
+_cell_angle_beta   107.33622550
+_cell_angle_gamma   102.45743445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3Ho2
+_chemical_formula_sum   'Dy3 Ho2'
+_cell_volume   34.15426237
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.93713050  0.04146530  0.81895618  1
+  Dy  Dy1  1  0.10603380  0.00879809  0.74633153  1
+  Dy  Dy2  1  0.87754457  0.96999481  0.27386998  1
+  Ho  Ho3  1  0.07395351  0.05539341  0.30090449  1
+  Ho  Ho4  1  0.88625501  0.96546542  0.69783716  1

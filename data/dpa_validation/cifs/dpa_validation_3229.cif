@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Pr2Co2Ge2N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97700871
+_cell_length_b   5.91550546
+_cell_length_c   6.01638462
+_cell_angle_alpha   72.38887956
+_cell_angle_beta   70.69997333
+_cell_angle_gamma   70.35744201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Co2Ge2N
+_chemical_formula_sum   'Pr2 Co2 Ge2 N1'
+_cell_volume   122.86038879
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.55742739  0.17372830  0.71141692  1.0
+  Pr  Pr1  1  0.44257261  0.82627170  0.28858308  1.0
+  Co  Co2  1  0.81109240  0.29930020  0.07851501  1.0
+  Co  Co3  1  0.18890760  0.70069980  0.92148499  1.0
+  Ge  Ge4  1  0.82978461  0.62075625  0.71967452  1.0
+  Ge  Ge5  1  0.17021539  0.37924375  0.28032548  1.0
+  N  N6  1  0.00000000  0.00000000  0.00000000  1.0

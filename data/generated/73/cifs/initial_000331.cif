@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_CeNb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73072871
+_cell_length_b   2.85991782
+_cell_length_c   6.51129264
+_cell_angle_alpha   67.84112616
+_cell_angle_beta   55.03260031
+_cell_angle_gamma   49.26240311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeNb
+_chemical_formula_sum   'Ce1 Nb1'
+_cell_volume   43.13671936
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.00107291  0.99980503  0.25110354  1
+  Nb  Nb1  1  1.00107289  0.00019496  0.74889646  1

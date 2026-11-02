@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Sr2Pr4Pb3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99017020
+_cell_length_b   4.99017020
+_cell_length_c   13.69578534
+_cell_angle_alpha   100.49670883
+_cell_angle_beta   100.49670883
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Pr4Pb3O2
+_chemical_formula_sum   'Sr2 Pr4 Pb3 O2'
+_cell_volume   329.53617748
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.30322734  0.30322734  0.60645469  1.0
+  Sr  Sr1  1  0.69677266  0.69677266  0.39354531  1.0
+  Pr  Pr2  1  0.41482267  0.91482267  0.82964534  1.0
+  Pr  Pr3  1  0.91482267  0.41482267  0.82964534  1.0
+  Pr  Pr4  1  0.08517733  0.58517733  0.17035466  1.0
+  Pr  Pr5  1  0.58517733  0.08517733  0.17035466  1.0
+  Pb  Pb6  1  0.00000000  0.00000000  0.00000000  1.0
+  Pb  Pb7  1  0.17124549  0.17124549  0.34249097  1.0
+  Pb  Pb8  1  0.82875451  0.82875451  0.65750903  1.0
+  O  O9  1  0.40325915  0.40325915  0.80651830  1.0
+  O  O10  1  0.59674085  0.59674085  0.19348170  1.0

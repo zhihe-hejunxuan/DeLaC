@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ga8IrRu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24176791
+_cell_length_b   6.88584026
+_cell_length_c   6.22334992
+_cell_angle_alpha   116.65647843
+_cell_angle_beta   89.28241911
+_cell_angle_gamma   91.11635225
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga8IrRu2
+_chemical_formula_sum   'Ga8 Ir1 Ru2'
+_cell_volume   200.71065028
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.90169823  0.16806140  0.39817374  1
+  Ga  Ga1  1  0.62960068  0.43978433  0.83937865  1
+  Ga  Ga2  1  -0.06138431  0.97835924  0.80266994  1
+  Ga  Ga3  1  0.45622288  0.12215212  -0.01472182  1
+  Ga  Ga4  1  1.19221082  0.73192006  0.99858129  1
+  Ga  Ga5  1  1.18834638  0.47684329  0.27514345  1
+  Ga  Ga6  1  0.70048468  0.66557032  0.35379598  1
+  Ga  Ga7  1  0.39409346  0.02662031  0.44492090  1
+  Ir  Ir8  1  0.16533696  0.29390837  0.79956269  1
+  Ru  Ru9  1  0.67535687  0.85973461  0.07975816  1
+  Ru  Ru10  1  0.92937878  0.57433742  0.63272947  1

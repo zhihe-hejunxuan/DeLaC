@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cd3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40976911
+_cell_length_b   4.23692803
+_cell_length_c   12.30436423
+_cell_angle_alpha   97.94728109
+_cell_angle_beta   92.91539308
+_cell_angle_gamma   89.93278460
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3O2
+_chemical_formula_sum   'Cd6 O4'
+_cell_volume   227.38655719
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.36270636  0.20661321  0.92065577  1
+  Cd  Cd1  1  0.20743527  0.77290647  0.08478543  1
+  Cd  Cd2  1  0.70392102  0.08088991  0.61424246  1
+  Cd  Cd3  1  0.23853176  0.36119833  0.30645564  1
+  Cd  Cd4  1  0.12785510  0.62438666  0.71723387  1
+  Cd  Cd5  1  0.75697868  0.89628733  0.39104943  1
+  O  O6  1  0.15414827  0.70275553  0.90985376  1
+  O  O7  1  0.21381478  0.84163097  0.25744187  1
+  O  O8  1  0.74116556  0.37738899  0.33920752  1
+  O  O9  1  0.36771517  0.13650656  0.74094209  1

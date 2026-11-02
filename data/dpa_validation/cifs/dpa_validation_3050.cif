@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2Tl2Te4Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99532320
+_cell_length_b   9.12240059
+_cell_length_c   9.42051072
+_cell_angle_alpha   108.79749480
+_cell_angle_beta   105.37468760
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Tl2Te4Pb
+_chemical_formula_sum   'Cs2 Tl2 Te4 Pb1'
+_cell_volume   390.12608971
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.12730185  0.56604418  0.25460371  1.0
+  Cs  Cs1  1  0.87269815  0.43395582  0.74539629  1.0
+  Tl  Tl2  1  0.66793319  0.97258455  0.33586637  1.0
+  Tl  Tl3  1  0.33206681  0.02741545  0.66413363  1.0
+  Te  Te4  1  0.19416711  0.18584049  0.38833423  1.0
+  Te  Te5  1  0.80583289  0.81415951  0.61166577  1.0
+  Te  Te6  1  0.50141917  0.75801559  0.00283834  1.0
+  Te  Te7  1  0.49858083  0.24198441  0.99716166  1.0
+  Pb  Pb8  1  0.00000000  0.00000000  0.00000000  1.0

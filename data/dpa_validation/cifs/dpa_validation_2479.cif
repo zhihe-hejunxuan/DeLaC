@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na3Zr3MnS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41155938
+_cell_length_b   7.41155938
+_cell_length_c   8.02515751
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   62.49859673
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Zr3MnS8
+_chemical_formula_sum   'Na3 Zr3 Mn1 S8'
+_cell_volume   322.97292886
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.00000000  0.50000000  1.0
+  Na  Na1  1  0.50000000  0.50000000  0.50000000  1.0
+  Na  Na2  1  0.00000000  0.00000000  0.50000000  1.0
+  Zr  Zr3  1  0.50000000  0.50000000  0.00000000  1.0
+  Zr  Zr4  1  0.50000000  0.00000000  0.00000000  1.0
+  Zr  Zr5  1  0.00000000  0.50000000  0.00000000  1.0
+  Mn  Mn6  1  0.00000000  0.00000000  0.00000000  1.0
+  S  S7  1  0.51766915  0.25883458  0.22349627  1.0
+  S  S8  1  0.48233085  0.74116542  0.77650373  1.0
+  S  S9  1  0.02407547  0.76163807  0.21428645  1.0
+  S  S10  1  0.97592452  0.23836193  0.78571355  1.0
+  S  S11  1  0.02407548  0.26243740  0.21428645  1.0
+  S  S12  1  0.97592452  0.73756260  0.78571355  1.0
+  S  S13  1  0.52327615  0.76163807  0.21428645  1.0
+  S  S14  1  0.47672385  0.23836192  0.78571355  1.0

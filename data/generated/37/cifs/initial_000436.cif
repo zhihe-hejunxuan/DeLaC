@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_Li2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.14811364
+_cell_length_b   3.16693910
+_cell_length_c   4.81233334
+_cell_angle_alpha   109.17508433
+_cell_angle_beta   109.09946621
+_cell_angle_gamma   90.14304461
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Pd
+_chemical_formula_sum   'Li2 Pd1'
+_cell_volume   42.49565357
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.09031150  0.02295005  0.68134906  1
+  Li  Li1  1  0.41196400  0.34193556  0.31851853  1
+  Pd  Pd2  1  0.75111556  0.68248236  0.99993619  1

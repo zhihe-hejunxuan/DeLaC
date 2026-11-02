@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_K2Bi2Te
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.71722069
+_cell_length_b   11.79387028
+_cell_length_c   4.52595481
+_cell_angle_alpha   56.80026329
+_cell_angle_beta   55.28873671
+_cell_angle_gamma   26.58260253
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Bi2Te
+_chemical_formula_sum   'K2 Bi2 Te1'
+_cell_volume   228.81912845
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.92703925  0.26974427  0.97561011  1
+  K  K1  1  0.23989218  0.61918166  0.46404917  1
+  Bi  Bi2  1  0.67603790  0.90951226  0.38424994  1
+  Bi  Bi3  1  0.27149333  0.22714180  0.03067562  1
+  Te  Te4  1  0.76689896  0.13877091  0.90001199  1

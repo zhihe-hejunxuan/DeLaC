@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsScNiTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20028419
+_cell_length_b   10.24113700
+_cell_length_c   10.69325782
+_cell_angle_alpha   117.23712294
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsScNiTe3
+_chemical_formula_sum   'Cs2 Sc2 Ni2 Te6'
+_cell_volume   408.97548943
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.75000000  0.77614859  0.74559680  1.0
+  Cs  Cs1  1  0.25000000  0.22385141  0.25440320  1.0
+  Sc  Sc2  1  0.75000000  0.32544124  0.86061106  1.0
+  Sc  Sc3  1  0.25000000  0.67455876  0.13938894  1.0
+  Ni  Ni4  1  0.75000000  0.89883366  0.38130830  1.0
+  Ni  Ni5  1  0.25000000  0.10116634  0.61869170  1.0
+  Te  Te6  1  0.25000000  0.12803150  0.86466504  1.0
+  Te  Te7  1  0.75000000  0.87196850  0.13533496  1.0
+  Te  Te8  1  0.75000000  0.17311794  0.53870383  1.0
+  Te  Te9  1  0.25000000  0.82688206  0.46129617  1.0
+  Te  Te10  1  0.25000000  0.51640305  0.83508249  1.0
+  Te  Te11  1  0.75000000  0.48359695  0.16491751  1.0

@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_Ho2Tl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15286762
+_cell_length_b   5.15227658
+_cell_length_c   5.17642351
+_cell_angle_alpha   59.99409298
+_cell_angle_beta   59.67652997
+_cell_angle_gamma   60.28463650
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Tl
+_chemical_formula_sum   'Ho2 Tl1'
+_cell_volume   97.13854402
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.24892656  0.25114327  0.25008513  1
+  Ho  Ho1  1  0.75095694  0.74901838  0.74990686  1
+  Tl  Tl2  1  0.99993953  0.00008763  0.99998855  1

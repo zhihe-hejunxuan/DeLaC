@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiNiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52523681
+_cell_length_b   6.98120541
+_cell_length_c   1.54554511
+_cell_angle_alpha   56.95997909
+_cell_angle_beta   61.57021665
+_cell_angle_gamma   38.64260568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNiO4
+_chemical_formula_sum   'Ti2 Ni2 O8'
+_cell_volume   36.68588985
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.81111707  0.03404452  0.72297980  1
+  Ti  Ti1  1  0.61097948  0.80626024  0.31756265  1
+  Ni  Ni2  1  0.36922089  0.57500713  0.76445915  1
+  Ni  Ni3  1  0.61730176  0.82053787  0.98749678  1
+  O  O4  1  0.61183131  0.80509606  0.37271802  1
+  O  O5  1  0.01844472  0.23050256  0.55897841  1
+  O  O6  1  0.19400562  0.36082314  0.37383185  1
+  O  O7  1  0.01186151  0.20554755  0.24431020  1
+  O  O8  1  0.38273193  0.59891041  0.09497273  1
+  O  O9  1  0.40868737  0.64128983  0.31790331  1
+  O  O10  1  0.19587528  0.40117284  0.70604932  1
+  O  O11  1  0.79063721  0.01054021  0.31030042  1

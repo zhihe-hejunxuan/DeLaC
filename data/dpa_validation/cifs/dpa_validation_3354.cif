@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErHf(GeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82432146
+_cell_length_b   5.82432146
+_cell_length_c   5.82432146
+_cell_angle_alpha   107.41987101
+_cell_angle_beta   107.41987101
+_cell_angle_gamma   113.65675581
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErHf(GeO4)2
+_chemical_formula_sum   'Er1 Hf1 Ge2 O8'
+_cell_volume   151.48131128
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.25000000  0.75000000  0.50000000  1.0
+  Hf  Hf1  1  0.00000000  0.00000000  0.00000000  1.0
+  Ge  Ge2  1  0.75000000  0.25000000  0.50000000  1.0
+  Ge  Ge3  1  0.50000000  0.50000000  0.00000000  1.0
+  O  O4  1  0.93196083  0.62644599  0.69448516  1.0
+  O  O5  1  0.51570284  0.69609351  0.81960934  1.0
+  O  O6  1  0.87648417  0.69609351  0.18039066  1.0
+  O  O7  1  0.93196083  0.23747567  0.30551484  1.0
+  O  O8  1  0.30390649  0.12351583  0.81960934  1.0
+  O  O9  1  0.76252433  0.06803917  0.69448516  1.0
+  O  O10  1  0.37355401  0.06803917  0.30551484  1.0
+  O  O11  1  0.30390649  0.48429716  0.18039066  1.0

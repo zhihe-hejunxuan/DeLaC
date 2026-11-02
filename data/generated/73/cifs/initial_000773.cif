@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ho5Pd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55594805
+_cell_length_b   6.01865825
+_cell_length_c   10.72890786
+_cell_angle_alpha   77.93613774
+_cell_angle_beta   68.22854765
+_cell_angle_gamma   68.82268275
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho5Pd2
+_chemical_formula_sum   'Ho10 Pd4'
+_cell_volume   365.21653151
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.65107959  0.15019260  0.41142216  1
+  Ho  Ho1  1  0.22262221  0.70510319  0.34948277  1
+  Ho  Ho2  1  0.15592057  0.29522190  0.20443406  1
+  Ho  Ho3  1  0.72746060  0.85006847  0.14246912  1
+  Ho  Ho4  1  0.33356287  0.78560634  0.99420888  1
+  Ho  Ho5  1  0.57335018  0.23456799  0.87803790  1
+  Ho  Ho6  1  0.39096678  0.62685258  0.63018520  1
+  Ho  Ho7  1  -0.01243779  0.37339675  0.92372772  1
+  Ho  Ho8  1  1.04496001  0.21466926  0.55969897  1
+  Ho  Ho9  1  0.80516248  0.76570624  0.67587475  1
+  Pd  Pd10  1  1.00591397  0.88317437  0.84737234  1
+  Pd  Pd11  1  0.59266654  0.39086893  0.15336916  1
+  Pd  Pd12  1  0.37260083  0.11709264  0.70652692  1
+  Pd  Pd13  1  0.78585237  0.60943571  0.40053770  1

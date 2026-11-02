@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiPr4AlZn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30043173
+_cell_length_b   5.30043173
+_cell_length_c   9.16555345
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   73.19295095
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPr4AlZn2
+_chemical_formula_sum   'Li1 Pr4 Al1 Zn2'
+_cell_volume   210.20654942
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1.0
+  Pr  Pr1  1  0.24580626  0.62290313  0.13129061  1.0
+  Pr  Pr2  1  0.25264525  0.12632262  0.62103213  1.0
+  Pr  Pr3  1  0.74735475  0.87367738  0.37896787  1.0
+  Pr  Pr4  1  0.75419374  0.37709687  0.86870939  1.0
+  Al  Al5  1  0.00000000  0.50000000  0.50000000  1.0
+  Zn  Zn6  1  0.50616088  0.25308044  0.24075868  1.0
+  Zn  Zn7  1  0.49383912  0.74691956  0.75924132  1.0

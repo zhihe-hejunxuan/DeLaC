@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_MgF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.31547089
+_cell_length_b   3.69928965
+_cell_length_c   6.49488583
+_cell_angle_alpha   107.77596137
+_cell_angle_beta   92.96614672
+_cell_angle_gamma   107.51206432
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgF4
+_chemical_formula_sum   'Mg1 F4'
+_cell_volume   71.42998834
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  1.00062705  0.00079212  0.00027264  1
+  F  F1  1  0.39636955  0.78484068  0.79895815  1
+  F  F2  1  0.11249545  0.71215771  0.20362381  1
+  F  F3  1  0.88622845  0.28639863  0.79575658  1
+  F  F4  1  0.60429275  0.21586877  0.20163802  1

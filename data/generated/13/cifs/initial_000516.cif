@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_SiPd6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.63305654
+_cell_length_b   4.92481672
+_cell_length_c   5.88629555
+_cell_angle_alpha   120.50015101
+_cell_angle_beta   100.69248392
+_cell_angle_gamma   72.55137624
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiPd6
+_chemical_formula_sum   'Si1 Pd6'
+_cell_volume   110.30717574
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.83574866  0.21538098  0.64181874  1
+  Pd  Pd1  1  0.38213064  0.12310225  0.72460119  1
+  Pd  Pd2  1  0.52492870  0.72433444  0.93949127  1
+  Pd  Pd3  1  -0.06885603  0.24825573  1.06195960  1
+  Pd  Pd4  1  0.96569264  0.65322475  0.62165073  1
+  Pd  Pd5  1  0.48110892  0.34375784  0.34829672  1
+  Pd  Pd6  1  1.07041956  0.82114006  0.24099770  1

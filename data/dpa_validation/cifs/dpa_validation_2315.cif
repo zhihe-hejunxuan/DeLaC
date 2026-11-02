@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaNa2CrCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00540397
+_cell_length_b   6.33602699
+_cell_length_c   8.70313502
+_cell_angle_alpha   90.23060188
+_cell_angle_beta   90.06044369
+_cell_angle_gamma   93.04497799
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNa2CrCl8
+_chemical_formula_sum   'Ba1 Na2 Cr1 Cl8'
+_cell_volume   330.68729038
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.50000000  1.0
+  Na  Na1  1  0.50021442  0.50147135  0.76765424  1.0
+  Na  Na2  1  0.49978558  0.49852865  0.23234576  1.0
+  Cr  Cr3  1  0.00000000  0.00000000  0.00000000  1.0
+  Cl  Cl4  1  0.86747948  0.22159766  0.19307682  1.0
+  Cl  Cl5  1  0.32867076  0.20480125  0.99874534  1.0
+  Cl  Cl6  1  0.13632481  0.78090214  0.19187085  1.0
+  Cl  Cl7  1  0.13252052  0.77840234  0.80692318  1.0
+  Cl  Cl8  1  0.67132924  0.79519875  0.00125466  1.0
+  Cl  Cl9  1  0.86367519  0.21909786  0.80812915  1.0
+  Cl  Cl10  1  0.46005390  0.25068064  0.50005697  1.0
+  Cl  Cl11  1  0.53994610  0.74931936  0.49994303  1.0

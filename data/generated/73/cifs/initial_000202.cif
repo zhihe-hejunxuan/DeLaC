@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Li3Ga4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.94125607
+_cell_length_b   4.43908037
+_cell_length_c   9.25647249
+_cell_angle_alpha   104.05131043
+_cell_angle_beta   89.54411232
+_cell_angle_gamma   89.69430215
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Ga4
+_chemical_formula_sum   'Li3 Ga4'
+_cell_volume   117.23367702
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.11089343  0.68134887  0.88345487  1
+  Li  Li1  1  0.13218194  -0.02522302  0.47398316  1
+  Li  Li2  1  1.08977542  0.38791822  0.29298914  1
+  Ga  Ga3  1  0.59122150  0.83457793  0.18244149  1
+  Ga  Ga4  1  0.62677168  0.10852246  0.74230042  1
+  Ga  Ga5  1  0.63052931  0.52817323  0.58450677  1
+  Ga  Ga6  1  0.59533637  0.25421882  0.02460072  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiTbCeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87655931
+_cell_length_b   8.11861169
+_cell_length_c   8.48589224
+_cell_angle_alpha   102.66792871
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTbCeS3
+_chemical_formula_sum   'Li2 Tb2 Ce2 S6'
+_cell_volume   260.56920009
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75000000  0.91193149  0.41610547  1.0
+  Li  Li1  1  0.25000000  0.08806851  0.58389453  1.0
+  Tb  Tb2  1  0.75000000  0.33589801  0.83608555  1.0
+  Tb  Tb3  1  0.25000000  0.66410199  0.16391445  1.0
+  Ce  Ce4  1  0.75000000  0.81588804  0.77902070  1.0
+  Ce  Ce5  1  0.25000000  0.18411196  0.22097930  1.0
+  S  S6  1  0.25000000  0.09833095  0.86355393  1.0
+  S  S7  1  0.75000000  0.90166905  0.13644607  1.0
+  S  S8  1  0.75000000  0.21180746  0.49911662  1.0
+  S  S9  1  0.25000000  0.78819254  0.50088338  1.0
+  S  S10  1  0.25000000  0.57205416  0.82929694  1.0
+  S  S11  1  0.75000000  0.42794584  0.17070306  1.0

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Nb3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41165412
+_cell_length_b   5.31248457
+_cell_length_c   4.44954950
+_cell_angle_alpha   64.53193093
+_cell_angle_beta   60.29420704
+_cell_angle_gamma   65.50225708
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3Os
+_chemical_formula_sum   'Nb3 Os1'
+_cell_volume   79.02891973
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.68947272  0.93033785  0.69244452  1
+  Nb  Nb1  1  0.11272717  0.65601762  0.12166811  1
+  Nb  Nb2  1  0.89532576  0.31173859  0.89949799  1
+  Os  Os3  1  0.30130543  0.09967920  0.29906788  1

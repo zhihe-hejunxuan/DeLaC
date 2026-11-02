@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BeNbGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.46741146
+_cell_length_b   3.49798291
+_cell_length_c   7.12561685
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.08174895
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeNbGe
+_chemical_formula_sum   'Be2 Nb2 Ge2'
+_cell_volume   83.82907695
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.03991032  0.25000000  0.07982063  1.0
+  Be  Be1  1  0.96008968  0.75000000  0.92017937  1.0
+  Nb  Nb2  1  0.40345806  0.25000000  0.80691613  1.0
+  Nb  Nb3  1  0.59654194  0.75000000  0.19308387  1.0
+  Ge  Ge4  1  0.20077188  0.25000000  0.40154377  1.0
+  Ge  Ge5  1  0.79922812  0.75000000  0.59845623  1.0

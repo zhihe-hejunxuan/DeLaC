@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CuNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43876757
+_cell_length_b   3.92274711
+_cell_length_c   6.22888131
+_cell_angle_alpha   61.77637228
+_cell_angle_beta   62.60627426
+_cell_angle_gamma   64.54351713
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuNiO3
+_chemical_formula_sum   'Cu2 Ni2 O6'
+_cell_volume   100.06368795
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  1.03398369  0.47801636  0.23909291  1
+  Cu  Cu1  1  0.27037475  0.66936065  0.67114557  1
+  Ni  Ni2  1  0.49229090  0.85934310  0.10521644  1
+  Ni  Ni3  1  0.76747765  0.67380654  0.66946200  1
+  O  O4  1  0.92650466  0.65304413  0.94108291  1
+  O  O5  1  1.06303711  0.92392397  0.30632712  1
+  O  O6  1  0.43514703  0.11365275  0.77582492  1
+  O  O7  1  0.61309054  0.71637030  0.40317264  1
+  O  O8  1  0.10012941  0.23351064  0.55948094  1
+  O  O9  1  0.46458358  0.42041042  0.04213715  1

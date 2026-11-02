@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_K(ErS)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77572025
+_cell_length_b   3.92131241
+_cell_length_c   10.24600978
+_cell_angle_alpha   80.37083579
+_cell_angle_beta   69.92735756
+_cell_angle_gamma   89.97806901
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K(ErS)2
+_chemical_formula_sum   'K1 Er2 S2'
+_cell_volume   140.21151848
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.11044588  0.97587378  0.04762125  1
+  Er  Er1  1  1.03342026  0.71014959  0.66708294  1
+  Er  Er2  1  0.77172070  0.32083912  0.40798236  1
+  S  S3  1  0.49905428  0.19286833  0.70572934  1
+  S  S4  1  0.45025428  0.39589532  0.21491561  1

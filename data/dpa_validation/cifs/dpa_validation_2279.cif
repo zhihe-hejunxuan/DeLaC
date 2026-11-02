@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Mn2Ag2AsO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29523670
+_cell_length_b   5.29523670
+_cell_length_c   6.19242545
+_cell_angle_alpha   89.84805626
+_cell_angle_beta   89.84805626
+_cell_angle_gamma   118.29142623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Ag2AsO6
+_chemical_formula_sum   'Mn2 Ag2 As1 O6'
+_cell_volume   152.88994087
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33414603  0.66585397  0.50000000  1.0
+  Mn  Mn1  1  0.66585397  0.33414603  0.50000000  1.0
+  Ag  Ag2  1  0.84073519  0.15926481  0.00000000  1.0
+  Ag  Ag3  1  0.15926481  0.84073519  0.00000000  1.0
+  As  As4  1  0.00000000  0.00000000  0.50000000  1.0
+  O  O5  1  0.70401904  0.70401904  0.64889139  1.0
+  O  O6  1  0.97985143  0.28541204  0.67189701  1.0
+  O  O7  1  0.29598096  0.29598096  0.35110861  1.0
+  O  O8  1  0.28541204  0.97985143  0.67189701  1.0
+  O  O9  1  0.02014857  0.71458796  0.32810299  1.0
+  O  O10  1  0.71458796  0.02014857  0.32810299  1.0

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_PrAg(PbS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16630992
+_cell_length_b   7.02487135
+_cell_length_c   7.34297211
+_cell_angle_alpha   109.60306923
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrAg(PbS2)2
+_chemical_formula_sum   'Pr1 Ag1 Pb2 S4'
+_cell_volume   202.45613013
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.00000000  0.50000000  0.50000000  1.0
+  Ag  Ag1  1  0.50000000  0.00000000  0.50000000  1.0
+  Pb  Pb2  1  0.00000000  0.00000000  0.00000000  1.0
+  Pb  Pb3  1  0.50000000  0.50000000  0.00000000  1.0
+  S  S4  1  0.00000000  0.24397575  0.73383543  1.0
+  S  S5  1  0.00000000  0.75602425  0.26616457  1.0
+  S  S6  1  0.50000000  0.74185408  0.73785475  1.0
+  S  S7  1  0.50000000  0.25814592  0.26214525  1.0

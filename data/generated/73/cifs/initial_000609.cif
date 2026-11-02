@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiHg2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74005000
+_cell_length_b   4.64954206
+_cell_length_c   4.61370386
+_cell_angle_alpha   86.71274823
+_cell_angle_beta   78.54872047
+_cell_angle_gamma   80.35414393
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiHg2Sb
+_chemical_formula_sum   'Li1 Hg2 Sb1'
+_cell_volume   98.21817766
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.77342058  0.27206315  0.25289042  1
+  Hg  Hg1  1  0.73551937  0.85167433  0.78839957  1
+  Hg  Hg2  1  0.23053775  0.27124871  0.68741308  1
+  Sb  Sb3  1  0.19278790  0.68020925  0.18682880  1

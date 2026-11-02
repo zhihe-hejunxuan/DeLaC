@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaHo3(TmBi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45040189
+_cell_length_b   9.01385082
+_cell_length_c   10.02936570
+_cell_angle_alpha   102.95928361
+_cell_angle_beta   102.81880638
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaHo3(TmBi3)2
+_chemical_formula_sum   'Ca1 Ho3 Tm2 Bi6'
+_cell_volume   381.78660481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.00000000  0.00000000  1.0
+  Ho  Ho1  1  0.50000000  0.50000000  0.00000000  1.0
+  Ho  Ho2  1  0.83545770  0.16578564  0.67091540  1.0
+  Ho  Ho3  1  0.16454230  0.83421436  0.32908460  1.0
+  Tm  Tm4  1  0.83373159  0.66801414  0.66746319  1.0
+  Tm  Tm5  1  0.16626841  0.33198586  0.33253681  1.0
+  Bi  Bi6  1  0.33025612  0.91276136  0.66051224  1.0
+  Bi  Bi7  1  0.66777594  0.58229236  0.33555189  1.0
+  Bi  Bi8  1  0.66974388  0.08723864  0.33948776  1.0
+  Bi  Bi9  1  0.00121688  0.25691202  0.00243377  1.0
+  Bi  Bi10  1  0.99878312  0.74308798  0.99756623  1.0
+  Bi  Bi11  1  0.33222406  0.41770764  0.66444811  1.0

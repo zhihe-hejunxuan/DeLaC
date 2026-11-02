@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cu2RhF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89822340
+_cell_length_b   5.58500563
+_cell_length_c   7.97347944
+_cell_angle_alpha   98.73478623
+_cell_angle_beta   79.48622756
+_cell_angle_gamma   115.09453582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2RhF8
+_chemical_formula_sum   'Cu2 Rh1 F8'
+_cell_volume   154.02863124
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.10659163  0.55838190  0.16509451  1
+  Cu  Cu1  1  0.66490472  0.98538489  0.44615163  1
+  Rh  Rh2  1  0.18997635  0.46616051  0.76500044  1
+  F  F3  1  0.31948065  0.77439434  0.92727609  1
+  F  F4  1  0.62225371  0.58232967  0.16396577  1
+  F  F5  1  0.22558640  0.86266526  0.32639222  1
+  F  F6  1  1.03550594  0.12653963  0.61066482  1
+  F  F7  1  0.68668727  0.45576389  0.75702249  1
+  F  F8  1  0.89624861  0.28161412  0.32712906  1
+  F  F9  1  0.00081676  0.27964900  0.97492241  1
+  F  F10  1  0.41226903  0.66618239  0.55737964  1

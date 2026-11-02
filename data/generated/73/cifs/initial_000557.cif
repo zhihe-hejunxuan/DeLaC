@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LiAlNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.86593577
+_cell_length_b   4.00563608
+_cell_length_c   4.00357883
+_cell_angle_alpha   89.46180256
+_cell_angle_beta   89.98440513
+_cell_angle_gamma   90.02615440
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlNi2
+_chemical_formula_sum   'Li1 Al1 Ni2'
+_cell_volume   45.95863321
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.25498862  0.24840856  0.74753019  1
+  Al  Al1  1  0.25504807  0.75549662  0.24894119  1
+  Ni  Ni2  1  0.75357555  0.25529338  0.24789695  1
+  Ni  Ni3  1  0.75549116  0.74906964  0.75161245  1

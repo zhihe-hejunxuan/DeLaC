@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La2InNi2Pd5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08290634
+_cell_length_b   9.47266943
+_cell_length_c   9.47266943
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2InNi2Pd5
+_chemical_formula_sum   'La4 In2 Ni4 Pd10'
+_cell_volume   366.36517201
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.67164780  0.17164780  1.0
+  La  La1  1  0.00000000  0.32835220  0.82835220  1.0
+  La  La2  1  0.00000000  0.17164780  0.32835220  1.0
+  La  La3  1  0.00000000  0.82835220  0.67164780  1.0
+  In  In4  1  0.00000000  0.00000000  0.00000000  1.0
+  In  In5  1  0.00000000  0.50000000  0.50000000  1.0
+  Ni  Ni6  1  0.00000000  0.12575863  0.62575863  1.0
+  Ni  Ni7  1  0.00000000  0.87424137  0.37424137  1.0
+  Ni  Ni8  1  0.00000000  0.62575863  0.87424137  1.0
+  Ni  Ni9  1  0.00000000  0.37424137  0.12575863  1.0
+  Pd  Pd10  1  0.50000000  0.20792988  0.07070663  1.0
+  Pd  Pd11  1  0.50000000  0.79207012  0.92929337  1.0
+  Pd  Pd12  1  0.50000000  0.07070663  0.79207012  1.0
+  Pd  Pd13  1  0.50000000  0.70792988  0.42929337  1.0
+  Pd  Pd14  1  0.50000000  0.92929337  0.20792988  1.0
+  Pd  Pd15  1  0.50000000  0.29207012  0.57070663  1.0
+  Pd  Pd16  1  0.50000000  0.57070663  0.70792988  1.0
+  Pd  Pd17  1  0.50000000  0.42929337  0.29207012  1.0
+  Pd  Pd18  1  0.50000000  0.50000000  0.00000000  1.0
+  Pd  Pd19  1  0.50000000  0.00000000  0.50000000  1.0

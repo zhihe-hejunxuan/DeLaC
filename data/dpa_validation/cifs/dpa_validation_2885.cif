@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbInGeBr4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03559497
+_cell_length_b   7.27599394
+_cell_length_c   9.95421854
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   112.56842269
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbInGeBr4
+_chemical_formula_sum   'Rb2 In2 Ge2 Br8'
+_cell_volume   537.42478993
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.41851397  0.25000000  0.59182303  1.0
+  Rb  Rb1  1  0.58148603  0.75000000  0.40817697  1.0
+  In  In2  1  0.73965877  0.25000000  0.08517284  1.0
+  In  In3  1  0.26034123  0.75000000  0.91482716  1.0
+  Ge  Ge4  1  0.98005461  0.25000000  0.65276846  1.0
+  Ge  Ge5  1  0.01994539  0.75000000  0.34723154  1.0
+  Br  Br6  1  0.15789486  0.49863446  0.25503896  1.0
+  Br  Br7  1  0.84210514  0.99863446  0.74496104  1.0
+  Br  Br8  1  0.84210514  0.50136554  0.74496104  1.0
+  Br  Br9  1  0.15789486  0.00136554  0.25503896  1.0
+  Br  Br10  1  0.31506437  0.25000000  0.90010527  1.0
+  Br  Br11  1  0.68493563  0.75000000  0.09989473  1.0
+  Br  Br12  1  0.68269481  0.25000000  0.37534594  1.0
+  Br  Br13  1  0.31730519  0.75000000  0.62465406  1.0

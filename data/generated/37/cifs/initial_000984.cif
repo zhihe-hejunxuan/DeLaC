@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Li2CaO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99790990
+_cell_length_b   5.98294807
+_cell_length_c   6.19106896
+_cell_angle_alpha   90.78198911
+_cell_angle_beta   84.92485146
+_cell_angle_gamma   97.45759674
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CaO8
+_chemical_formula_sum   'Li2 Ca1 O8'
+_cell_volume   146.25731864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.02308355  0.54685133  0.19012184  1
+  Li  Li1  1  0.55542800  0.58884990  0.79125593  1
+  Ca  Ca2  1  0.07008645  1.02030671  0.70250403  1
+  O  O3  1  0.55184895  0.85981124  0.64746146  1
+  O  O4  1  0.40331209  -0.20963556  0.30413155  1
+  O  O5  1  0.58487841  0.90564964  0.14153382  1
+  O  O6  1  0.82550809  0.78258302  0.03056513  1
+  O  O7  1  1.14994805  0.37438616  0.91570866  1
+  O  O8  1  0.63625044  0.32865746  0.32691165  1
+  O  O9  1  0.32318415  0.30953012  0.39166291  1
+  O  O10  1  0.91023700  0.38249204  0.77021450  1

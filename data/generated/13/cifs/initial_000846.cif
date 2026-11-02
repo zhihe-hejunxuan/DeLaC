@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnSO3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.11670026
+_cell_length_b   3.63732854
+_cell_length_c   9.58971263
+_cell_angle_alpha   114.01287390
+_cell_angle_beta   101.95571557
+_cell_angle_gamma   113.70832542
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSO3F
+_chemical_formula_sum   'Mn2 S2 O6 F2'
+_cell_volume   81.50061686
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.02334743  0.74471906  0.33745654  1
+  Mn  Mn1  1  0.84824923  0.33632943  0.30951912  1
+  S  S2  1  0.96669051  0.25655592  0.66277511  1
+  S  S3  1  0.07930233  0.19527924  0.00361460  1
+  O  O4  1  0.88309983  0.04275626  0.66528370  1
+  O  O5  1  0.07394010  0.87855981  0.32043356  1
+  O  O6  1  1.04803700  0.69325837  0.36223627  1
+  O  O7  1  0.95491219  0.86819279  0.00820171  1
+  O  O8  1  0.05481217  0.45087051  0.68548241  1
+  O  O9  1  0.05744988  0.16049971  0.99171482  1
+  F  F10  1  0.91968556  0.78017147  1.00339864  1
+  F  F11  1  0.09338223  0.57934897  0.64892037  1

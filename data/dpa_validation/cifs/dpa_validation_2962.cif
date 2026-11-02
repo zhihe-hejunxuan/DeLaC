@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li3Tm2AlS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49070051
+_cell_length_b   6.50475084
+_cell_length_c   6.51243636
+_cell_angle_alpha   119.96096931
+_cell_angle_beta   99.48725427
+_cell_angle_gamma   70.72843903
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Tm2AlS6
+_chemical_formula_sum   'Li3 Tm2 Al1 S6'
+_cell_volume   224.86552353
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.15746189  0.31492378  1.0
+  Li  Li1  1  0.50000000  0.84253811  0.68507622  1.0
+  Li  Li2  1  0.50000000  0.50000000  0.00000000  1.0
+  Tm  Tm3  1  0.00000000  0.33240697  0.66481394  1.0
+  Tm  Tm4  1  0.00000000  0.66759303  0.33518606  1.0
+  Al  Al5  1  0.00000000  0.00000000  0.00000000  1.0
+  S  S6  1  0.75910222  0.38893161  0.30911857  1.0
+  S  S7  1  0.23540729  0.23103768  0.00000000  1.0
+  S  S8  1  0.24089778  0.61106839  0.69088143  1.0
+  S  S9  1  0.75910222  0.07981304  0.69088143  1.0
+  S  S10  1  0.76459271  0.76896232  0.00000000  1.0
+  S  S11  1  0.24089778  0.92018696  0.30911857  1.0

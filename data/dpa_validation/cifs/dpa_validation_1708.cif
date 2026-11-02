@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K2ErAgI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.18791828
+_cell_length_b   8.63378108
+_cell_length_c   11.54337902
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.81648553
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2ErAgI6
+_chemical_formula_sum   'K4 Er2 Ag2 I12'
+_cell_volume   816.02837444
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.02951125  0.91327311  0.25104648  1.0
+  K  K1  1  0.52951125  0.58672689  0.75104648  1.0
+  K  K2  1  0.97048875  0.08672689  0.74895352  1.0
+  K  K3  1  0.47048875  0.41327311  0.24895352  1.0
+  Er  Er4  1  0.50000000  0.00000000  0.50000000  1.0
+  Er  Er5  1  0.00000000  0.50000000  0.00000000  1.0
+  Ag  Ag6  1  0.50000000  0.00000000  0.00000000  1.0
+  Ag  Ag7  1  0.00000000  0.50000000  0.50000000  1.0
+  I  I8  1  0.30237434  0.68942037  0.05188910  1.0
+  I  I9  1  0.80237434  0.81057963  0.55188910  1.0
+  I  I10  1  0.69762566  0.31057963  0.94811090  1.0
+  I  I11  1  0.19762566  0.18942037  0.44811090  1.0
+  I  I12  1  0.31500836  0.70249328  0.45047988  1.0
+  I  I13  1  0.81500836  0.79750672  0.95047988  1.0
+  I  I14  1  0.68499164  0.29750672  0.54952012  1.0
+  I  I15  1  0.18499164  0.20249328  0.04952012  1.0
+  I  I16  1  0.89488008  0.51982077  0.25218996  1.0
+  I  I17  1  0.39488008  0.98017923  0.75218996  1.0
+  I  I18  1  0.10511992  0.48017923  0.74781004  1.0
+  I  I19  1  0.60511992  0.01982077  0.24781004  1.0

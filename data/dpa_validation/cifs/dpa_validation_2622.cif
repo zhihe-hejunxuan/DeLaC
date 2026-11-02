@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_RbTlHgSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62360896
+_cell_length_b   4.62360896
+_cell_length_c   10.13360490
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   76.81285170
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTlHgSe
+_chemical_formula_sum   'Rb1 Tl1 Hg1 Se1'
+_cell_volume   180.98394431
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.99089051  0.99544526  0.01366423  1.0
+  Tl  Tl1  1  0.09130043  0.54565022  0.36304935  1.0
+  Hg  Hg2  1  0.86569992  0.43284996  0.70145012  1.0
+  Se  Se3  1  0.52556546  0.26278273  0.21165181  1.0

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Mn2AlSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22437456
+_cell_length_b   5.36820019
+_cell_length_c   7.58244649
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.55547676
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2AlSbO6
+_chemical_formula_sum   'Mn4 Al2 Sb2 O12'
+_cell_volume   212.64701566
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.01421200  0.95091220  0.25173238  1.0
+  Mn  Mn1  1  0.51421200  0.54908780  0.75173238  1.0
+  Mn  Mn2  1  0.98578800  0.04908780  0.74826762  1.0
+  Mn  Mn3  1  0.48578800  0.45091220  0.24826762  1.0
+  Al  Al4  1  0.50000000  0.00000000  0.00000000  1.0
+  Al  Al5  1  0.00000000  0.50000000  0.50000000  1.0
+  Sb  Sb6  1  0.50000000  0.00000000  0.50000000  1.0
+  Sb  Sb7  1  0.00000000  0.50000000  0.00000000  1.0
+  O  O8  1  0.31138988  0.70341798  0.05868945  1.0
+  O  O9  1  0.81138988  0.79658202  0.55868945  1.0
+  O  O10  1  0.68861012  0.29658202  0.94131055  1.0
+  O  O11  1  0.18861012  0.20341798  0.44131055  1.0
+  O  O12  1  0.29996333  0.69352582  0.43969580  1.0
+  O  O13  1  0.79996333  0.80647418  0.93969580  1.0
+  O  O14  1  0.70003667  0.30647418  0.56030420  1.0
+  O  O15  1  0.20003667  0.19352582  0.06030420  1.0
+  O  O16  1  0.88672554  0.54567060  0.25386803  1.0
+  O  O17  1  0.38672554  0.95432940  0.75386803  1.0
+  O  O18  1  0.11327446  0.45432940  0.74613197  1.0
+  O  O19  1  0.61327446  0.04567060  0.24613197  1.0

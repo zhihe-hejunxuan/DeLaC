@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_B3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45818353
+_cell_length_b   4.48923694
+_cell_length_c   8.65455395
+_cell_angle_alpha   80.71797318
+_cell_angle_beta   94.37672665
+_cell_angle_gamma   115.48741381
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   B3O8
+_chemical_formula_sum   'B3 O8'
+_cell_volume   154.30208508
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.17850628  0.39450859  0.54272680  1
+  B  B1  1  0.11242890  0.04556583  0.34804664  1
+  B  B2  1  0.72147664  0.86297744  0.55890691  1
+  O  O3  1  0.90033275  0.15429622  0.62333777  1
+  O  O4  1  0.38640600  -0.00233924  0.30525940  1
+  O  O5  1  0.41106481  0.64669448  0.61734407  1
+  O  O6  1  0.86259088  0.78305752  0.44445604  1
+  O  O7  1  -0.07647645  0.06737767  0.16645320  1
+  O  O8  1  0.62087946  0.70828884  1.00672354  1
+  O  O9  1  0.74937113  0.74819722  1.14002024  1
+  O  O10  1  0.22639655  0.37059698  0.38926600  1

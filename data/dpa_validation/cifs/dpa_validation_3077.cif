@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Tm4Tl2InAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25380564
+_cell_length_b   5.25380564
+_cell_length_c   9.13414019
+_cell_angle_alpha   73.28617114
+_cell_angle_beta   106.71382886
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm4Tl2InAg
+_chemical_formula_sum   'Tm4 Tl2 In1 Ag1'
+_cell_volume   205.95546365
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.37725868  0.62274132  0.13177603  1.0
+  Tm  Tm1  1  0.87340803  0.12659197  0.62022410  1.0
+  Tm  Tm2  1  0.12659197  0.87340803  0.37977590  1.0
+  Tm  Tm3  1  0.62274132  0.37725868  0.86822397  1.0
+  Tl  Tl4  1  0.75171802  0.24828198  0.25515407  1.0
+  Tl  Tl5  1  0.24828198  0.75171802  0.74484593  1.0
+  In  In6  1  0.00000000  0.00000000  0.00000000  1.0
+  Ag  Ag7  1  0.50000000  0.50000000  0.50000000  1.0

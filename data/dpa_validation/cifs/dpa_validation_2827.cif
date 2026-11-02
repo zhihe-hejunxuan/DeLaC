@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sm6Ho2Tm3Tl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13942752
+_cell_length_b   6.14409882
+_cell_length_c   11.68440243
+_cell_angle_alpha   84.93475749
+_cell_angle_beta   79.82155585
+_cell_angle_gamma   60.02514702
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm6Ho2Tm3Tl
+_chemical_formula_sum   'Sm6 Ho2 Tm3 Tl1'
+_cell_volume   375.78893655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.08295749  0.33024598  0.75025963  1.0
+  Sm  Sm1  1  0.24573709  0.00000000  0.25097975  1.0
+  Sm  Sm2  1  0.91704251  0.66975402  0.24974037  1.0
+  Sm  Sm3  1  0.41320346  0.66975402  0.75025963  1.0
+  Sm  Sm4  1  0.75426291  0.00000000  0.74902025  1.0
+  Sm  Sm5  1  0.58679654  0.33024598  0.24974037  1.0
+  Ho  Ho6  1  0.66707863  0.66584275  0.00000000  1.0
+  Ho  Ho7  1  0.33292137  0.33415725  0.00000000  1.0
+  Tm  Tm8  1  0.83262993  0.33474014  0.50000000  1.0
+  Tm  Tm9  1  0.16737007  0.66525986  0.50000000  1.0
+  Tm  Tm10  1  0.50000000  0.00000000  0.50000000  1.0
+  Tl  Tl11  1  0.00000000  0.00000000  0.00000000  1.0

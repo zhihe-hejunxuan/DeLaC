@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KNa(AsO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03060341
+_cell_length_b   7.99766064
+_cell_length_c   7.99766064
+_cell_angle_alpha   92.32724861
+_cell_angle_beta   93.13176475
+_cell_angle_gamma   93.13176475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa(AsO3)2
+_chemical_formula_sum   'K2 Na2 As4 O12'
+_cell_volume   320.50318278
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25000000  0.10899901  0.89100099  1.0
+  K  K1  1  0.75000000  0.89100099  0.10899901  1.0
+  Na  Na2  1  0.25000000  0.69769979  0.30230021  1.0
+  Na  Na3  1  0.75000000  0.30230021  0.69769979  1.0
+  As  As4  1  0.24826856  0.19528724  0.36965513  1.0
+  As  As5  1  0.25173144  0.63034487  0.80471276  1.0
+  As  As6  1  0.75173144  0.80471276  0.63034487  1.0
+  As  As7  1  0.74826856  0.36965513  0.19528724  1.0
+  O  O8  1  0.23565911  0.03102436  0.23247119  1.0
+  O  O9  1  0.26434089  0.76752881  0.96897564  1.0
+  O  O10  1  0.76434089  0.96897564  0.76752881  1.0
+  O  O11  1  0.73565911  0.23247119  0.03102436  1.0
+  O  O12  1  0.35030291  0.18131980  0.56924672  1.0
+  O  O13  1  0.14969709  0.43075328  0.81868020  1.0
+  O  O14  1  0.64969709  0.81868020  0.43075328  1.0
+  O  O15  1  0.85030291  0.56924672  0.18131980  1.0
+  O  O16  1  0.92215728  0.28293589  0.37610832  1.0
+  O  O17  1  0.57784272  0.62389168  0.71706411  1.0
+  O  O18  1  0.07784272  0.71706411  0.62389168  1.0
+  O  O19  1  0.42215728  0.37610832  0.28293589  1.0

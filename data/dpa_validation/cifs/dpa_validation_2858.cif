@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiGa(SnI3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94870851
+_cell_length_b   7.94870851
+_cell_length_c   8.66443915
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   62.69692584
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGa(SnI3)2
+_chemical_formula_sum   'Li1 Ga1 Sn2 I6'
+_cell_volume   402.13169138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.65493328  0.32746664  0.01760008  1.0
+  Ga  Ga1  1  0.64450668  0.82225334  0.53323998  1.0
+  Sn  Sn2  1  0.01614390  0.50807195  0.47578415  1.0
+  Sn  Sn3  1  0.00753922  0.00376961  0.98869116  1.0
+  I  I4  1  0.52351257  0.58683985  0.24150808  1.0
+  I  I5  1  0.82181921  0.23497935  0.24150808  1.0
+  I  I6  1  0.17165207  0.93667271  0.24150808  1.0
+  I  I7  1  0.52413088  0.40947716  0.75816775  1.0
+  I  I8  1  0.12717852  0.71770136  0.75816775  1.0
+  I  I9  1  0.83235509  0.11465373  0.75816775  1.0

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SnHg2(BiPb2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01492513
+_cell_length_b   7.77230486
+_cell_length_c   7.81181822
+_cell_angle_alpha   107.84430229
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   108.82114632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnHg2(BiPb2)2
+_chemical_formula_sum   'Sn1 Hg2 Bi2 Pb4'
+_cell_volume   272.68347625
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.00000000  0.00000000  0.00000000  1.0
+  Hg  Hg1  1  0.67088580  0.34177159  0.00686967  1.0
+  Hg  Hg2  1  0.32911420  0.65822841  0.99313033  1.0
+  Bi  Bi3  1  0.10869005  0.21738009  0.66150090  1.0
+  Bi  Bi4  1  0.89130995  0.78261991  0.33849910  1.0
+  Pb  Pb5  1  0.22447095  0.44894190  0.31998593  1.0
+  Pb  Pb6  1  0.77552905  0.55105810  0.68001407  1.0
+  Pb  Pb7  1  0.45067591  0.90135182  0.68736076  1.0
+  Pb  Pb8  1  0.54932409  0.09864818  0.31263924  1.0

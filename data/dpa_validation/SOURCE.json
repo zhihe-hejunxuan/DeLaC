@@ -1,0 +1,9 @@
+{
+  "structure_count": 4620,
+  "reference": "ReferenceMP2020Correction: Materials Project and Alexandria, MP2020-corrected DFT reference hull",
+  "upstream": "https://github.com/microsoft/mattergen",
+  "label_column": "reference_ehull_eV_per_atom",
+  "units": "eV/atom",
+  "reference_hull_sha256": "c722f72c7d0cd398fc382870f0b731425b54bd4492b089ca36e3119e49f469b5",
+  "labels_are_dpa_predictions": false
+}

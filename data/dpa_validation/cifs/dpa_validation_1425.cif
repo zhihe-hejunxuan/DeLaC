@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbAlCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.18255538
+_cell_length_b   4.18255538
+_cell_length_c   11.04665652
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   79.08729502
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbAlCl
+_chemical_formula_sum   'Tb2 Al2 Cl2'
+_cell_volume   163.30977102
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.86981263  0.43490632  0.69528105  1.0
+  Tb  Tb1  1  0.13018737  0.56509368  0.30471895  1.0
+  Al  Al2  1  0.31743342  0.15871671  0.52384987  1.0
+  Al  Al3  1  0.68256658  0.84128329  0.47615013  1.0
+  Cl  Cl4  1  0.55891468  0.27945734  0.16162798  1.0
+  Cl  Cl5  1  0.44108532  0.72054266  0.83837202  1.0

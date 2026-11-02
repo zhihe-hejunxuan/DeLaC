@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Pr2GeH2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73150990
+_cell_length_b   3.97947404
+_cell_length_c   6.84914451
+_cell_angle_alpha   106.65688190
+_cell_angle_beta   105.80754808
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2GeH2
+_chemical_formula_sum   'Pr2 Ge1 H2'
+_cell_volume   93.41640818
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.86149507  0.36025121  0.72299013  1.0
+  Pr  Pr1  1  0.13850493  0.63974879  0.27700987  1.0
+  Ge  Ge2  1  0.50000000  0.00000000  0.00000000  1.0
+  H  H3  1  0.75337011  0.75357118  0.50674022  1.0
+  H  H4  1  0.24662989  0.24642882  0.49325978  1.0

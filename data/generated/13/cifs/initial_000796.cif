@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Be2Ga2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.50537653
+_cell_length_b   4.10060473
+_cell_length_c   4.80025445
+_cell_angle_alpha   97.29914618
+_cell_angle_beta   89.82308312
+_cell_angle_gamma   64.99429053
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be2Ga2Ni
+_chemical_formula_sum   'Be2 Ga2 Ni1'
+_cell_volume   61.90135627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.34713728  0.60661477  0.27330323  1
+  Be  Be1  1  0.65039824  0.00214216  0.13458081  1
+  Ga  Ga2  1  0.71003289  0.87821631  0.61095154  1
+  Ga  Ga3  1  -0.02706757  0.35920252  0.91704541  1
+  Ni  Ni4  1  0.03784770  0.22617963  0.39633644  1

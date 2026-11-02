@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Bi5Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.06562563
+_cell_length_b   3.76898748
+_cell_length_c   8.56783427
+_cell_angle_alpha   101.14465674
+_cell_angle_beta   125.94381617
+_cell_angle_gamma   104.94445502
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi5Au
+_chemical_formula_sum   'Bi5 Au1'
+_cell_volume   69.51280495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.75287298  0.98810114  0.73762999  1
+  Bi  Bi1  1  0.19960104  0.01787480  0.25485977  1
+  Bi  Bi2  1  0.12948278  0.02757396  0.27811181  1
+  Bi  Bi3  1  0.50198426  0.03779554  0.79390361  1
+  Bi  Bi4  1  0.52239471  0.94300774  0.72160198  1
+  Au  Au5  1  0.49337790  0.99164182  0.22128880  1

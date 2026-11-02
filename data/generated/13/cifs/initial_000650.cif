@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Er3Hg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98514346
+_cell_length_b   6.02236754
+_cell_length_c   9.78793069
+_cell_angle_alpha   118.23540548
+_cell_angle_beta   118.52545176
+_cell_angle_gamma   85.61567363
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3Hg2
+_chemical_formula_sum   'Er6 Hg4'
+_cell_volume   267.95086780
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.73784810  0.33468384  0.04549600  1
+  Er  Er1  1  0.33538341  0.73138650  0.54008832  1
+  Er  Er2  1  0.66491636  0.26869227  0.62766912  1
+  Er  Er3  1  0.26252489  0.66544085  0.12231388  1
+  Er  Er4  1  0.09157701  0.90884385  0.83156205  1
+  Er  Er5  1  0.90879958  0.09128344  0.33624810  1
+  Hg  Hg6  1  0.76598562  0.67813923  0.42684921  1
+  Hg  Hg7  1  0.32133364  0.23053751  0.23803234  1
+  Hg  Hg8  1  0.67906333  0.76956297  0.92976367  1
+  Hg  Hg9  1  0.23436481  0.32199653  0.74097359  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.83965830
+_cell_length_b   5.93477975
+_cell_length_c   6.67028035
+_cell_angle_alpha   70.02296814
+_cell_angle_beta   79.02307935
+_cell_angle_gamma   89.50635354
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbO4
+_chemical_formula_sum   'Tb2 O8'
+_cell_volume   139.97707366
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  -0.00278507  0.63830879  0.18739103  1
+  Tb  Tb1  1  0.40917810  0.00225201  0.46613699  1
+  O  O2  1  0.56838124  0.26040065  0.89224973  1
+  O  O3  1  0.71623642  0.75036673  -0.16670389  1
+  O  O4  1  0.46507842  0.76014764  0.27662323  1
+  O  O5  1  0.35412043  0.30859579  0.76836416  1
+  O  O6  1  0.86414498  0.76819254  0.61294531  1
+  O  O7  1  0.35128435  0.80088535  0.84060428  1
+  O  O8  1  0.98066654  0.22491225  0.24102758  1
+  O  O9  1  0.91530294  0.26579595  0.45763651  1

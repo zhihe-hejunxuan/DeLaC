@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CuHgSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11849145
+_cell_length_b   5.16428857
+_cell_length_c   6.73129393
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.23942612
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuHgSb
+_chemical_formula_sum   'Cu2 Hg2 Sb2'
+_cell_volume   136.73652701
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.50000000  0.50000000  1.0
+  Cu  Cu1  1  0.50000000  0.00000000  0.50000000  1.0
+  Hg  Hg2  1  0.30625499  0.75000000  0.12353310  1.0
+  Hg  Hg3  1  0.69374501  0.25000000  0.87646690  1.0
+  Sb  Sb4  1  0.08285475  0.75000000  0.67356596  1.0
+  Sb  Sb5  1  0.91714525  0.25000000  0.32643404  1.0

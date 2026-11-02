@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Dy3Ga8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79304836
+_cell_length_b   5.55073658
+_cell_length_c   11.72064580
+_cell_angle_alpha   87.15353380
+_cell_angle_beta   81.12305928
+_cell_angle_gamma   74.02600524
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3Ga8
+_chemical_formula_sum   'Dy3 Ga8'
+_cell_volume   357.98234576
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.28271006  0.11723049  0.81524154  1
+  Dy  Dy1  1  0.90549795  0.70642135  0.75981671  1
+  Dy  Dy2  1  0.87683825  0.21450362  0.57580522  1
+  Ga  Ga3  1  0.75795804  0.23590846  0.83216887  1
+  Ga  Ga4  1  0.31005486  0.42220020  0.56808505  1
+  Ga  Ga5  1  0.66332830  0.22379002  0.36263000  1
+  Ga  Ga6  1  0.47508555  0.89283940  0.58528059  1
+  Ga  Ga7  1  0.25079849  0.08016547  0.32389935  1
+  Ga  Ga8  1  0.83919766  0.70720960  0.43074986  1
+  Ga  Ga9  1  0.28799118  0.58946609  0.33129911  1
+  Ga  Ga10  1  0.43638660  0.57452264  0.76223371  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K3Er2InTe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.73675591
+_cell_length_b   7.73750297
+_cell_length_c   8.64738919
+_cell_angle_alpha   81.41733901
+_cell_angle_beta   72.63240487
+_cell_angle_gamma   60.00319382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Er2InTe6
+_chemical_formula_sum   'K3 Er2 In1 Te6'
+_cell_volume   427.88198476
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.83235210  0.33529579  0.50000000  1.0
+  K  K1  1  0.16764790  0.66470421  0.50000000  1.0
+  K  K2  1  0.50000000  0.00000000  0.50000000  1.0
+  Er  Er3  1  0.66640664  0.66718673  0.00000000  1.0
+  Er  Er4  1  0.33359336  0.33281327  0.00000000  1.0
+  In  In5  1  0.00000000  0.00000000  0.00000000  1.0
+  Te  Te6  1  0.06794648  0.32931155  0.79576459  1.0
+  Te  Te7  1  0.26111406  0.00000000  0.20491375  1.0
+  Te  Te8  1  0.93205352  0.67068845  0.20423541  1.0
+  Te  Te9  1  0.39725802  0.67068845  0.79576459  1.0
+  Te  Te10  1  0.73888594  0.00000000  0.79508625  1.0
+  Te  Te11  1  0.60274198  0.32931155  0.20423541  1.0

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CuGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17449212
+_cell_length_b   6.37495630
+_cell_length_c   7.66593025
+_cell_angle_alpha   87.35840900
+_cell_angle_beta   75.08477489
+_cell_angle_gamma   82.22134341
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuGeO3
+_chemical_formula_sum   'Cu4 Ge4 O12'
+_cell_volume   242.09204955
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.24352100  0.09630128  0.89133431  1.0
+  Cu  Cu1  1  0.75647900  0.90369872  0.10866569  1.0
+  Cu  Cu2  1  0.74655063  0.28683589  0.72825802  1.0
+  Cu  Cu3  1  0.25344937  0.71316411  0.27174198  1.0
+  Ge  Ge4  1  0.80111182  0.38588632  0.21393728  1.0
+  Ge  Ge5  1  0.72680455  0.80402487  0.60442424  1.0
+  Ge  Ge6  1  0.19888818  0.61411368  0.78606272  1.0
+  Ge  Ge7  1  0.27319545  0.19597513  0.39557576  1.0
+  O  O8  1  0.57571443  0.29416733  0.41117174  1.0
+  O  O9  1  0.89894214  0.57842283  0.71178518  1.0
+  O  O10  1  0.42428557  0.70583267  0.58882826  1.0
+  O  O11  1  0.10105786  0.42157717  0.28821482  1.0
+  O  O12  1  0.09591753  0.14703634  0.61506780  1.0
+  O  O13  1  0.36368653  0.37759883  0.85839323  1.0
+  O  O14  1  0.90408247  0.85296366  0.38493220  1.0
+  O  O15  1  0.63631347  0.62240117  0.14160677  1.0
+  O  O16  1  0.88113978  0.18591683  0.04401045  1.0
+  O  O17  1  0.61700410  0.00531869  0.77091396  1.0
+  O  O18  1  0.38299590  0.99468131  0.22908604  1.0
+  O  O19  1  0.11886022  0.81408317  0.95598955  1.0

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sb3Te2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.48690651
+_cell_length_b   4.32385022
+_cell_length_c   14.76172250
+_cell_angle_alpha   97.08977145
+_cell_angle_beta   89.50197927
+_cell_angle_gamma   83.31482929
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sb3Te2
+_chemical_formula_sum   'Sb6 Te4'
+_cell_volume   156.40546326
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.72445773  0.68190503  0.16309933  1
+  Sb  Sb1  1  0.50427811  0.31482474  0.87323926  1
+  Sb  Sb2  1  0.37991905  0.13360047  0.38400371  1
+  Sb  Sb3  1  0.23071820  0.69774488  0.62061987  1
+  Sb  Sb4  1  0.41588844  0.09521303  0.91110130  1
+  Sb  Sb5  1  0.89749780  0.69925939  0.62090992  1
+  Te  Te6  1  0.56432079  0.69948766  0.62168035  1
+  Te  Te7  1  0.27673297  0.72655366  0.16584984  1
+  Te  Te8  1  0.97440967  0.29240282  0.88090878  1
+  Te  Te9  1  0.37630060  0.10637188  0.36987982  1

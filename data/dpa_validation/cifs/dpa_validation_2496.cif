@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NiAgPtO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09051040
+_cell_length_b   6.31359076
+_cell_length_c   6.31359076
+_cell_angle_alpha   60.37380305
+_cell_angle_beta   61.16209389
+_cell_angle_gamma   61.16209389
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiAgPtO4
+_chemical_formula_sum   'Ni2 Ag2 Pt2 O8'
+_cell_volume   175.12737580
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.00000000  0.00000000  0.50000000  1.0
+  Ni  Ni1  1  0.50000000  0.00000000  0.50000000  1.0
+  Ag  Ag2  1  0.14837799  0.60162201  0.10162201  1.0
+  Ag  Ag3  1  0.85162201  0.39837799  0.89837799  1.0
+  Pt  Pt4  1  0.50000000  0.50000000  0.50000000  1.0
+  Pt  Pt5  1  0.50000000  0.00000000  0.00000000  1.0
+  O  O6  1  0.27412062  0.76231840  0.26231840  1.0
+  O  O7  1  0.27831328  0.76459885  0.67877458  1.0
+  O  O8  1  0.27831328  0.17877458  0.26459885  1.0
+  O  O9  1  0.70124258  0.76231840  0.26231840  1.0
+  O  O10  1  0.29875742  0.23768160  0.73768160  1.0
+  O  O11  1  0.72168672  0.23540115  0.32122542  1.0
+  O  O12  1  0.72168672  0.82122542  0.73540115  1.0
+  O  O13  1  0.72587938  0.23768160  0.73768160  1.0

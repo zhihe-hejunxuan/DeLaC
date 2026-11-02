@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YbPrBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77090944
+_cell_length_b   4.77090944
+_cell_length_c   9.44866753
+_cell_angle_alpha   104.62340665
+_cell_angle_beta   104.62340665
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbPrBi
+_chemical_formula_sum   'Yb2 Pr2 Bi2'
+_cell_volume   200.89142555
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.32543293  0.32543293  0.65086586  1.0
+  Yb  Yb1  1  0.67456707  0.67456707  0.34913414  1.0
+  Pr  Pr2  1  0.50000000  0.00000000  0.00000000  1.0
+  Pr  Pr3  1  0.00000000  0.50000000  0.00000000  1.0
+  Bi  Bi4  1  0.14118191  0.14118191  0.28236382  1.0
+  Bi  Bi5  1  0.85881809  0.85881809  0.71763618  1.0

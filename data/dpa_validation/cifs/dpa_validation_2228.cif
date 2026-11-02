@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaCrCuSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.69437026
+_cell_length_b   7.87404897
+_cell_length_c   9.09905648
+_cell_angle_alpha   109.46758718
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCrCuSe3
+_chemical_formula_sum   'Na2 Cr2 Cu2 Se6'
+_cell_volume   249.55620157
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75000000  0.77757200  0.74115298  1.0
+  Na  Na1  1  0.25000000  0.22242800  0.25884702  1.0
+  Cr  Cr2  1  0.75000000  0.31772769  0.84169142  1.0
+  Cr  Cr3  1  0.25000000  0.68227231  0.15830858  1.0
+  Cu  Cu4  1  0.75000000  0.92086929  0.39844963  1.0
+  Cu  Cu5  1  0.25000000  0.07913071  0.60155037  1.0
+  Se  Se6  1  0.25000000  0.10971282  0.86955676  1.0
+  Se  Se7  1  0.75000000  0.89028718  0.13044324  1.0
+  Se  Se8  1  0.75000000  0.25139036  0.54758229  1.0
+  Se  Se9  1  0.25000000  0.74860964  0.45241771  1.0
+  Se  Se10  1  0.25000000  0.54728480  0.86202719  1.0
+  Se  Se11  1  0.75000000  0.45271520  0.13797281  1.0

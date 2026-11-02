@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_P2PtO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57445232
+_cell_length_b   5.01859316
+_cell_length_c   2.86049391
+_cell_angle_alpha   107.76660144
+_cell_angle_beta   98.60156118
+_cell_angle_gamma   74.87055258
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   P2PtO8
+_chemical_formula_sum   'P2 Pt1 O8'
+_cell_volume   60.19482459
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.86026367  0.99344465  0.76268651  1
+  P  P1  1  0.59711482  0.50993389  0.52054227  1
+  Pt  Pt2  1  0.28407714  0.01394245  0.25060474  1
+  O  O3  1  0.88185380  0.56596684  0.89392036  1
+  O  O4  1  0.44364755  0.54487066  0.43831150  1
+  O  O5  1  0.71259766  0.02969398  0.70898301  1
+  O  O6  1  0.13832610  0.05015807  0.18803614  1
+  O  O7  1  0.13924596  0.48631144  0.03555428  1
+  O  O8  1  0.54799160  0.45532147  0.27436604  1
+  O  O9  1  0.40124861  0.99751627  0.33136964  1
+  O  O10  1  0.03502935  0.51138068  0.95867322  1

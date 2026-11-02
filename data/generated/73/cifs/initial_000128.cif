@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_YbCd6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70264330
+_cell_length_b   7.00352732
+_cell_length_c   6.02256532
+_cell_angle_alpha   82.98419220
+_cell_angle_beta   92.98140881
+_cell_angle_gamma   73.37536557
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbCd6
+_chemical_formula_sum   'Yb1 Cd6'
+_cell_volume   187.84918187
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  1.03133618  -0.00496161  0.14578882  1
+  Cd  Cd1  1  0.91466052  0.23942805  0.61675222  1
+  Cd  Cd2  1  0.30096832  0.39938348  0.31725926  1
+  Cd  Cd3  1  0.52634652  0.98038913  0.62826021  1
+  Cd  Cd4  1  0.67389106  0.66530948  0.37747176  1
+  Cd  Cd5  1  0.79495894  0.60617229  0.91975000  1
+  Cd  Cd6  1  0.40229852  0.32912532  0.87523314  1

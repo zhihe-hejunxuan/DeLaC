@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Tl3Ga3PbI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.59900172
+_cell_length_b   9.59900172
+_cell_length_c   9.84885310
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   119.16430327
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl3Ga3PbI8
+_chemical_formula_sum   'Tl3 Ga3 Pb1 I8'
+_cell_volume   649.67274391
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.00000000  0.00000000  0.50000000  1.0
+  Tl  Tl1  1  0.50000000  0.50000000  0.50000000  1.0
+  Tl  Tl2  1  0.50000000  0.00000000  0.50000000  1.0
+  Ga  Ga3  1  0.00000000  0.50000000  0.00000000  1.0
+  Ga  Ga4  1  0.50000000  0.00000000  0.00000000  1.0
+  Ga  Ga5  1  0.50000000  0.50000000  0.00000000  1.0
+  Pb  Pb6  1  0.00000000  0.00000000  0.00000000  1.0
+  I  I7  1  0.48661385  0.25669308  0.22992077  1.0
+  I  I8  1  0.51338615  0.74330692  0.77007923  1.0
+  I  I9  1  0.47949257  0.76025372  0.22647724  1.0
+  I  I10  1  0.52050743  0.23974628  0.77352276  1.0
+  I  I11  1  0.98673095  0.25301533  0.22647724  1.0
+  I  I12  1  0.01326905  0.74698467  0.77352276  1.0
+  I  I13  1  0.98673095  0.76025372  0.22647724  1.0
+  I  I14  1  0.01326905  0.23974628  0.77352276  1.0

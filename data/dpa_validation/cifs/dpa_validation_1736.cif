@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr3Ca(Te3Pb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12147639
+_cell_length_b   8.13206357
+_cell_length_c   8.13480780
+_cell_angle_alpha   119.98884138
+_cell_angle_beta   99.61290764
+_cell_angle_gamma   70.48251918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Ca(Te3Pb)2
+_chemical_formula_sum   'Sr3 Ca1 Te6 Pb2'
+_cell_volume   438.59341648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  0.16953463  0.33906926  1.0
+  Sr  Sr1  1  0.50000000  0.83046537  0.66093074  1.0
+  Sr  Sr2  1  0.50000000  0.50000000  0.00000000  1.0
+  Ca  Ca3  1  0.00000000  0.00000000  0.00000000  1.0
+  Te  Te4  1  0.75821387  0.40880993  0.32840932  1.0
+  Te  Te5  1  0.24381610  0.24673154  0.00000000  1.0
+  Te  Te6  1  0.24178613  0.59119007  0.67159068  1.0
+  Te  Te7  1  0.75821387  0.08040061  0.67159068  1.0
+  Te  Te8  1  0.75618390  0.75326846  0.00000000  1.0
+  Te  Te9  1  0.24178613  0.91959939  0.32840932  1.0
+  Pb  Pb10  1  0.00000000  0.33456527  0.66913055  1.0
+  Pb  Pb11  1  0.00000000  0.66543473  0.33086945  1.0

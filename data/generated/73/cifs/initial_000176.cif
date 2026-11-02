@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Hg6Bi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01167994
+_cell_length_b   6.66655501
+_cell_length_c   7.30761788
+_cell_angle_alpha   60.63315644
+_cell_angle_beta   62.96228110
+_cell_angle_gamma   70.81482280
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg6Bi
+_chemical_formula_sum   'Hg6 Bi1'
+_cell_volume   225.22189544
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.25059408  0.74526960  0.83242672  1
+  Hg  Hg1  1  0.66329048  0.34463317  0.27879325  1
+  Hg  Hg2  1  0.81144343  0.84647075  0.69809985  1
+  Hg  Hg3  1  0.29582611  -0.01432252  0.07234187  1
+  Hg  Hg4  1  0.68133242  0.78866971  0.35006008  1
+  Hg  Hg5  1  0.80456794  0.30056991  0.79555278  1
+  Bi  Bi6  1  0.17747660  0.32318282  0.26997281  1

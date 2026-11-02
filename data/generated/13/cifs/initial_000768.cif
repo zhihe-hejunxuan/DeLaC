@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_Tl2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.39626955
+_cell_length_b   3.33545395
+_cell_length_c   3.48301732
+_cell_angle_alpha   89.85015791
+_cell_angle_beta   90.18336364
+_cell_angle_gamma   86.93048161
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2Sb
+_chemical_formula_sum   'Tl2 Sb1'
+_cell_volume   39.39900815
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.74372873  0.19587639  1.01056320  1
+  Tl  Tl1  1  0.72255755  0.76601274  0.00725799  1
+  Sb  Sb2  1  0.29832414  0.20174923  0.01269388  1

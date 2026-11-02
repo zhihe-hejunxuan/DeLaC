@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_YTmLu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.54086029
+_cell_length_b   3.53090716
+_cell_length_c   3.41555522
+_cell_angle_alpha   61.52928954
+_cell_angle_beta   67.51775105
+_cell_angle_gamma   73.70278595
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YTmLu
+_chemical_formula_sum   'Y1 Tm1 Lu1'
+_cell_volume   34.43029095
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.18810090  1.00016837  0.92048979  1
+  Tm  Tm1  1  0.74136166  0.00329948  0.11103046  1
+  Lu  Lu2  1  1.06897552  0.00322334  0.95496780  1

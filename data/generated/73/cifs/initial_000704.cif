@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CaPrCd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91261318
+_cell_length_b   5.44214806
+_cell_length_c   5.44035650
+_cell_angle_alpha   90.13381255
+_cell_angle_beta   89.97316506
+_cell_angle_gamma   89.90086888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaPrCd2
+_chemical_formula_sum   'Ca1 Pr1 Cd2'
+_cell_volume   115.84111870
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.49951934  0.24664823  0.75034113  1
+  Pr  Pr1  1  0.49202038  0.74728416  0.25784708  1
+  Cd  Cd2  1  -0.00297025  0.24872854  0.24663077  1
+  Cd  Cd3  1  0.99438756  0.74530377  0.76104271  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Na3Tm3ScTe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.53509120
+_cell_length_b   8.53509120
+_cell_length_c   9.22529683
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   62.44552899
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Tm3ScTe8
+_chemical_formula_sum   'Na3 Tm3 Sc1 Te8'
+_cell_volume   492.01993001
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.00000000  0.50000000  1.0
+  Na  Na1  1  0.50000000  0.50000000  0.50000000  1.0
+  Na  Na2  1  0.00000000  0.00000000  0.50000000  1.0
+  Tm  Tm3  1  0.50000000  0.50000000  0.00000000  1.0
+  Tm  Tm4  1  0.50000000  0.00000000  0.00000000  1.0
+  Tm  Tm5  1  0.00000000  0.50000000  0.00000000  1.0
+  Sc  Sc6  1  0.00000000  0.00000000  0.00000000  1.0
+  Te  Te7  1  0.51287972  0.25643986  0.23068042  1.0
+  Te  Te8  1  0.48712028  0.74356014  0.76931958  1.0
+  Te  Te9  1  0.01353555  0.76205330  0.22441115  1.0
+  Te  Te10  1  0.98646445  0.23794670  0.77558885  1.0
+  Te  Te11  1  0.01353555  0.25148225  0.22441115  1.0
+  Te  Te12  1  0.98646445  0.74851775  0.77558885  1.0
+  Te  Te13  1  0.52410660  0.76205330  0.22441115  1.0
+  Te  Te14  1  0.47589340  0.23794670  0.77558885  1.0

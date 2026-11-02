@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TaMn(NiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08364885
+_cell_length_b   5.17449082
+_cell_length_c   5.55840623
+_cell_angle_alpha   118.62700194
+_cell_angle_beta   116.04419298
+_cell_angle_gamma   61.35341353
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaMn(NiO3)2
+_chemical_formula_sum   'Ta1 Mn1 Ni2 O6'
+_cell_volume   108.39140792
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.31281119  0.31381270  0.94817985  1.0
+  Mn  Mn1  1  0.81221759  0.81813028  0.44793117  1.0
+  Ni  Ni2  1  0.51863662  0.51398198  0.55418149  1.0
+  Ni  Ni3  1  0.01977164  0.01749515  0.06161905  1.0
+  O  O4  1  0.59995392  0.93176785  0.74027773  1.0
+  O  O5  1  0.23868093  0.59359470  0.77130000  1.0
+  O  O6  1  0.93512793  0.20488490  0.73414225  1.0
+  O  O7  1  0.41586164  0.12129630  0.23677319  1.0
+  O  O8  1  0.71366021  0.43368085  0.24794885  1.0
+  O  O9  1  0.09487533  0.71295629  0.24244544  1.0

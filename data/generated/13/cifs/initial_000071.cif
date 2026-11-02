@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_GaRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.65289254
+_cell_length_b   2.65956020
+_cell_length_c   7.57892392
+_cell_angle_alpha   82.86015626
+_cell_angle_beta   99.79822183
+_cell_angle_gamma   89.27106324
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaRu
+_chemical_formula_sum   'Ga1 Ru1'
+_cell_volume   52.25331731
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.69165905  0.29275044  0.88059637  1
+  Ru  Ru1  1  0.30834096  0.70724956  0.11940363  1

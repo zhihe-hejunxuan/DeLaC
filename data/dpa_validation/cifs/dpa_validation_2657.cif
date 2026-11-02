@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca3La(CeAs3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26294379
+_cell_length_b   7.46974160
+_cell_length_c   7.47102831
+_cell_angle_alpha   119.99430298
+_cell_angle_beta   99.91943953
+_cell_angle_gamma   69.84347484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3La(CeAs3)2
+_chemical_formula_sum   'Ca3 La1 Ce2 As6'
+_cell_volume   329.53864741
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.50000000  0.16397423  0.32794846  1.0
+  Ca  Ca1  1  0.50000000  0.83602577  0.67205154  1.0
+  Ca  Ca2  1  0.50000000  0.50000000  0.00000000  1.0
+  La  La3  1  0.00000000  0.00000000  0.00000000  1.0
+  Ce  Ce4  1  0.00000000  0.33329974  0.66659948  1.0
+  Ce  Ce5  1  0.00000000  0.66670026  0.33340052  1.0
+  As  As6  1  0.76169121  0.42339975  0.34389043  1.0
+  As  As7  1  0.23852024  0.26418895  0.00000000  1.0
+  As  As8  1  0.23830879  0.57660025  0.65610957  1.0
+  As  As9  1  0.76169121  0.07950933  0.65610957  1.0
+  As  As10  1  0.76147976  0.73581105  0.00000000  1.0
+  As  As11  1  0.23830879  0.92049067  0.34389043  1.0

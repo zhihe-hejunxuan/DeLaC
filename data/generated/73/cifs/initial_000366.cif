@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ba2HfF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27445878
+_cell_length_b   7.26483908
+_cell_length_c   4.38761940
+_cell_angle_alpha   63.69583103
+_cell_angle_beta   63.99272352
+_cell_angle_gamma   65.61890326
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2HfF6
+_chemical_formula_sum   'Ba2 Hf1 F6'
+_cell_volume   179.81622539
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.34431485  0.02084415  0.73792166  1
+  Ba  Ba1  1  0.96539879  0.63930577  -0.05889183  1
+  Hf  Hf2  1  0.62912997  0.34701238  0.90216438  1
+  F  F3  1  0.19164432  0.89202233  0.44382048  1
+  F  F4  1  0.66941135  0.66016778  0.68577039  1
+  F  F5  1  0.67278932  0.03312774  0.94110459  1
+  F  F6  1  0.67726231  0.39825375  0.33950524  1
+  F  F7  1  0.95701698  0.31228751  0.74019566  1
+  F  F8  1  0.32969720  0.33217063  -0.05608914  1

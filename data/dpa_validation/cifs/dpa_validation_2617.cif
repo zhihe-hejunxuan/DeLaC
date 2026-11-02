@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na8Bi2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32803186
+_cell_length_b   7.10624913
+_cell_length_c   9.31618130
+_cell_angle_alpha   112.22796763
+_cell_angle_beta   106.61598887
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na8Bi2P
+_chemical_formula_sum   'Na8 Bi2 P1'
+_cell_volume   310.54943779
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.36931119  0.61354183  0.73862238  1.0
+  Na  Na1  1  0.63377172  0.88368932  0.26754344  1.0
+  Na  Na2  1  0.80463038  0.80049852  0.60926076  1.0
+  Na  Na3  1  0.99908598  0.23571962  0.99817196  1.0
+  Na  Na4  1  0.19536962  0.19950148  0.39073924  1.0
+  Na  Na5  1  0.36622828  0.11631068  0.73245656  1.0
+  Na  Na6  1  0.63068881  0.38645817  0.26137762  1.0
+  Na  Na7  1  0.00091402  0.76428038  0.00182804  1.0
+  Bi  Bi8  1  0.81942240  0.31934414  0.63884480  1.0
+  Bi  Bi9  1  0.18057760  0.68065586  0.36115520  1.0
+  P  P10  1  0.50000000  0.00000000  0.00000000  1.0

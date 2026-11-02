@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Dy2Mn2CdO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43706130
+_cell_length_b   5.22872359
+_cell_length_c   9.66498087
+_cell_angle_alpha   105.87709515
+_cell_angle_beta   76.67081488
+_cell_angle_gamma   94.53061894
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Mn2CdO12
+_chemical_formula_sum   'Dy2 Mn2 Cd1 O12'
+_cell_volume   257.12605106
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.37069438  0.25520683  0.02781242  1
+  Dy  Dy1  1  0.80155670  0.33494398  0.42785246  1
+  Mn  Mn2  1  0.70498317  0.90748675  0.65152665  1
+  Mn  Mn3  1  0.91760124  0.68258898  0.13433800  1
+  Cd  Cd4  1  0.19182284  0.46803751  0.70552320  1
+  O  O5  1  0.51330288  0.66725138  0.56007569  1
+  O  O6  1  0.53225851  0.18057428  0.61158157  1
+  O  O7  1  0.02379247  0.44994350  0.20618146  1
+  O  O8  1  0.46957385  0.24818301  0.26544742  1
+  O  O9  1  0.14230392  0.42991830  0.92553465  1
+  O  O10  1  0.60523417  -0.02551580  0.83586824  1
+  O  O11  1  0.95034527  0.66792294  0.60392550  1
+  O  O12  1  0.27805894  0.25102187  0.37406043  1
+  O  O13  1  0.79511816  0.90585777  0.29515780  1
+  O  O14  1  0.13842252  0.88490247  0.05873755  1
+  O  O15  1  0.93663226  0.14120185  0.58822379  1
+  O  O16  1  0.66376341  0.58229740  0.06087257  1

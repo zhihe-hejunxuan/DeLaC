@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ho3Bi2Se
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35304185
+_cell_length_b   4.35304185
+_cell_length_c   9.63250696
+_cell_angle_alpha   103.05908966
+_cell_angle_beta   103.05908966
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3Bi2Se
+_chemical_formula_sum   'Ho3 Bi2 Se1'
+_cell_volume   172.95618080
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.84297789  0.84297789  0.68595579  1.0
+  Ho  Ho1  1  0.15702211  0.15702211  0.31404421  1.0
+  Ho  Ho2  1  0.50000000  0.50000000  0.00000000  1.0
+  Bi  Bi3  1  0.33098962  0.33098962  0.66197923  1.0
+  Bi  Bi4  1  0.66901038  0.66901038  0.33802077  1.0
+  Se  Se5  1  0.00000000  0.00000000  0.00000000  1.0

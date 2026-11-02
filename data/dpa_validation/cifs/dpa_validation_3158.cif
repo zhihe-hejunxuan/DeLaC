@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CsSr2ReO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14443607
+_cell_length_b   6.14443607
+_cell_length_c   6.61267755
+_cell_angle_alpha   62.31597486
+_cell_angle_beta   62.31597486
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsSr2ReO6
+_chemical_formula_sum   'Cs1 Sr2 Re1 O6'
+_cell_volume   182.46247600
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.77454170  0.77454170  0.67637489  1.0
+  Sr  Sr1  1  0.52613094  0.52613094  0.42160718  1.0
+  Sr  Sr2  1  0.00438150  0.00438150  0.98685550  1.0
+  Re  Re3  1  0.33052149  0.33052149  0.00843553  1.0
+  O  O4  1  0.99693304  0.51818212  0.18715882  1.0
+  O  O5  1  0.51818212  0.29772602  0.18715882  1.0
+  O  O6  1  0.29772602  0.99693304  0.18715882  1.0
+  O  O7  1  0.21067182  0.32499166  0.78677920  1.0
+  O  O8  1  0.32499166  0.67755732  0.78677920  1.0
+  O  O9  1  0.67755732  0.21067182  0.78677920  1.0

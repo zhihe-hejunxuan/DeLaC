@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Mg2ZnReO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21337517
+_cell_length_b   5.21509457
+_cell_length_c   5.58419343
+_cell_angle_alpha   90.12023188
+_cell_angle_beta   117.76008710
+_cell_angle_gamma   119.92831734
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2ZnReO6
+_chemical_formula_sum   'Mg2 Zn1 Re1 O6'
+_cell_volume   110.85896558
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.04493585  0.52268652  0.56700492  1.0
+  Mg  Mg1  1  0.03701380  0.01819836  0.05606203  1.0
+  Zn  Zn2  1  0.58107972  0.79097765  0.37316540  1.0
+  Re  Re3  1  0.63893281  0.31950089  0.95859359  1.0
+  O  O4  1  0.81993234  0.58320620  0.76850867  1.0
+  O  O5  1  0.18546829  0.23638582  0.76840540  1.0
+  O  O6  1  0.53274463  0.94875279  0.76721873  1.0
+  O  O7  1  0.11619054  0.40905719  0.24199870  1.0
+  O  O8  1  0.83256349  0.70766816  0.24228616  1.0
+  O  O9  1  0.53433652  0.12516341  0.24155539  1.0

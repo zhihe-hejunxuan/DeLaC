@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_K2Te3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03177850
+_cell_length_b   5.11943670
+_cell_length_c   7.99728577
+_cell_angle_alpha   87.79070855
+_cell_angle_beta   88.92789765
+_cell_angle_gamma   87.32502327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Te3
+_chemical_formula_sum   'K2 Te3'
+_cell_volume   205.60209697
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.67896150  0.76357702  0.24797257  1
+  K  K1  1  0.32136208  0.73133175  0.75237654  1
+  Te  Te2  1  0.82212376  0.23233599  0.64025501  1
+  Te  Te3  1  0.17815400  0.26257447  0.36000090  1
+  Te  Te4  1  1.00010038  0.24745720  0.00013053  1

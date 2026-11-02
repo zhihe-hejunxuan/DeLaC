@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Sr3Pr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41319708
+_cell_length_b   4.40445734
+_cell_length_c   6.77534065
+_cell_angle_alpha   110.38039677
+_cell_angle_beta   105.64398863
+_cell_angle_gamma   114.58228823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3Pr2
+_chemical_formula_sum   'Sr3 Pr2'
+_cell_volume   98.09608125
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.97298880  0.97154585  0.12737462  1
+  Sr  Sr1  1  0.97698815  0.96922785  0.52226857  1
+  Sr  Sr2  1  0.02298131  0.02389673  0.13637077  1
+  Pr  Pr3  1  0.99441659  0.97350003  0.81195597  1
+  Pr  Pr4  1  0.00226672  0.02017586  0.48471979  1

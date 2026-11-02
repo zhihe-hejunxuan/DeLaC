@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_Sm2Tl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.92390163
+_cell_length_b   6.64599046
+_cell_length_c   3.95533495
+_cell_angle_alpha   107.68080737
+_cell_angle_beta   90.00278549
+_cell_angle_gamma   107.05382276
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Tl
+_chemical_formula_sum   'Sm2 Tl1'
+_cell_volume   93.50370491
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  -0.00427833  0.28689671  0.36523446  1
+  Sm  Sm1  1  0.69856430  0.68579674  0.06342709  1
+  Tl  Tl2  1  0.34887572  0.98737493  0.71553262  1

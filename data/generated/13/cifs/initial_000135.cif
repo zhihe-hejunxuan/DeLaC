@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ti4CuNi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11445679
+_cell_length_b   5.14068721
+_cell_length_c   6.09415968
+_cell_angle_alpha   104.55752905
+_cell_angle_beta   90.43649128
+_cell_angle_gamma   113.83315967
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti4CuNi3
+_chemical_formula_sum   'Ti4 Cu1 Ni3'
+_cell_volume   113.25030068
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.37287196  0.33273854  0.60221294  1
+  Ti  Ti1  1  0.09224332  0.77233936  0.69625813  1
+  Ti  Ti2  1  0.61429982  0.81743265  0.35597995  1
+  Ti  Ti3  1  0.31166225  0.22072187  0.08638906  1
+  Cu  Cu4  1  0.01435457  0.62321750  0.07617256  1
+  Ni  Ni5  1  0.87893344  0.34994202  0.35684404  1
+  Ni  Ni6  1  0.61529647  0.82287172  0.95509453  1
+  Ni  Ni7  1  0.79229033  0.16858259  0.73874788  1

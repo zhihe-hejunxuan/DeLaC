@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaSm(SnI4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28186844
+_cell_length_b   7.78102886
+_cell_length_c   9.30977722
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   91.11631378
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSm(SnI4)2
+_chemical_formula_sum   'Na1 Sm1 Sn2 I8'
+_cell_volume   527.39585045
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1.0
+  Sm  Sm1  1  0.00000000  0.00000000  0.00000000  1.0
+  Sn  Sn2  1  0.50000000  0.50000000  0.74427402  1.0
+  Sn  Sn3  1  0.50000000  0.50000000  0.25572598  1.0
+  I  I4  1  0.75599827  0.84522053  0.24284413  1.0
+  I  I5  1  0.76113309  0.32903387  0.00000000  1.0
+  I  I6  1  0.24400173  0.15477947  0.24284413  1.0
+  I  I7  1  0.24400173  0.15477947  0.75715587  1.0
+  I  I8  1  0.23886691  0.67096613  0.00000000  1.0
+  I  I9  1  0.75599827  0.84522053  0.75715587  1.0
+  I  I10  1  0.73590128  0.34834140  0.50000000  1.0
+  I  I11  1  0.26409872  0.65165860  0.50000000  1.0

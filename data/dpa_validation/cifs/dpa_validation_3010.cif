@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_K3HoSc3Te8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.45885261
+_cell_length_b   8.45885261
+_cell_length_c   9.77382746
+_cell_angle_alpha   64.35907537
+_cell_angle_beta   64.35907537
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3HoSc3Te8
+_chemical_formula_sum   'K3 Ho1 Sc3 Te8'
+_cell_volume   524.61823095
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.50000000  0.00000000  1.0
+  K  K1  1  0.50000000  0.00000000  0.00000000  1.0
+  K  K2  1  0.50000000  0.50000000  0.00000000  1.0
+  Ho  Ho3  1  0.50000000  0.50000000  0.50000000  1.0
+  Sc  Sc4  1  0.50000000  0.00000000  0.50000000  1.0
+  Sc  Sc5  1  0.00000000  0.50000000  0.50000000  1.0
+  Sc  Sc6  1  0.00000000  0.00000000  0.50000000  1.0
+  Te  Te7  1  0.76738687  0.76738687  0.69783938  1.0
+  Te  Te8  1  0.23261313  0.23261313  0.30216062  1.0
+  Te  Te9  1  0.77949771  0.25862966  0.70324297  1.0
+  Te  Te10  1  0.22050229  0.74137034  0.29675703  1.0
+  Te  Te11  1  0.25862966  0.77949771  0.70324297  1.0
+  Te  Te12  1  0.74137034  0.22050229  0.29675703  1.0
+  Te  Te13  1  0.25862966  0.25862966  0.70324297  1.0
+  Te  Te14  1  0.74137034  0.74137034  0.29675703  1.0

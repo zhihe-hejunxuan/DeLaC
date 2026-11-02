@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_NaHg6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61124422
+_cell_length_b   5.03426008
+_cell_length_c   12.34398349
+_cell_angle_alpha   74.47349962
+_cell_angle_beta   74.16899621
+_cell_angle_gamma   89.96161223
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHg6
+_chemical_formula_sum   'Na1 Hg6'
+_cell_volume   207.38744210
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.86905076  0.32555755  0.55157902  1
+  Hg  Hg1  1  0.87170890  0.61508835  0.01544421  1
+  Hg  Hg2  1  0.17514064  0.62809739  0.71223291  1
+  Hg  Hg3  1  0.28750123  0.05696864  0.10897061  1
+  Hg  Hg4  1  0.55034536  0.04608181  0.82065456  1
+  Hg  Hg5  1  0.48272814  0.89427085  0.42487314  1
+  Hg  Hg6  1  0.13230186  0.44411103  0.28035544  1

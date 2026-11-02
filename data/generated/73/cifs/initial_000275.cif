@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cu(HgO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68795243
+_cell_length_b   4.92778914
+_cell_length_c   12.20493476
+_cell_angle_alpha   79.44526407
+_cell_angle_beta   69.76343896
+_cell_angle_gamma   48.92381221
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu(HgO)2
+_chemical_formula_sum   'Cu2 Hg4 O4'
+_cell_volume   241.49262232
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  1.01015614  0.15889065  0.57200126  1
+  Cu  Cu1  1  0.22230066  0.71760030  0.78007389  1
+  Hg  Hg2  1  0.93711485  0.61183671  0.33322845  1
+  Hg  Hg3  1  0.08429236  0.72834647  0.04357173  1
+  Hg  Hg4  1  0.50835809  0.33980121  0.51728513  1
+  Hg  Hg5  1  0.50227478  1.00040737  0.75616851  1
+  O  O6  1  0.13620652  0.38962139  0.46712435  1
+  O  O7  1  0.42798426  0.61131934  0.88805411  1
+  O  O8  1  0.74520506  0.84279377  0.19837449  1
+  O  O9  1  0.99511779  0.85195959  0.67914294  1

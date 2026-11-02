@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CdO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.53622759
+_cell_length_b   4.71236933
+_cell_length_c   9.84128805
+_cell_angle_alpha   96.42954786
+_cell_angle_beta   97.04576019
+_cell_angle_gamma   109.83834269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdO4
+_chemical_formula_sum   'Cd1 O4'
+_cell_volume   151.01119352
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.66493601  0.00026967  0.15814256  1
+  O  O1  1  0.10067843  0.37616695  0.67834529  1
+  O  O2  1  1.09598694  0.93780125  1.03825202  1
+  O  O3  1  0.22385337  0.62386545  0.63792090  1
+  O  O4  1  0.23393759  0.06286659  0.27802287  1

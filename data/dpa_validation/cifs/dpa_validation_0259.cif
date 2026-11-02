@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La4HgIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.33862250
+_cell_length_b   8.33862250
+_cell_length_c   8.33862250
+_cell_angle_alpha   109.05279001
+_cell_angle_beta   109.57977453
+_cell_angle_gamma   109.78196972
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4HgIr2
+_chemical_formula_sum   'La8 Hg2 Ir4'
+_cell_volume   446.31586895
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.43447290  0.65261615  0.71814325  1.0
+  La  La1  1  0.56552710  0.34738385  0.28185675  1.0
+  La  La2  1  0.06552710  0.28367035  0.71814325  1.0
+  La  La3  1  0.06552671  0.78185005  0.84737676  1.0
+  La  La4  1  0.43447329  0.78185005  0.21632335  1.0
+  La  La5  1  0.93447290  0.71632965  0.28185675  1.0
+  La  La6  1  0.93447329  0.21814995  0.15262324  1.0
+  La  La7  1  0.56552671  0.21814995  0.78367665  1.0
+  Hg  Hg8  1  0.25000000  0.12575023  0.37575023  1.0
+  Hg  Hg9  1  0.75000000  0.87424977  0.62424977  1.0
+  Ir  Ir10  1  0.00000000  0.50000000  0.00000000  1.0
+  Ir  Ir11  1  0.50000000  0.00000000  0.00000000  1.0
+  Ir  Ir12  1  0.50000000  0.50000000  0.00000000  1.0
+  Ir  Ir13  1  0.00000000  0.50000000  0.50000000  1.0

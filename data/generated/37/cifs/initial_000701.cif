@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Ce3Cr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.91829533
+_cell_length_b   4.11867465
+_cell_length_c   6.93697087
+_cell_angle_alpha   121.94524771
+_cell_angle_beta   91.75457323
+_cell_angle_gamma   115.32425967
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Cr
+_chemical_formula_sum   'Ce3 Cr1'
+_cell_volume   39.60926395
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.05664270  0.01915916  0.75872425  1
+  Ce  Ce1  1  0.98093144  0.02551129  0.24348831  1
+  Ce  Ce2  1  -0.03643257  0.93367497  0.18426999  1
+  Cr  Cr3  1  0.99934019  1.02190703  0.74471178  1

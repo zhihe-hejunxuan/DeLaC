@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Tb3In(AgSe2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04403720
+_cell_length_b   8.04403720
+_cell_length_c   8.15421343
+_cell_angle_alpha   61.58626246
+_cell_angle_beta   61.58626246
+_cell_angle_gamma   61.96869999
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb3In(AgSe2)4
+_chemical_formula_sum   'Tb3 In1 Ag4 Se8'
+_cell_volume   387.41127038
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.50000000  0.50000000  0.50000000  1.0
+  Tb  Tb1  1  0.00000000  0.50000000  0.00000000  1.0
+  Tb  Tb2  1  0.50000000  0.00000000  0.00000000  1.0
+  In  In3  1  0.00000000  0.00000000  0.50000000  1.0
+  Ag  Ag4  1  0.50000000  0.50000000  0.00000000  1.0
+  Ag  Ag5  1  0.00000000  0.50000000  0.50000000  1.0
+  Ag  Ag6  1  0.00000000  0.00000000  0.00000000  1.0
+  Ag  Ag7  1  0.50000000  0.00000000  0.50000000  1.0
+  Se  Se8  1  0.75964184  0.24454886  0.74061220  1.0
+  Se  Se9  1  0.25398890  0.25398890  0.24472674  1.0
+  Se  Se10  1  0.25088712  0.25088712  0.75527893  1.0
+  Se  Se11  1  0.24454886  0.75964184  0.74061220  1.0
+  Se  Se12  1  0.75545114  0.24035816  0.25938780  1.0
+  Se  Se13  1  0.74911288  0.74911288  0.24472107  1.0
+  Se  Se14  1  0.74601110  0.74601110  0.75527326  1.0
+  Se  Se15  1  0.24035816  0.75545114  0.25938780  1.0

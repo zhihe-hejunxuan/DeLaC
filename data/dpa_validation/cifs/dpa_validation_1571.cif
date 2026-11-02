@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_KTmAgI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58107451
+_cell_length_b   7.58079285
+_cell_length_c   7.81694058
+_cell_angle_alpha   93.14925422
+_cell_angle_beta   93.11401433
+_cell_angle_gamma   114.22784096
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTmAgI6
+_chemical_formula_sum   'K1 Tm1 Ag1 I6'
+_cell_volume   407.59599769
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.98669826  0.01299411  0.00057489  1.0
+  Tm  Tm1  1  0.32079369  0.67914316  0.50026614  1.0
+  Ag  Ag2  1  0.66868021  0.33312721  0.49947322  1.0
+  I  I3  1  0.61532154  0.60552998  0.73289119  1.0
+  I  I4  1  0.00806136  0.63662864  0.24475701  1.0
+  I  I5  1  0.62831255  0.98475647  0.31089247  1.0
+  I  I6  1  0.39486273  0.38497741  0.26706157  1.0
+  I  I7  1  0.36200100  0.99189999  0.75499689  1.0
+  I  I8  1  0.01521857  0.37112944  0.68917562  1.0

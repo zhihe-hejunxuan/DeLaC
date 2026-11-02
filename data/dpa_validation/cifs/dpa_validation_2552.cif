@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ZnGa2SiAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70382424
+_cell_length_b   5.70382424
+_cell_length_c   6.92157843
+_cell_angle_alpha   65.66927059
+_cell_angle_beta   65.66927059
+_cell_angle_gamma   90.00402348
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnGa2SiAs4
+_chemical_formula_sum   'Zn1 Ga2 Si1 As4'
+_cell_volume   183.00722856
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00026099  0.00026099  0.99947801  1.0
+  Ga  Ga1  1  0.74980189  0.24980189  0.50039623  1.0
+  Ga  Ga2  1  0.24980189  0.74980189  0.50039623  1.0
+  Si  Si3  1  0.49989636  0.49989636  0.00020727  1.0
+  As  As4  1  0.86470729  0.37830917  0.75698354  1.0
+  As  As5  1  0.62172444  0.62172444  0.24329413  1.0
+  As  As6  1  0.13498143  0.13498143  0.24329413  1.0
+  As  As7  1  0.37830917  0.86470729  0.75698354  1.0

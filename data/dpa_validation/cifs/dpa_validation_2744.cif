@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sm8GeIr3I4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.46382397
+_cell_length_b   8.46382397
+_cell_length_c   9.31915304
+_cell_angle_alpha   62.99237468
+_cell_angle_beta   62.99237468
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm8GeIr3I4
+_chemical_formula_sum   'Sm8 Ge1 Ir3 I4'
+_cell_volume   492.29256764
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.23511830  0.71443456  0.81532883  1.0
+  Sm  Sm1  1  0.23511830  0.23511830  0.81532883  1.0
+  Sm  Sm2  1  0.27132229  0.27132229  0.18603312  1.0
+  Sm  Sm3  1  0.71443456  0.23511830  0.81532883  1.0
+  Sm  Sm4  1  0.28556544  0.76488170  0.18467117  1.0
+  Sm  Sm5  1  0.72867771  0.72867771  0.81396688  1.0
+  Sm  Sm6  1  0.76488170  0.76488170  0.18467117  1.0
+  Sm  Sm7  1  0.76488170  0.28556544  0.18467117  1.0
+  Ge  Ge8  1  0.00000000  0.00000000  0.00000000  1.0
+  Ir  Ir9  1  0.50000000  0.50000000  0.00000000  1.0
+  Ir  Ir10  1  0.50000000  0.00000000  0.00000000  1.0
+  Ir  Ir11  1  0.00000000  0.50000000  0.00000000  1.0
+  I  I12  1  0.50000000  0.50000000  0.50000000  1.0
+  I  I13  1  0.50000000  0.00000000  0.50000000  1.0
+  I  I14  1  0.00000000  0.00000000  0.50000000  1.0
+  I  I15  1  0.00000000  0.50000000  0.50000000  1.0

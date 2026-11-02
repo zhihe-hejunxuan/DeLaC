@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiIn(PbI3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14584799
+_cell_length_b   8.14584799
+_cell_length_c   8.83799949
+_cell_angle_alpha   62.55852717
+_cell_angle_beta   117.44147283
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiIn(PbI3)2
+_chemical_formula_sum   'Li1 In1 Pb2 I6'
+_cell_volume   429.99761954
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.32972622  0.67027378  0.98917865  1.0
+  In  In1  1  0.81718922  0.18281078  0.45156765  1.0
+  Pb  Pb2  1  0.51429677  0.48570323  0.54289030  1.0
+  Pb  Pb3  1  0.00439894  0.99560106  0.01319683  1.0
+  I  I4  1  0.93692010  0.42066877  0.76002539  1.0
+  I  I5  1  0.57933123  0.75622593  0.76002539  1.0
+  I  I6  1  0.24377407  0.06307990  0.76002539  1.0
+  I  I7  1  0.12839342  0.60862121  0.23565301  1.0
+  I  I8  1  0.39137879  0.28411920  0.23565301  1.0
+  I  I9  1  0.71588080  0.87160658  0.23565301  1.0

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_K2Dy2SnS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82400943
+_cell_length_b   6.82400943
+_cell_length_c   7.92870258
+_cell_angle_alpha   98.36314949
+_cell_angle_beta   98.36314949
+_cell_angle_gamma   119.75017983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Dy2SnS6
+_chemical_formula_sum   'K2 Dy2 Sn1 S6'
+_cell_volume   306.79714345
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.83088025  0.16911975  0.00000000  1.0
+  K  K1  1  0.16911975  0.83088025  0.00000000  1.0
+  Dy  Dy2  1  0.33242953  0.66757047  0.50000000  1.0
+  Dy  Dy3  1  0.66757047  0.33242953  0.50000000  1.0
+  Sn  Sn4  1  0.00000000  0.00000000  0.50000000  1.0
+  S  S5  1  0.24791247  0.24791247  0.30776801  1.0
+  S  S6  1  0.61413071  0.93421669  0.30465123  1.0
+  S  S7  1  0.75208753  0.75208753  0.69223199  1.0
+  S  S8  1  0.93421669  0.61413071  0.30465123  1.0
+  S  S9  1  0.38586929  0.06578331  0.69534877  1.0
+  S  S10  1  0.06578331  0.38586929  0.69534877  1.0

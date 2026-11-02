@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaHoTeSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.22745771
+_cell_length_b   4.22745771
+_cell_length_c   7.99727690
+_cell_angle_alpha   74.67427634
+_cell_angle_beta   105.32572366
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHoTeSe
+_chemical_formula_sum   'Na1 Ho1 Te1 Se1'
+_cell_volume   117.86926364
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.61561352  0.38438648  0.84684056  1.0
+  Ho  Ho1  1  0.45511331  0.54488669  0.36533994  1.0
+  Te  Te2  1  0.04072510  0.95927490  0.12217531  1.0
+  Se  Se3  1  0.85631210  0.14368790  0.56893631  1.0

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbLiCuCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19319862
+_cell_length_b   7.30196186
+_cell_length_c   8.95454276
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.47544921
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLiCuCl4
+_chemical_formula_sum   'Rb2 Li2 Cu2 Cl8'
+_cell_volume   390.26541359
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.75001640  0.75000000  0.90317945  1.0
+  Rb  Rb1  1  0.24998360  0.25000000  0.09682055  1.0
+  Li  Li2  1  0.67418574  0.75000000  0.32145757  1.0
+  Li  Li3  1  0.32581426  0.25000000  0.67854243  1.0
+  Cu  Cu4  1  0.17578169  0.75000000  0.32496297  1.0
+  Cu  Cu5  1  0.82421831  0.25000000  0.67503703  1.0
+  Cl  Cl6  1  0.07292750  0.47531179  0.72998292  1.0
+  Cl  Cl7  1  0.92707250  0.97531179  0.27001708  1.0
+  Cl  Cl8  1  0.92707250  0.52468821  0.27001708  1.0
+  Cl  Cl9  1  0.07292750  0.02468821  0.72998292  1.0
+  Cl  Cl10  1  0.34866638  0.75000000  0.10861668  1.0
+  Cl  Cl11  1  0.65133362  0.25000000  0.89138332  1.0
+  Cl  Cl12  1  0.48681491  0.75000000  0.51913276  1.0
+  Cl  Cl13  1  0.51318509  0.25000000  0.48086724  1.0

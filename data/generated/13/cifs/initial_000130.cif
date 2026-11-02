@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_SbPtAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45212164
+_cell_length_b   4.48116938
+_cell_length_c   4.48098914
+_cell_angle_alpha   63.05039117
+_cell_angle_beta   60.64826024
+_cell_angle_gamma   60.85922862
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbPtAu
+_chemical_formula_sum   'Sb1 Pt1 Au1'
+_cell_volume   65.30182195
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.30189164  0.26045428  0.59041478  1
+  Pt  Pt1  1  0.05501877  0.00594400  0.33663412  1
+  Au  Au2  1  0.81507194  0.73921863  1.07133722  1

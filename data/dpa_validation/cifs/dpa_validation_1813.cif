@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pr8Ir3CCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.21622195
+_cell_length_b   8.21622195
+_cell_length_c   8.88021792
+_cell_angle_alpha   62.44410250
+_cell_angle_beta   62.44410250
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr8Ir3CCl4
+_chemical_formula_sum   'Pr8 Ir3 C1 Cl4'
+_cell_volume   438.87989791
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.72329327  0.24789177  0.30552170  1.0
+  Pr  Pr1  1  0.72329327  0.72329327  0.30552170  1.0
+  Pr  Pr2  1  0.76313187  0.76313187  0.71060438  1.0
+  Pr  Pr3  1  0.24789177  0.72329327  0.30552170  1.0
+  Pr  Pr4  1  0.75210823  0.27670673  0.69447830  1.0
+  Pr  Pr5  1  0.23686813  0.23686813  0.28939562  1.0
+  Pr  Pr6  1  0.27670673  0.27670673  0.69447830  1.0
+  Pr  Pr7  1  0.27670673  0.75210823  0.69447830  1.0
+  Ir  Ir8  1  0.00000000  0.00000000  0.50000000  1.0
+  Ir  Ir9  1  0.00000000  0.50000000  0.50000000  1.0
+  Ir  Ir10  1  0.50000000  0.00000000  0.50000000  1.0
+  C  C11  1  0.50000000  0.50000000  0.50000000  1.0
+  Cl  Cl12  1  0.00000000  0.00000000  0.00000000  1.0
+  Cl  Cl13  1  0.00000000  0.50000000  0.00000000  1.0
+  Cl  Cl14  1  0.50000000  0.50000000  0.00000000  1.0
+  Cl  Cl15  1  0.50000000  0.00000000  0.00000000  1.0

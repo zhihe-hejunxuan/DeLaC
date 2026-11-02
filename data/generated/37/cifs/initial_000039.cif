@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Mn2SbPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.06009605
+_cell_length_b   5.50104606
+_cell_length_c   4.77416034
+_cell_angle_alpha   89.85310925
+_cell_angle_beta   89.98628055
+_cell_angle_gamma   56.19674494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2SbPt
+_chemical_formula_sum   'Mn2 Sb1 Pt1'
+_cell_volume   66.78083724
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.25895756  0.75478897  0.68366542  1
+  Mn  Mn1  1  0.75891813  0.25556902  0.32245984  1
+  Sb  Sb2  1  0.75879019  0.75537477  0.17825496  1
+  Pt  Pt3  1  0.26075106  0.25346747  0.80559450  1

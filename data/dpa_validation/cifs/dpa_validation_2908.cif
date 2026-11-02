@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Nd6Si2AuI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55405456
+_cell_length_b   7.56981445
+_cell_length_c   7.97921719
+_cell_angle_alpha   80.84552020
+_cell_angle_beta   71.40614843
+_cell_angle_gamma   60.06884614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd6Si2AuI3
+_chemical_formula_sum   'Nd6 Si2 Au1 I3'
+_cell_volume   374.77882885
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.06759375  0.34111625  0.79545912  1.0
+  Nd  Nd1  1  0.27321565  0.00000000  0.20641105  1.0
+  Nd  Nd2  1  0.93240625  0.65888375  0.20454088  1.0
+  Nd  Nd3  1  0.40871000  0.65888375  0.79545912  1.0
+  Nd  Nd4  1  0.72678435  0.00000000  0.79358895  1.0
+  Nd  Nd5  1  0.59129000  0.34111625  0.20454088  1.0
+  Si  Si6  1  0.66624121  0.66751759  0.00000000  1.0
+  Si  Si7  1  0.33375879  0.33248241  0.00000000  1.0
+  Au  Au8  1  0.00000000  0.00000000  0.00000000  1.0
+  I  I9  1  0.83174718  0.33650564  0.50000000  1.0
+  I  I10  1  0.16825282  0.66349436  0.50000000  1.0
+  I  I11  1  0.50000000  0.00000000  0.50000000  1.0

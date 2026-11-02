@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Kr4O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75690475
+_cell_length_b   7.86550507
+_cell_length_c   14.36574073
+_cell_angle_alpha   79.38712918
+_cell_angle_beta   76.95149521
+_cell_angle_gamma   67.70750732
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Kr4O3
+_chemical_formula_sum   'Kr4 O3'
+_cell_volume   380.34441434
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Kr  Kr0  1  0.05788130  0.19413403  0.96065736  1
+  Kr  Kr1  1  0.89587783  0.67077535  0.09901523  1
+  Kr  Kr2  1  0.36981537  0.71031031  0.82664993  1
+  Kr  Kr3  1  0.28085678  0.11466555  0.48944783  1
+  O  O4  1  0.60331481  0.13073598  0.38602007  1
+  O  O5  1  0.60294591  1.02942240  0.57036313  1
+  O  O6  1  0.01471749  0.33456904  0.51355213  1

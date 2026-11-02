@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Er(TiPd4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01831289
+_cell_length_b   6.54908757
+_cell_length_c   7.43774002
+_cell_angle_alpha   107.29256048
+_cell_angle_beta   105.67200060
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er(TiPd4)2
+_chemical_formula_sum   'Er1 Ti2 Pd8'
+_cell_volume   179.25097917
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.50000000  0.00000000  0.00000000  1.0
+  Ti  Ti1  1  0.22160712  0.66594831  0.44321423  1.0
+  Ti  Ti2  1  0.77839288  0.33405169  0.55678577  1.0
+  Pd  Pd3  1  0.60546691  0.46639755  0.21093383  1.0
+  Pd  Pd4  1  0.31712080  0.08422241  0.63424160  1.0
+  Pd  Pd5  1  0.14977182  0.21100009  0.29954363  1.0
+  Pd  Pd6  1  0.04392176  0.71800099  0.08784351  1.0
+  Pd  Pd7  1  0.85022818  0.78899991  0.70045637  1.0
+  Pd  Pd8  1  0.68287920  0.91577759  0.36575840  1.0
+  Pd  Pd9  1  0.39453309  0.53360245  0.78906617  1.0
+  Pd  Pd10  1  0.95607824  0.28199901  0.91215649  1.0

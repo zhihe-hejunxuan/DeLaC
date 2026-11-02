@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiTlRuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64096746
+_cell_length_b   5.89320794
+_cell_length_c   7.91105314
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   96.82940268
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTlRuO4
+_chemical_formula_sum   'Li2 Tl2 Ru2 O8'
+_cell_volume   261.12424105
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.11965210  0.25000000  0.47872453  1.0
+  Li  Li1  1  0.88034790  0.75000000  0.52127547  1.0
+  Tl  Tl2  1  0.16657364  0.25000000  0.93542579  1.0
+  Tl  Tl3  1  0.83342636  0.75000000  0.06457421  1.0
+  Ru  Ru4  1  0.64565128  0.25000000  0.27337467  1.0
+  Ru  Ru5  1  0.35434872  0.75000000  0.72662533  1.0
+  O  O6  1  0.17710123  0.50926265  0.64550244  1.0
+  O  O7  1  0.82289877  0.00926265  0.35449756  1.0
+  O  O8  1  0.82289877  0.49073735  0.35449756  1.0
+  O  O9  1  0.17710123  0.99073735  0.64550244  1.0
+  O  O10  1  0.65873332  0.25000000  0.04612778  1.0
+  O  O11  1  0.34126668  0.75000000  0.95387222  1.0
+  O  O12  1  0.34010979  0.25000000  0.30542303  1.0
+  O  O13  1  0.65989021  0.75000000  0.69457697  1.0

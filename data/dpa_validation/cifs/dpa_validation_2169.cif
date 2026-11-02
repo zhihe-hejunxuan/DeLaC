@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsTi2Sb2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.95750099
+_cell_length_b   5.95750099
+_cell_length_c   9.13630706
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   70.97174371
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTi2Sb2O7
+_chemical_formula_sum   'Cs1 Ti2 Sb2 O7'
+_cell_volume   260.16041434
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.00000000  0.50000000  0.50000000  1.0
+  Ti  Ti1  1  0.14402830  0.07201415  0.78395755  1.0
+  Ti  Ti2  1  0.85597170  0.92798585  0.21604245  1.0
+  Sb  Sb3  1  0.57042454  0.28521227  0.14436318  1.0
+  Sb  Sb4  1  0.42957546  0.71478773  0.85563682  1.0
+  O  O5  1  0.84093012  0.91952187  0.72331585  1.0
+  O  O6  1  0.35527590  0.43575403  0.72331585  1.0
+  O  O7  1  0.35716229  0.92140825  0.72331585  1.0
+  O  O8  1  0.64283771  0.56424597  0.27668415  1.0
+  O  O9  1  0.64472410  0.08047813  0.27668415  1.0
+  O  O10  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O11  1  0.15906988  0.07859175  0.27668415  1.0

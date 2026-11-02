@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Se(BrO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69197503
+_cell_length_b   7.75706846
+_cell_length_c   4.34842843
+_cell_angle_alpha   61.36724673
+_cell_angle_beta   92.65190273
+_cell_angle_gamma   69.42070285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Se(BrO)2
+_chemical_formula_sum   'Se1 Br2 O2'
+_cell_volume   152.28244564
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.75152629  0.33156113  0.84413561  1
+  Br  Br1  1  0.26674724  0.66740613  0.18149640  1
+  Br  Br2  1  0.62853645  0.05579336  0.27183301  1
+  O  O3  1  0.42497114  0.57552124  0.65072845  1
+  O  O4  1  0.90604574  0.37697036  0.10108244  1

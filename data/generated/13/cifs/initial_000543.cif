@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_CsPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36708666
+_cell_length_b   3.79949119
+_cell_length_c   7.30134637
+_cell_angle_alpha   121.78907560
+_cell_angle_beta   127.71347721
+_cell_angle_gamma   89.05735071
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsPd
+_chemical_formula_sum   'Cs1 Pd1'
+_cell_volume   72.55078357
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.99826840  -0.00315550  0.74844019  1
+  Pd  Pd1  1  0.00173162  1.00315550  0.25155981  1

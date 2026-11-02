@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaFe2SnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47428736
+_cell_length_b   5.47484243
+_cell_length_c   5.84005459
+_cell_angle_alpha   90.84016150
+_cell_angle_beta   116.87051117
+_cell_angle_gamma   119.82880099
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaFe2SnO6
+_chemical_formula_sum   'La1 Fe2 Sn1 O6'
+_cell_volume   128.79903667
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.41886587  0.20853878  0.61892215  1.0
+  Fe  Fe1  1  0.94516577  0.46867842  0.42344045  1.0
+  Fe  Fe2  1  0.97444408  0.98698272  0.96008604  1.0
+  Sn  Sn3  1  0.36821308  0.68407946  0.05233327  1.0
+  O  O4  1  0.45539612  0.38324824  0.22593396  1.0
+  O  O5  1  0.14951614  0.77220874  0.22676892  1.0
+  O  O6  1  0.84112313  0.07970860  0.22979444  1.0
+  O  O7  1  0.49522076  0.65720717  0.76088884  1.0
+  O  O8  1  0.92571263  0.26816715  0.76327050  1.0
+  O  O9  1  0.10314444  0.82958372  0.75376242  1.0

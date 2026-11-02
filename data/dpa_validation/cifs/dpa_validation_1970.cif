@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbErMgTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.50545154
+_cell_length_b   8.62599240
+_cell_length_c   11.79178829
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   105.11636392
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbErMgTe3
+_chemical_formula_sum   'Rb2 Er2 Mg2 Te6'
+_cell_volume   442.41877365
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.24965828  0.49965645  0.25000000  1.0
+  Rb  Rb1  1  0.75034172  0.50034355  0.75000000  1.0
+  Er  Er2  1  0.00000000  0.00000000  0.50000000  1.0
+  Er  Er3  1  0.00000000  0.00000000  0.00000000  1.0
+  Mg  Mg4  1  0.53171461  0.06567065  0.25000000  1.0
+  Mg  Mg5  1  0.46828539  0.93432935  0.75000000  1.0
+  Te  Te6  1  0.62209677  0.24471658  0.44755877  1.0
+  Te  Te7  1  0.37790323  0.75528342  0.55244123  1.0
+  Te  Te8  1  0.37790323  0.75528342  0.94755877  1.0
+  Te  Te9  1  0.62209677  0.24471658  0.05244123  1.0
+  Te  Te10  1  0.93086404  0.86328544  0.25000000  1.0
+  Te  Te11  1  0.06913596  0.13671456  0.75000000  1.0

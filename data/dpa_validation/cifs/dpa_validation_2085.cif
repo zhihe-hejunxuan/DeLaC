@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La6Ni2I3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84498960
+_cell_length_b   7.20863378
+_cell_length_c   8.33945727
+_cell_angle_alpha   82.79948725
+_cell_angle_beta   74.69234161
+_cell_angle_gamma   61.65515694
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6Ni2I3N
+_chemical_formula_sum   'La6 Ni2 I3 N1'
+_cell_volume   349.30977743
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.08172312  0.31587383  0.81828777  1.0
+  La  La1  1  0.21919596  0.00000000  0.18727108  1.0
+  La  La2  1  0.91827688  0.68412617  0.18171223  1.0
+  La  La3  1  0.39759696  0.68412617  0.81828777  1.0
+  La  La4  1  0.78080404  0.00000000  0.81272892  1.0
+  La  La5  1  0.60240304  0.31587383  0.18171223  1.0
+  Ni  Ni6  1  0.66348343  0.67303315  0.00000000  1.0
+  Ni  Ni7  1  0.33651657  0.32696685  0.00000000  1.0
+  I  I8  1  0.82675026  0.34649948  0.50000000  1.0
+  I  I9  1  0.17324974  0.65350052  0.50000000  1.0
+  I  I10  1  0.50000000  0.00000000  0.50000000  1.0
+  N  N11  1  0.00000000  0.00000000  0.00000000  1.0

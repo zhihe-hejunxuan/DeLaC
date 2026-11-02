@@ -1,0 +1,178 @@
+[
+  {
+    "artifact_id": "dpa_3_1_mptrj",
+    "category": "official_checkpoint",
+    "origin": "DPA-3.1 MPtrj",
+    "expected_path": "mlff_choosing/dpa-3.1-mptrj.pth",
+    "size_bytes": "24263069",
+    "sha256": "89c001d080c06ffe34b2b623aa572536a2501bccff8d6802a5eae15df40a5779",
+    "public_uri": "",
+    "required_for": "relaxation and DPA-to-Ehull validation",
+    "redistribution_note": "Prefer official upstream download or a license-compliant release asset"
+  },
+  {
+    "artifact_id": "delac_scaled_rmsnorm_ae",
+    "category": "local_checkpoint",
+    "origin": "DeLaC training",
+    "expected_path": "result/FlowPrep/mp_20/large/h_rmsnorm/model_899.pth",
+    "size_bytes": "9171531",
+    "sha256": "600ea41c57af03b6a3316726ce733f62a9058b900a2f688dfe8272d96e12a3c2",
+    "public_uri": "",
+    "required_for": "DeLaC generation and latent ablation",
+    "redistribution_note": "Must be archived for independent reproduction"
+  },
+  {
+    "artifact_id": "delac_maf_sampler",
+    "category": "local_checkpoint",
+    "origin": "DeLaC sampler training",
+    "expected_path": "result/MAF/no_cond/mp_20/h_rmsnorm/0.0003/512/model_best.pt",
+    "size_bytes": "59975011",
+    "sha256": "53374648c17ab10aa883e031c06ab1311d38fe93aa217ab4588799e29635314c",
+    "public_uri": "",
+    "required_for": "MAF baseline and sampler ablation",
+    "redistribution_note": "Must be archived for independent reproduction"
+  },
+  {
+    "artifact_id": "symat_mp20",
+    "category": "local_checkpoint",
+    "origin": "SyMat training snapshot",
+    "expected_path": "SyMat/result/mp_20/model_299.pth",
+    "size_bytes": "13688075",
+    "sha256": "34f1b1cc66f4f6c2ef8a2ce09457239aa6eb1d4d10f0aee6a155fb666678241a",
+    "public_uri": "",
+    "required_for": "SyMat baseline",
+    "redistribution_note": "Confirm upstream and derivative-weight redistribution terms"
+  },
+  {
+    "artifact_id": "cdvae_mp20_epoch144",
+    "category": "local_checkpoint",
+    "origin": "CDVAE retraining",
+    "expected_path": "result/final_experiments/experiment_3/training/cdvae_mp20/epoch=144-step=15370.ckpt",
+    "size_bytes": "55771428",
+    "sha256": "a6299322c5809d901fe0c63eb7ad5abe4d7ac2f3fafbd312856dbe68f9a6cb39",
+    "public_uri": "",
+    "required_for": "CDVAE baseline",
+    "redistribution_note": "Must be archived with training provenance"
+  },
+  {
+    "artifact_id": "diffcsp_mp20",
+    "category": "official_checkpoint",
+    "origin": "DiffCSP official release",
+    "expected_path": "final_experiments/experiment_3/vendor/diffcsp-official/pretrained/mp_gen/last.ckpt",
+    "size_bytes": "49446843",
+    "sha256": "82c0b98040c364a61ec92b9740f8a078ec54353e83949dd5a0c7462177e8b711",
+    "public_uri": "",
+    "required_for": "DiffCSP baseline",
+    "redistribution_note": "Prefer official upstream download"
+  },
+  {
+    "artifact_id": "mattergen_mp20_base",
+    "category": "official_checkpoint",
+    "origin": "MatterGen official release",
+    "expected_path": "final_experiments/experiment_3/vendor/mattergen-official/checkpoints/mp_20_base/checkpoints/last.ckpt",
+    "size_bytes": "461369442",
+    "sha256": "ffb80e4425a6f99f479a67b8cd111885d45117234e8947ff77eb3a55df420b9a",
+    "public_uri": "",
+    "required_for": "MatterGen baseline",
+    "redistribution_note": "Prefer official upstream download and follow model license"
+  },
+  {
+    "artifact_id": "ftcp_seed_guided",
+    "category": "local_checkpoint",
+    "origin": "FTCP retraining",
+    "expected_path": "third_party/FTCP/runs/mp20_ablation_B_niggli_properties/best.pt",
+    "size_bytes": "41956319",
+    "sha256": "bbfc0c9d78ed543793a48a970b299d0967506971ba1feffc3adfc6b34123a940",
+    "public_uri": "",
+    "required_for": "FTCP seed-guided baseline",
+    "redistribution_note": "Restore best.pt together with its preprocessing cache; paths are relative to the repository root"
+  },
+  {
+    "artifact_id": "learned_filter_i3_t2_hgb",
+    "category": "local_model",
+    "origin": "DeLaC filter calibration",
+    "expected_path": "result/final_experiments/experiment_speed/frozen_i3_t2_hgb/i3_t2_hgb.joblib",
+    "size_bytes": "1110257",
+    "sha256": "a4d6f121137f60905049923d6d2210b7affbff4783fc9e54b028d7fa0e0d4ae4",
+    "public_uri": "",
+    "required_for": "learned-filter arms",
+    "redistribution_note": "Small but kept external under the same model-artifact policy"
+  },
+  {
+    "artifact_id": "mp20_train",
+    "category": "benchmark_data",
+    "origin": "project preprocessing",
+    "expected_path": "data/mp_20/train.pt",
+    "size_bytes": "146348321",
+    "sha256": "3652730e64ec1b09e63a5ce75a42c624dde7b1e40b818b112b8e9c672dcef2f2",
+    "public_uri": "",
+    "required_for": "AE and sampler training",
+    "redistribution_note": "Release only if source-dataset terms permit"
+  },
+  {
+    "artifact_id": "mp20_validation",
+    "category": "benchmark_data",
+    "origin": "project preprocessing",
+    "expected_path": "data/mp_20/val.pt",
+    "size_bytes": "48815573",
+    "sha256": "98e84d78ffc8d7b66243f5c8471795e4d17aff4e60dbd656045f10d746c43f69",
+    "public_uri": "",
+    "required_for": "validation and latent diagnostics",
+    "redistribution_note": "Release only if source-dataset terms permit"
+  },
+  {
+    "artifact_id": "mp20_test",
+    "category": "benchmark_data",
+    "origin": "project preprocessing",
+    "expected_path": "data/mp_20/test.pt",
+    "size_bytes": "48729819",
+    "sha256": "d91a613eab099f2b070d9c431fa96a91e44fd2fa31fbaab288598d67112b7870",
+    "public_uri": "",
+    "required_for": "final evaluation",
+    "redistribution_note": "Release only if source-dataset terms permit"
+  },
+  {
+    "artifact_id": "mp20_score_norm",
+    "category": "preprocessing_statistic",
+    "origin": "project preprocessing",
+    "expected_path": "data/mp_20/new_score_norm.txt",
+    "size_bytes": "850",
+    "sha256": "05ed0ffba6dec19b58caa7c42e8429f8d7b8ecb4e0844ef61179a507e74b6765",
+    "public_uri": "",
+    "required_for": "AE preprocessing",
+    "redistribution_note": "Document split composition alongside this file"
+  },
+  {
+    "artifact_id": "mp2020_reference",
+    "category": "reference_database",
+    "origin": "alex-mp release",
+    "expected_path": "data-release/alex-mp/reference_MP2020correction.gz",
+    "size_bytes": "873410170",
+    "sha256": "c722f72c7d0cd398fc382870f0b731425b54bd4492b089ca36e3119e49f469b5",
+    "public_uri": "",
+    "required_for": "energy-above-hull evaluation",
+    "redistribution_note": "Prefer official source or license-compliant data release"
+  },
+  {
+    "artifact_id": "cdvae_gemnet_scaling",
+    "category": "fixed_calibration_parameters",
+    "origin": "cdvae upstream GemNet variance calibration",
+    "expected_path": "final_experiments/experiment_3/vendor/cdvae-official/cdvae/pl_modules/gemnet/gemnet-dT.json",
+    "size_bytes": "816",
+    "sha256": "0c8f1f2c215997b17814475595acbbc50046b8bb846ca9a2a438b2a1d125be55",
+    "upstream_source_path": "cdvae/pl_modules/gemnet/gemnet-dT.json",
+    "required_for": "cdvae model construction/training/inference",
+    "redistribution_note": "Excluded from this code/data release; copy from the corresponding source revision in final_experiments/experiment_3/source_manifest.json before running"
+  },
+  {
+    "artifact_id": "mattergen_gemnet_scaling",
+    "category": "fixed_calibration_parameters",
+    "origin": "mattergen upstream GemNet variance calibration",
+    "expected_path": "final_experiments/experiment_3/vendor/mattergen-official/mattergen/common/gemnet/gemnet-dT.json",
+    "size_bytes": "925",
+    "sha256": "867604ed6a605649241cd94d9604f25226fb1e362f332b7d1a9ae40d3f747e90",
+    "upstream_source_path": "mattergen/common/gemnet/gemnet-dT.json",
+    "required_for": "mattergen model construction/training/inference",
+    "redistribution_note": "Excluded from this code/data release; copy from the corresponding source revision in final_experiments/experiment_3/source_manifest.json before running"
+  }
+]

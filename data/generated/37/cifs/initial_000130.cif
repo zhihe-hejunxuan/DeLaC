@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_IrClO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54434665
+_cell_length_b   7.31704436
+_cell_length_c   6.99622990
+_cell_angle_alpha   97.64947200
+_cell_angle_beta   94.74108492
+_cell_angle_gamma   93.16043664
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   IrClO8
+_chemical_formula_sum   'Ir1 Cl1 O8'
+_cell_volume   279.70728823
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ir  Ir0  1  0.66020899  0.84988368  0.76847651  1
+  Cl  Cl1  1  0.13650870  0.10084891  0.35617298  1
+  O  O2  1  0.30544856  0.34666544  0.75917230  1
+  O  O3  1  0.34437524  0.17816684  0.26748049  1
+  O  O4  1  0.14288891  0.36975377  0.86762763  1
+  O  O5  1  0.77344922  0.65120208  0.84205388  1
+  O  O6  1  0.90110923  0.18092726  0.32772582  1
+  O  O7  1  0.86831493  0.94973923  0.63201041  1
+  O  O8  1  0.38654444  0.79478568  0.62510262  1
+  O  O9  1  0.61443451  1.00203170  0.97399157  1

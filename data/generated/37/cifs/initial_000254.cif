@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_CrGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97281856
+_cell_length_b   2.59155502
+_cell_length_c   2.58984341
+_cell_angle_alpha   82.67946046
+_cell_angle_beta   90.05095413
+_cell_angle_gamma   89.96521454
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrGa
+_chemical_formula_sum   'Cr1 Ga1'
+_cell_volume   26.44708860
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.24999502  0.75000882  0.25000539  1
+  Ga  Ga1  1  0.75000498  0.24999117  0.74999462  1

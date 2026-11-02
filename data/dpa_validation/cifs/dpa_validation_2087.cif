@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Li2La(TmGa)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.67135441
+_cell_length_b   4.67135441
+_cell_length_c   9.15236929
+_cell_angle_alpha   75.21461177
+_cell_angle_beta   104.78538823
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2La(TmGa)2
+_chemical_formula_sum   'Li2 La1 Tm2 Ga2'
+_cell_volume   165.28152524
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.58798495  0.41201505  0.76395485  1.0
+  Li  Li1  1  0.41201505  0.58798495  0.23604515  1.0
+  La  La2  1  0.00000000  0.00000000  0.00000000  1.0
+  Tm  Tm3  1  0.12945313  0.87054687  0.38835938  1.0
+  Tm  Tm4  1  0.87054687  0.12945313  0.61164062  1.0
+  Ga  Ga5  1  0.74658866  0.25341134  0.23976598  1.0
+  Ga  Ga6  1  0.25341134  0.74658866  0.76023402  1.0

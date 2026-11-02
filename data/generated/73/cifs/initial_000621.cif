@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TaTl2CuBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94314962
+_cell_length_b   6.72940905
+_cell_length_c   10.17480130
+_cell_angle_alpha   100.62782189
+_cell_angle_beta   69.90066797
+_cell_angle_gamma   68.77961210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTl2CuBr6
+_chemical_formula_sum   'Ta1 Tl2 Cu1 Br6'
+_cell_volume   333.33456427
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.61256550  0.68025856  0.93170174  1
+  Tl  Tl1  1  0.45521319  0.18679042  0.51974857  1
+  Tl  Tl2  1  0.98702019  0.55586531  0.32579116  1
+  Cu  Cu3  1  0.74216766  -0.01473503  0.91721411  1
+  Br  Br4  1  0.22021052  0.94476194  0.18892872  1
+  Br  Br5  1  0.64480725  0.35537802  0.06059907  1
+  Br  Br6  1  0.80882260  0.35439924  0.68359470  1
+  Br  Br7  1  0.42296565  0.96245948  0.81384893  1
+  Br  Br8  1  0.26244094  0.67256618  0.51598980  1
+  Br  Br9  1  0.05446890  0.62266674  0.92470757  1

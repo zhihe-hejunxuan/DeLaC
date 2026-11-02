@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2ErAgBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36504611
+_cell_length_b   7.36984596
+_cell_length_c   7.82044225
+_cell_angle_alpha   90.13682767
+_cell_angle_beta   117.99599687
+_cell_angle_gamma   119.92422365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ErAgBr6
+_chemical_formula_sum   'Na2 Er1 Ag1 Br6'
+_cell_volume   308.93692557
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.04716308  0.52326315  0.57032920  1.0
+  Na  Na1  1  0.02736129  0.01330457  0.04105703  1.0
+  Er  Er2  1  0.64936577  0.32480320  0.97395032  1.0
+  Ag  Ag3  1  0.62446459  0.81287370  0.43785175  1.0
+  Br  Br4  1  0.53616058  0.95260095  0.74594096  1.0
+  Br  Br5  1  0.79369269  0.58296152  0.74658480  1.0
+  Br  Br6  1  0.16353409  0.21049773  0.74674100  1.0
+  Br  Br7  1  0.53469924  0.10730249  0.24073128  1.0
+  Br  Br8  1  0.13362554  0.42748685  0.24047548  1.0
+  Br  Br9  1  0.81313111  0.70650682  0.24113717  1.0

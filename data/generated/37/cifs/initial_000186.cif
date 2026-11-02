@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Na(CdAg)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12194486
+_cell_length_b   4.25049363
+_cell_length_c   6.84096350
+_cell_angle_alpha   90.02826033
+_cell_angle_beta   90.01716009
+_cell_angle_gamma   89.64351650
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(CdAg)2
+_chemical_formula_sum   'Na1 Cd2 Ag2'
+_cell_volume   119.85339544
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25711815  0.74408859  0.64457520  1
+  Cd  Cd1  1  0.75780330  0.24481557  0.85599143  1
+  Cd  Cd2  1  0.75818644  0.24676689  0.43670887  1
+  Ag  Ag3  1  0.75826034  0.74591056  0.14654854  1
+  Ag  Ag4  1  0.25807808  0.24554905  0.14577274  1

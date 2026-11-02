@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CuNi3B
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.62556281
+_cell_length_b   2.96800810
+_cell_length_c   6.60303782
+_cell_angle_alpha   89.98299581
+_cell_angle_beta   90.32764229
+_cell_angle_gamma   90.03036098
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuNi3B
+_chemical_formula_sum   'Cu1 Ni3 B1'
+_cell_volume   51.45458711
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.28777436  0.70966700  0.59959857  1
+  Ni  Ni1  1  0.78989297  0.20982293  0.81569061  1
+  Ni  Ni2  1  0.78388601  0.21020609  0.38382435  1
+  Ni  Ni3  1  0.28687306  0.71022588  0.09989500  1
+  B  B4  1  0.78663980  0.21022664  0.09977442  1

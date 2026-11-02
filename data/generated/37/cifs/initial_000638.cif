@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_P4Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.72680463
+_cell_length_b   2.86848557
+_cell_length_c   12.76911425
+_cell_angle_alpha   80.57278723
+_cell_angle_beta   71.02691360
+_cell_angle_gamma   90.04879382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   P4Rh
+_chemical_formula_sum   'P4 Rh1'
+_cell_volume   93.01880291
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.14687842  0.12408713  0.70033451  1
+  P  P1  1  0.87239189  0.28304523  0.27088783  1
+  P  P2  1  0.69140379  0.96473270  -0.00077752  1
+  P  P3  1  0.65742564  0.68059263  0.41045741  1
+  Rh  Rh4  1  0.42387808  0.28904423  0.84667142  1

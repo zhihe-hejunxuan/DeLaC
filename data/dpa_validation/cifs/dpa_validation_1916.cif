@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ho3ScPb2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58483398
+_cell_length_b   4.77987233
+_cell_length_c   8.64946794
+_cell_angle_alpha   73.95989161
+_cell_angle_beta   74.63093139
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho3ScPb2C
+_chemical_formula_sum   'Ho3 Sc1 Pb2 C1'
+_cell_volume   175.10875638
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.00000000  0.50000000  0.00000000  1.0
+  Ho  Ho1  1  0.84380564  0.84380564  0.31238872  1.0
+  Ho  Ho2  1  0.15619436  0.15619436  0.68761128  1.0
+  Sc  Sc3  1  0.50000000  0.00000000  0.00000000  1.0
+  Pb  Pb4  1  0.35838897  0.35838897  0.28322207  1.0
+  Pb  Pb5  1  0.64161103  0.64161103  0.71677793  1.0
+  C  C6  1  0.00000000  0.00000000  0.00000000  1.0

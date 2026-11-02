@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Hg4Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78900472
+_cell_length_b   5.84392005
+_cell_length_c   5.43472740
+_cell_angle_alpha   63.76204060
+_cell_angle_beta   65.63580111
+_cell_angle_gamma   55.46175947
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg4Pd
+_chemical_formula_sum   'Hg4 Pd1'
+_cell_volume   132.54823264
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.60341800  0.33616743  -0.00375448  1
+  Hg  Hg1  1  0.40277844  0.14067734  0.68180427  1
+  Hg  Hg2  1  0.90101560  0.63836052  0.18363391  1
+  Hg  Hg3  1  0.20084405  0.94271440  0.36994896  1
+  Pd  Pd4  1  0.90213605  0.63999336  0.68219095  1

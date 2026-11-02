@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Tm8Co2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84245577
+_cell_length_b   6.58586770
+_cell_length_c   8.75268819
+_cell_angle_alpha   106.73879473
+_cell_angle_beta   106.05898267
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm8Co2Ni
+_chemical_formula_sum   'Tm8 Co2 Ni1'
+_cell_volume   255.91534706
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.40490757  0.54522144  0.80981514  1.0
+  Tm  Tm1  1  0.67131347  0.97245392  0.34262694  1.0
+  Tm  Tm2  1  0.79777331  0.67936647  0.59554663  1.0
+  Tm  Tm3  1  0.96501908  0.20963358  0.93003815  1.0
+  Tm  Tm4  1  0.20222669  0.32063353  0.40445337  1.0
+  Tm  Tm5  1  0.32868653  0.02754608  0.65737306  1.0
+  Tm  Tm6  1  0.59509243  0.45477856  0.19018486  1.0
+  Tm  Tm7  1  0.03498092  0.79036642  0.06996185  1.0
+  Co  Co8  1  0.81361008  0.29272462  0.62722016  1.0
+  Co  Co9  1  0.18638992  0.70727538  0.37277984  1.0
+  Ni  Ni10  1  0.50000000  0.00000000  0.00000000  1.0

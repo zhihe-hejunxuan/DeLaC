@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ce2AlSi4Pt3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21293936
+_cell_length_b   4.21293936
+_cell_length_c   10.10088809
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2AlSi4Pt3
+_chemical_formula_sum   'Ce2 Al1 Si4 Pt3'
+_cell_volume   179.27922879
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.50000000  0.00000000  0.24483968  1.0
+  Ce  Ce1  1  0.00000000  0.50000000  0.75516032  1.0
+  Al  Al2  1  0.50000000  0.50000000  0.50000000  1.0
+  Si  Si3  1  0.50000000  0.50000000  0.00000000  1.0
+  Si  Si4  1  0.00000000  0.00000000  0.00000000  1.0
+  Si  Si5  1  0.50000000  0.00000000  0.64149922  1.0
+  Si  Si6  1  0.00000000  0.50000000  0.35850078  1.0
+  Pt  Pt7  1  0.00000000  0.00000000  0.50000000  1.0
+  Pt  Pt8  1  0.50000000  0.00000000  0.87956317  1.0
+  Pt  Pt9  1  0.00000000  0.50000000  0.12043683  1.0

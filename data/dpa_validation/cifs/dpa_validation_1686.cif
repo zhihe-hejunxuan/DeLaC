@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SnHg2Bi2Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91001792
+_cell_length_b   6.39805307
+_cell_length_c   9.82366150
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnHg2Bi2Pb
+_chemical_formula_sum   'Sn2 Hg4 Bi4 Pb2'
+_cell_volume   371.45826458
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.00000000  0.89200416  0.62395689  1.0
+  Sn  Sn1  1  0.00000000  0.39200416  0.37604311  1.0
+  Hg  Hg2  1  0.50000000  0.12507098  0.05706825  1.0
+  Hg  Hg3  1  0.00000000  0.37266774  0.04545888  1.0
+  Hg  Hg4  1  0.50000000  0.62507098  0.94293175  1.0
+  Hg  Hg5  1  0.00000000  0.87266774  0.95454112  1.0
+  Bi  Bi6  1  0.00000000  0.39223678  0.69016223  1.0
+  Bi  Bi7  1  0.50000000  0.14083577  0.38541496  1.0
+  Bi  Bi8  1  0.00000000  0.89223678  0.30983777  1.0
+  Bi  Bi9  1  0.50000000  0.64083577  0.61458504  1.0
+  Pb  Pb10  1  0.50000000  0.12278558  0.73069086  1.0
+  Pb  Pb11  1  0.50000000  0.62278558  0.26930914  1.0

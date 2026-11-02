@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_HfGaRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.13098860
+_cell_length_b   3.91948711
+_cell_length_c   4.86800419
+_cell_angle_alpha   90.25105623
+_cell_angle_beta   74.04547564
+_cell_angle_gamma   89.88233410
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfGaRu
+_chemical_formula_sum   'Hf1 Ga1 Ru1'
+_cell_volume   57.43747480
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.33723911  0.24715647  0.71523366  1
+  Ga  Ga1  1  0.08318279  0.74639711  0.30101053  1
+  Ru  Ru2  1  0.66664193  0.24684689  0.16248244  1

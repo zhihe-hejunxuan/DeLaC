@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Nd8As3AuSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.51168496
+_cell_length_b   8.51168496
+_cell_length_c   8.54076969
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.11258590
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd8As3AuSe4
+_chemical_formula_sum   'Nd8 As3 Au1 Se4'
+_cell_volume   438.27838855
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.99478553  0.74323944  0.75366839  1.0
+  Nd  Nd1  1  0.50309217  0.25154608  0.75366839  1.0
+  Nd  Nd2  1  0.50786636  0.25393318  0.23820046  1.0
+  Nd  Nd3  1  0.99478553  0.25154608  0.75366839  1.0
+  Nd  Nd4  1  0.00521447  0.74845392  0.24633161  1.0
+  Nd  Nd5  1  0.49213364  0.74606682  0.76179954  1.0
+  Nd  Nd6  1  0.49690783  0.74845392  0.24633161  1.0
+  Nd  Nd7  1  0.00521447  0.25676056  0.24633161  1.0
+  As  As8  1  0.00000000  0.50000000  0.00000000  1.0
+  As  As9  1  0.50000000  0.00000000  0.00000000  1.0
+  As  As10  1  0.50000000  0.50000000  0.00000000  1.0
+  Au  Au11  1  0.00000000  0.00000000  0.00000000  1.0
+  Se  Se12  1  0.00000000  0.50000000  0.50000000  1.0
+  Se  Se13  1  0.50000000  0.00000000  0.50000000  1.0
+  Se  Se14  1  0.00000000  0.00000000  0.50000000  1.0
+  Se  Se15  1  0.50000000  0.50000000  0.50000000  1.0

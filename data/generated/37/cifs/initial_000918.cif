@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiPrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   1.95928367
+_cell_length_b   3.27437971
+_cell_length_c   12.89948812
+_cell_angle_alpha   82.23881368
+_cell_angle_beta   93.22123732
+_cell_angle_gamma   111.49631775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiPrO3
+_chemical_formula_sum   'Li2 Pr2 O6'
+_cell_volume   76.29210117
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.41999264  0.79058567  0.31428482  1
+  Li  Li1  1  0.36425918  0.20877680  0.49853519  1
+  Pr  Pr2  1  0.75858136  0.40360742  0.11260476  1
+  Pr  Pr3  1  0.01099561  0.05024058  0.89915298  1
+  O  O4  1  0.51558783  0.18506717  0.49687038  1
+  O  O5  1  0.49521934  0.97713008  0.90997194  1
+  O  O6  1  0.27347652  0.78852473  0.30193152  1
+  O  O7  1  0.30390697  0.41613630  0.10361383  1
+  O  O8  1  0.32453289  0.64151182  0.67235363  1
+  O  O9  1  0.68749720  0.55049560  0.72568837  1

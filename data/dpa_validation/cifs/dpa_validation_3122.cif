@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CaZnCu2Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12113251
+_cell_length_b   4.13640059
+_cell_length_c   5.82376543
+_cell_angle_alpha   110.80148019
+_cell_angle_beta   110.61452059
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaZnCu2Si
+_chemical_formula_sum   'Ca1 Zn1 Cu2 Si1'
+_cell_volume   85.97084544
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.55727252  0.55700511  0.11401021  1.0
+  Zn  Zn1  1  0.31070924  0.80944212  0.61888425  1.0
+  Cu  Cu2  1  0.79546939  0.29671829  0.59343657  1.0
+  Cu  Cu3  1  0.94770039  0.94775939  0.89551877  1.0
+  Si  Si4  1  0.17670847  0.17693511  0.35387021  1.0

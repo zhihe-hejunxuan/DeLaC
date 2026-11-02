@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hg2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29222215
+_cell_length_b   8.04121169
+_cell_length_c   6.90199334
+_cell_angle_alpha   80.51810457
+_cell_angle_beta   73.34957905
+_cell_angle_gamma   89.24108261
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg2Rh
+_chemical_formula_sum   'Hg8 Rh4'
+_cell_volume   277.38103404
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.14966459  0.38405555  0.99818970  1
+  Hg  Hg1  1  0.59750019  0.10556484  0.90233618  1
+  Hg  Hg2  1  0.44578504  0.47519190  0.28523598  1
+  Hg  Hg3  1  0.74604487  0.14726056  0.39503970  1
+  Hg  Hg4  1  0.25824953  0.92368657  0.65275477  1
+  Hg  Hg5  1  0.82833927  0.72270759  -0.00018750  1
+  Hg  Hg6  1  0.16029639  0.80388924  0.29304857  1
+  Hg  Hg7  1  0.67814384  0.52020675  0.64684196  1
+  Rh  Rh8  1  0.27781530  0.15039570  0.29673805  1
+  Rh  Rh9  1  0.05671563  0.05127444  1.00380464  1
+  Rh  Rh10  1  1.07600840  0.25941425  0.64427827  1
+  Rh  Rh11  1  0.17136893  0.58206195  0.64336216  1

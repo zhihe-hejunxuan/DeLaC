@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Pr2CuPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.89348902
+_cell_length_b   4.65224748
+_cell_length_c   6.60393106
+_cell_angle_alpha   70.31024304
+_cell_angle_beta   89.80840730
+_cell_angle_gamma   89.95730182
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2CuPb2
+_chemical_formula_sum   'Pr2 Cu1 Pb2'
+_cell_volume   141.55200447
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.69627280  0.08970716  0.74550383  1
+  Pr  Pr1  1  0.19552046  0.33072784  0.27903583  1
+  Cu  Cu2  1  0.19580399  0.96372425  -0.00030125  1
+  Pb  Pb3  1  0.19597198  0.59599131  0.73063623  1
+  Pb  Pb4  1  0.69449054  0.82294940  0.29081525  1

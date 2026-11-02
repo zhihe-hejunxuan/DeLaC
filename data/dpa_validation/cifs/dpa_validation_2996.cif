@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TlIn(CuCl3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80470212
+_cell_length_b   6.82172159
+_cell_length_c   8.11550406
+_cell_angle_alpha   65.38556864
+_cell_angle_beta   65.46915434
+_cell_angle_gamma   60.08738085
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlIn(CuCl3)2
+_chemical_formula_sum   'Tl1 In1 Cu2 Cl6'
+_cell_volume   286.38968151
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.49823825  0.49807173  0.51964661  1.0
+  In  In1  1  0.99788685  0.99894227  0.01984625  1.0
+  Cu  Cu2  1  0.72884635  0.72659473  0.82886072  1.0
+  Cu  Cu3  1  0.26541571  0.27162802  0.21024310  1.0
+  Cl  Cl4  1  0.95470504  0.60888904  0.23254690  1.0
+  Cl  Cl5  1  0.04082689  0.38927315  0.80802599  1.0
+  Cl  Cl6  1  0.77522009  0.03884883  0.80842851  1.0
+  Cl  Cl7  1  0.38872468  0.77426717  0.80994481  1.0
+  Cl  Cl8  1  0.60631488  0.22328384  0.22924098  1.0
+  Cl  Cl9  1  0.22148126  0.95812022  0.23068816  1.0

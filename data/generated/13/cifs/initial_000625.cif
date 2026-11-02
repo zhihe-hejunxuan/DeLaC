@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta4CuTe4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51230889
+_cell_length_b   5.84918373
+_cell_length_c   9.44311653
+_cell_angle_alpha   94.79391352
+_cell_angle_beta   82.01670135
+_cell_angle_gamma   114.00812790
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta4CuTe4O7
+_chemical_formula_sum   'Ta4 Cu1 Te4 O7'
+_cell_volume   325.25533694
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.41888939  0.89000536  0.95487238  1
+  Ta  Ta1  1  0.58543359  0.46942023  0.14453868  1
+  Ta  Ta2  1  0.72378541  0.91380948  0.43097244  1
+  Ta  Ta3  1  0.12487649  0.56829391  0.29827277  1
+  Cu  Cu4  1  0.06388988  0.19554376  0.67961112  1
+  Te  Te5  1  0.01265237  0.77018307  0.55677228  1
+  Te  Te6  1  0.41396810  0.60854322  0.69571161  1
+  Te  Te7  1  0.11555604  0.07302729  0.93150300  1
+  Te  Te8  1  0.65688070  0.18249346  0.68575746  1
+  O  O9  1  0.62708750  0.19025183  0.04901890  1
+  O  O10  1  0.44495667  0.78710515  0.35288048  1
+  O  O11  1  0.30061299  0.35033935  0.24857186  1
+  O  O12  1  0.58900718  0.69334588  0.01779859  1
+  O  O13  1  0.88858671  0.22462531  0.34655810  1
+  O  O14  1  0.19964248  0.70729835  0.11726973  1
+  O  O15  1  0.80243903  0.64110957  0.27788558  1

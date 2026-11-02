@@ -1,0 +1,23 @@
+{
+  "cdvae": {
+    "repo": "https://github.com/txie-93/cdvae",
+    "commit": "f857f598d6f6cca5dc1ea0582d228f12dcc2c2ea",
+    "checkpoint": null,
+    "checkpoint_status": "official MP-20 checkpoint not published; training required"
+  },
+  "diffcsp": {
+    "repo": "https://github.com/jiaor17/DiffCSP",
+    "commit": "7121d159826efa2ba9500bf299250d96da37f146",
+    "checkpoint": "vendor/diffcsp-official/pretrained/mp_gen/last.ckpt",
+    "checkpoint_source_file_id": "1FF3nZ8TvkoE9zvAw0gypmahYT5u2kD0B",
+    "local_patch": "remove unused imports in scripts/generation.py and diffcsp/common/data_utils.py only"
+  },
+  "mattergen_mp20": {
+    "repo": "https://github.com/microsoft/mattergen",
+    "commit": "ac9ddd406171138c3f037d06b9b53fedbbb1c536",
+    "checkpoint": "vendor/mattergen-official/checkpoints/mp_20_base/checkpoints/last.ckpt",
+    "checkpoint_size": 461369442,
+    "checkpoint_sha256": "ffb80e4425a6f99f479a67b8cd111885d45117234e8947ff77eb3a55df420b9a",
+    "local_patch": "add MP_20 atom-count distribution and expose generator selector; formal runs use MP_20 rather than default ALEX_MP_20"
+  }
+}

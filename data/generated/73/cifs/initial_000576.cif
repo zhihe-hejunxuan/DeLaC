@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ga2PdAu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.03065057
+_cell_length_b   5.49986847
+_cell_length_c   7.14118206
+_cell_angle_alpha   116.99239828
+_cell_angle_beta   93.98450230
+_cell_angle_gamma   89.05630937
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2PdAu3
+_chemical_formula_sum   'Ga2 Pd1 Au3'
+_cell_volume   105.79255229
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.89240078  0.82247205  0.34821773  1
+  Ga  Ga1  1  0.58854132  0.22009681  1.01739048  1
+  Pd  Pd2  1  1.14275278  0.32448243  0.33156303  1
+  Au  Au3  1  0.31412870  0.73004434  0.02585620  1
+  Au  Au4  1  0.72921935  0.76361142  0.67602455  1
+  Au  Au5  1  0.68110304  0.26552580  0.67223131  1

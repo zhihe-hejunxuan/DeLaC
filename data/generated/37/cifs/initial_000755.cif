@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_PtO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.84536398
+_cell_length_b   4.50372747
+_cell_length_c   6.38998135
+_cell_angle_alpha   66.85456638
+_cell_angle_beta   79.59392362
+_cell_angle_gamma   57.60040799
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PtO4
+_chemical_formula_sum   'Pt1 O4'
+_cell_volume   108.17912545
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pt  Pt0  1  0.96537268  0.95515638  0.53071603  1
+  O  O1  1  0.37537882  0.79329577  0.45202444  1
+  O  O2  1  0.68743982  0.19873757  0.29835758  1
+  O  O3  1  -0.03007485  0.82181484  0.87315056  1
+  O  O4  1  0.67637148  0.93054575  0.80169033  1

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ErTlAg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.25818326
+_cell_length_b   5.34593350
+_cell_length_c   6.62207169
+_cell_angle_alpha   78.47380324
+_cell_angle_beta   66.60801488
+_cell_angle_gamma   60.54151431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTlAg
+_chemical_formula_sum   'Er2 Tl2 Ag2'
+_cell_volume   148.75569093
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.25998579  0.67688780  0.80314062  1.0
+  Er  Er1  1  0.74001421  0.32311220  0.19685938  1.0
+  Tl  Tl2  1  0.37337693  0.97994112  0.27330503  1.0
+  Tl  Tl3  1  0.62662307  0.02005888  0.72669497  1.0
+  Ag  Ag4  1  0.02556440  0.65453527  0.29433593  1.0
+  Ag  Ag5  1  0.97443560  0.34546473  0.70566407  1.0

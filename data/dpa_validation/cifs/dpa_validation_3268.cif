@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Dy3Ho6Tm2Zr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02117137
+_cell_length_b   6.02117137
+_cell_length_c   11.55109620
+_cell_angle_alpha   95.01791593
+_cell_angle_beta   95.01791593
+_cell_angle_gamma   119.76132098
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy3Ho6Tm2Zr
+_chemical_formula_sum   'Dy3 Ho6 Tm2 Zr1'
+_cell_volume   357.97731813
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.16662129  0.83337871  0.50000000  1.0
+  Dy  Dy1  1  0.83337871  0.16662129  0.50000000  1.0
+  Dy  Dy2  1  0.50000000  0.50000000  0.50000000  1.0
+  Ho  Ho3  1  0.40882353  0.08110473  0.24423116  1.0
+  Ho  Ho4  1  0.24650630  0.24650630  0.75620520  1.0
+  Ho  Ho5  1  0.59117647  0.91889527  0.75576884  1.0
+  Ho  Ho6  1  0.08110473  0.40882353  0.24423116  1.0
+  Ho  Ho7  1  0.75349370  0.75349370  0.24379480  1.0
+  Ho  Ho8  1  0.91889527  0.59117647  0.75576884  1.0
+  Tm  Tm9  1  0.33347885  0.66652115  0.00000000  1.0
+  Tm  Tm10  1  0.66652115  0.33347885  0.00000000  1.0
+  Zr  Zr11  1  0.00000000  0.00000000  0.00000000  1.0

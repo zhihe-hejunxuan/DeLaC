@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Na2Zr2MnS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41455495
+_cell_length_b   6.46212089
+_cell_length_c   7.10777991
+_cell_angle_alpha   81.48964916
+_cell_angle_beta   72.65222275
+_cell_angle_gamma   60.24319377
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Zr2MnS6
+_chemical_formula_sum   'Na2 Zr2 Mn1 S6'
+_cell_volume   244.14447235
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.16503815  0.66992370  0.00000000  1.0
+  Na  Na1  1  0.83496185  0.33007630  0.00000000  1.0
+  Zr  Zr2  1  0.66639081  0.66721838  0.50000000  1.0
+  Zr  Zr3  1  0.33360919  0.33278162  0.50000000  1.0
+  Mn  Mn4  1  0.00000000  0.00000000  0.50000000  1.0
+  S  S5  1  0.26130690  0.00000000  0.71112591  1.0
+  S  S6  1  0.93080616  0.66143187  0.71417956  1.0
+  S  S7  1  0.73869310  0.00000000  0.28887409  1.0
+  S  S8  1  0.59223803  0.33856813  0.71417956  1.0
+  S  S9  1  0.06919384  0.33856813  0.28582044  1.0
+  S  S10  1  0.40776197  0.66143187  0.28582044  1.0

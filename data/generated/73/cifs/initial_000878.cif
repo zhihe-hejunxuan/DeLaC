@@ -1,0 +1,29 @@
+# generated using pymatgen
+data_CdHgSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.19819628
+_cell_length_b   3.65750799
+_cell_length_c   3.22967949
+_cell_angle_alpha   109.02269278
+_cell_angle_beta   103.85007291
+_cell_angle_gamma   98.85553038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdHgSb
+_chemical_formula_sum   'Cd1 Hg1 Sb1'
+_cell_volume   33.55179078
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.11828650  1.00247444  0.91686221  1
+  Hg  Hg1  1  0.82803044  -0.00501276  0.09096977  1
+  Sb  Sb2  1  1.05333092  0.00269817  -0.00748147  1

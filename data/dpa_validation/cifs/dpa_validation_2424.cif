@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_InHRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.11220476
+_cell_length_b   5.10087601
+_cell_length_c   5.45221994
+_cell_angle_alpha   78.23031172
+_cell_angle_beta   73.41681450
+_cell_angle_gamma   72.23788259
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InHRu
+_chemical_formula_sum   'In2 H2 Ru2'
+_cell_volume   78.34869385
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.05943507  0.69132518  0.18980469  1.0
+  In  In1  1  0.94056493  0.30867482  0.81019531  1.0
+  H  H2  1  0.31699823  0.13636541  0.22963813  1.0
+  H  H3  1  0.68300177  0.86363459  0.77036187  1.0
+  Ru  Ru4  1  0.28699536  0.78829387  0.63771540  1.0
+  Ru  Ru5  1  0.71300464  0.21170613  0.36228460  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrEuAgTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47731825
+_cell_length_b   7.75365903
+_cell_length_c   11.69524375
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   106.78151495
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrEuAgTe3
+_chemical_formula_sum   'Sr2 Eu2 Ag2 Te6'
+_cell_volume   388.71663331
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.24109602  0.48219205  0.25000000  1.0
+  Sr  Sr1  1  0.75890398  0.51780795  0.75000000  1.0
+  Eu  Eu2  1  0.00000000  0.00000000  0.00000000  1.0
+  Eu  Eu3  1  0.00000000  0.00000000  0.50000000  1.0
+  Ag  Ag4  1  0.52635808  0.05271616  0.25000000  1.0
+  Ag  Ag5  1  0.47364192  0.94728384  0.75000000  1.0
+  Te  Te6  1  0.35292387  0.70584774  0.93495464  1.0
+  Te  Te7  1  0.91071775  0.82143549  0.25000000  1.0
+  Te  Te8  1  0.64707613  0.29415226  0.43495464  1.0
+  Te  Te9  1  0.64707613  0.29415226  0.06504536  1.0
+  Te  Te10  1  0.35292387  0.70584774  0.56504536  1.0
+  Te  Te11  1  0.08928225  0.17856451  0.75000000  1.0

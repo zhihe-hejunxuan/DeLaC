@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Dy10Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.75292021
+_cell_length_b   6.23309668
+_cell_length_c   8.83627258
+_cell_angle_alpha   111.46461982
+_cell_angle_beta   105.72843808
+_cell_angle_gamma   90.13513378
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy10Ni
+_chemical_formula_sum   'Dy10 Ni1'
+_cell_volume   331.02880358
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.60630007  0.05310747  0.65025898  1
+  Dy  Dy1  1  0.20295865  0.79640802  0.83846218  1
+  Dy  Dy2  1  0.11972126  0.78769249  0.21490361  1
+  Dy  Dy3  1  0.42733929  0.37634948  1.03067810  1
+  Dy  Dy4  1  0.61874510  0.98351917  0.24563725  1
+  Dy  Dy5  1  0.83449360  0.57723193  0.44557995  1
+  Dy  Dy6  1  0.08518027  0.15975894  0.59810026  1
+  Dy  Dy7  1  0.34280025  0.44271297  0.43368602  1
+  Dy  Dy8  1  0.69390854  0.64262552  0.83743392  1
+  Dy  Dy9  1  0.92440842  0.20830898  0.07107446  1
+  Ni  Ni10  1  1.02279498  0.42118196  -0.11222710  1

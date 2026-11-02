@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Hg8Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30573346
+_cell_length_b   6.59499788
+_cell_length_c   11.69226563
+_cell_angle_alpha   100.21631833
+_cell_angle_beta   95.44054653
+_cell_angle_gamma   146.11490774
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg8Pd
+_chemical_formula_sum   'Hg8 Pd1'
+_cell_volume   239.42978531
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.11333120  0.99820912  0.60310090  1
+  Hg  Hg1  1  0.51731425  0.11932621  0.42772857  1
+  Hg  Hg2  1  0.69327599  0.78710548  0.09870164  1
+  Hg  Hg3  1  0.76386693  0.22222359  0.95189975  1
+  Hg  Hg4  1  0.99664988  0.84376917  0.87061503  1
+  Hg  Hg5  1  0.61784552  0.29953602  0.18892156  1
+  Hg  Hg6  1  0.26954270  0.42362985  0.36549726  1
+  Hg  Hg7  1  0.35736517  0.70523470  0.64235768  1
+  Pd  Pd8  1  0.22946064  0.40616889  0.82335466  1

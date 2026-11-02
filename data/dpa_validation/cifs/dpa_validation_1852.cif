@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KTiNiSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67348378
+_cell_length_b   7.91500035
+_cell_length_c   9.70416032
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   103.41828554
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KTiNiSe3
+_chemical_formula_sum   'K2 Ti2 Ni2 Se6'
+_cell_volume   274.45223849
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75217901  0.50435802  0.75000000  1.0
+  K  K1  1  0.24782099  0.49564198  0.25000000  1.0
+  Ti  Ti2  1  0.00000000  0.00000000  0.00000000  1.0
+  Ti  Ti3  1  0.00000000  0.00000000  0.50000000  1.0
+  Ni  Ni4  1  0.47614825  0.95229650  0.75000000  1.0
+  Ni  Ni5  1  0.52385175  0.04770350  0.25000000  1.0
+  Se  Se6  1  0.38512211  0.77024421  0.94400389  1.0
+  Se  Se7  1  0.92882076  0.85764151  0.25000000  1.0
+  Se  Se8  1  0.61487789  0.22975579  0.44400389  1.0
+  Se  Se9  1  0.61487789  0.22975579  0.05599611  1.0
+  Se  Se10  1  0.38512211  0.77024421  0.55599611  1.0
+  Se  Se11  1  0.07117924  0.14235849  0.75000000  1.0

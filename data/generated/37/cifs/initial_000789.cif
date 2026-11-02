@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Tl2PdO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57645723
+_cell_length_b   3.73769792
+_cell_length_c   5.22133369
+_cell_angle_alpha   71.21525309
+_cell_angle_beta   75.40059742
+_cell_angle_gamma   75.53697078
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2PdO2
+_chemical_formula_sum   'Tl2 Pd1 O2'
+_cell_volume   115.57709870
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.96051737  0.57965427  0.03625817  1
+  Tl  Tl1  1  0.38522328  1.09858385  0.48296704  1
+  Pd  Pd2  1  0.75545787  0.40058778  0.56584640  1
+  O  O3  1  0.14415503  0.05529866  0.90406442  1
+  O  O4  1  0.77679451  0.84224293  0.67337070  1

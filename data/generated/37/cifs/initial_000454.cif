@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Dy2SiAs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08655368
+_cell_length_b   6.12932304
+_cell_length_c   1.58422259
+_cell_angle_alpha   94.74335458
+_cell_angle_beta   97.84379408
+_cell_angle_gamma   96.67372938
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2SiAs3
+_chemical_formula_sum   'Dy2 Si1 As3'
+_cell_volume   38.84732760
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.07402397  0.73603739  0.81037301  1
+  Dy  Dy1  1  0.77342935  0.81177650  0.63082256  1
+  Si  Si2  1  0.62450754  0.26004732  0.39003131  1
+  As  As3  1  0.30223825  0.71237963  0.56253558  1
+  As  As4  1  0.31716448  0.24799213  0.61913461  1
+  As  As5  1  0.91951771  0.25266264  0.80790690  1

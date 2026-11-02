@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Sr8P3NCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.66542745
+_cell_length_b   8.66542745
+_cell_length_c   8.73930100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   60.27923216
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr8P3NCl3
+_chemical_formula_sum   'Sr8 P3 N1 Cl3'
+_cell_volume   465.97414939
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.52103009  0.76051505  0.71845486  1.0
+  Sr  Sr1  1  0.47896991  0.23948495  0.28154514  1.0
+  Sr  Sr2  1  0.01754802  0.27724633  0.70520565  1.0
+  Sr  Sr3  1  0.98245198  0.72275367  0.29479435  1.0
+  Sr  Sr4  1  0.01754802  0.74030170  0.70520565  1.0
+  Sr  Sr5  1  0.98245198  0.25969830  0.29479435  1.0
+  Sr  Sr6  1  0.55449265  0.27724633  0.70520565  1.0
+  Sr  Sr7  1  0.44550735  0.72275367  0.29479435  1.0
+  P  P8  1  0.50000000  0.00000000  0.50000000  1.0
+  P  P9  1  0.50000000  0.50000000  0.50000000  1.0
+  P  P10  1  0.00000000  0.00000000  0.50000000  1.0
+  N  N11  1  0.00000000  0.50000000  0.50000000  1.0
+  Cl  Cl12  1  0.50000000  0.50000000  0.00000000  1.0
+  Cl  Cl13  1  0.50000000  0.00000000  0.00000000  1.0
+  Cl  Cl14  1  0.00000000  0.50000000  0.00000000  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sm6Ni2GeBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05461185
+_cell_length_b   8.91550165
+_cell_length_c   9.75690358
+_cell_angle_alpha   107.89809127
+_cell_angle_beta   101.99238525
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm6Ni2GeBr3
+_chemical_formula_sum   'Sm6 Ni2 Ge1 Br3'
+_cell_volume   327.53367544
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.33775702  0.86729308  0.67551404  1.0
+  Sm  Sm1  1  0.67572892  0.55657910  0.35145785  1.0
+  Sm  Sm2  1  0.66224298  0.13270692  0.32448596  1.0
+  Sm  Sm3  1  0.01607312  0.23855496  0.03214623  1.0
+  Sm  Sm4  1  0.98392688  0.76144504  0.96785377  1.0
+  Sm  Sm5  1  0.32427108  0.44342090  0.64854215  1.0
+  Ni  Ni6  1  0.83005070  0.65384656  0.66010140  1.0
+  Ni  Ni7  1  0.16994930  0.34615344  0.33989860  1.0
+  Ge  Ge8  1  0.50000000  0.00000000  0.00000000  1.0
+  Br  Br9  1  0.50000000  0.50000000  0.00000000  1.0
+  Br  Br10  1  0.83932809  0.15867601  0.67865618  1.0
+  Br  Br11  1  0.16067191  0.84132399  0.32134382  1.0

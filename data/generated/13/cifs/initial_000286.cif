@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Er3GaCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.40480240
+_cell_length_b   4.71491896
+_cell_length_c   7.68768358
+_cell_angle_alpha   107.33964572
+_cell_angle_beta   86.53283568
+_cell_angle_gamma   90.41453952
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3GaCo2
+_chemical_formula_sum   'Er3 Ga1 Co2'
+_cell_volume   117.58150505
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.19656957  0.11378767  0.70668317  1
+  Er  Er1  1  0.31092830  0.76123384  1.00337997  1
+  Er  Er2  1  0.24566964  0.40851007  0.33550128  1
+  Ga  Ga3  1  0.74196689  0.92124811  0.37969843  1
+  Co  Co4  1  0.71198124  0.59751542  0.62911360  1
+  Co  Co5  1  0.76759541  0.28166107  0.02156777  1

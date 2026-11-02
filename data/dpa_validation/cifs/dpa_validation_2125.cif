@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Y5Te5C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01809256
+_cell_length_b   7.34849871
+_cell_length_c   8.43241971
+_cell_angle_alpha   107.50445963
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   114.17202836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y5Te5C
+_chemical_formula_sum   'Y5 Te5 C1'
+_cell_volume   321.19627540
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.85626825  0.71253650  0.13912071  1.0
+  Y  Y1  1  0.86008548  0.72017096  0.71530358  1.0
+  Y  Y2  1  0.50000000  0.00000000  0.00000000  1.0
+  Y  Y3  1  0.13991452  0.27982904  0.28469642  1.0
+  Y  Y4  1  0.14373175  0.28746350  0.86087929  1.0
+  Te  Te5  1  0.67994855  0.35989710  0.33440216  1.0
+  Te  Te6  1  0.65923344  0.31846687  0.81360996  1.0
+  Te  Te7  1  0.00000000  0.00000000  0.50000000  1.0
+  Te  Te8  1  0.34076656  0.68153313  0.18639004  1.0
+  Te  Te9  1  0.32005145  0.64010290  0.66559784  1.0
+  C  C10  1  0.00000000  0.00000000  0.00000000  1.0

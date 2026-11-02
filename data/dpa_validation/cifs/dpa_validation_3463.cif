@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaLi(CeTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.23402117
+_cell_length_b   9.30435879
+_cell_length_c   9.30435879
+_cell_angle_alpha   60.26466295
+_cell_angle_beta   60.24975745
+_cell_angle_gamma   60.24975745
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLi(CeTe2)2
+_chemical_formula_sum   'Ba2 Li2 Ce4 Te8'
+_cell_volume   568.51989307
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.50000000  1.0
+  Ba  Ba1  1  0.50000000  0.00000000  0.50000000  1.0
+  Li  Li2  1  0.00000000  0.50000000  0.50000000  1.0
+  Li  Li3  1  0.00000000  0.00000000  0.00000000  1.0
+  Ce  Ce4  1  0.50000000  0.50000000  0.00000000  1.0
+  Ce  Ce5  1  0.00000000  0.50000000  0.00000000  1.0
+  Ce  Ce6  1  0.50000000  0.00000000  0.00000000  1.0
+  Ce  Ce7  1  0.50000000  0.50000000  0.50000000  1.0
+  Te  Te8  1  0.24983565  0.73348035  0.76684835  1.0
+  Te  Te9  1  0.24983565  0.26684835  0.23348035  1.0
+  Te  Te10  1  0.75016435  0.73315165  0.76651965  1.0
+  Te  Te11  1  0.75016435  0.26651965  0.23315165  1.0
+  Te  Te12  1  0.74203878  0.25847197  0.75847197  1.0
+  Te  Te13  1  0.24101729  0.25847197  0.75847197  1.0
+  Te  Te14  1  0.75898271  0.74152803  0.24152803  1.0
+  Te  Te15  1  0.25796122  0.74152803  0.24152803  1.0

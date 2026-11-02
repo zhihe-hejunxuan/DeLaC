@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Zr2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.17049102
+_cell_length_b   5.14400239
+_cell_length_c   3.41557939
+_cell_angle_alpha   90.29640418
+_cell_angle_beta   124.05766743
+_cell_angle_gamma   96.04987508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2Hg
+_chemical_formula_sum   'Zr4 Hg2'
+_cell_volume   132.33939430
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.32228919  0.25584151  0.25884551  1
+  Zr  Zr1  1  0.64740443  0.79662116  0.74224803  1
+  Zr  Zr2  1  -0.01132774  0.20357600  0.25802709  1
+  Zr  Zr3  1  0.31378084  0.74434570  0.74144421  1
+  Hg  Hg4  1  0.65266258  0.29276085  0.25222653  1
+  Hg  Hg5  1  0.98340678  0.70743878  0.74804369  1

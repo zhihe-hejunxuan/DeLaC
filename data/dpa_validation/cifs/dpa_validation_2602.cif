@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ce4TeIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.79256053
+_cell_length_b   7.79256053
+_cell_length_c   7.79256053
+_cell_angle_alpha   107.32153598
+_cell_angle_beta   107.32153598
+_cell_angle_gamma   113.86183794
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4TeIr2
+_chemical_formula_sum   'Ce8 Te2 Ir4'
+_cell_volume   362.64891095
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.75837321  0.00561667  0.60305048  1.0
+  Ce  Ce1  1  0.49162679  0.59467728  0.74724347  1.0
+  Ce  Ce2  1  0.40256619  0.15532272  0.39694952  1.0
+  Ce  Ce3  1  0.84467728  0.24162679  0.24724347  1.0
+  Ce  Ce4  1  0.99438333  0.59743381  0.75275653  1.0
+  Ce  Ce5  1  0.84743381  0.74438333  0.25275653  1.0
+  Ce  Ce6  1  0.25561667  0.50837321  0.10305048  1.0
+  Ce  Ce7  1  0.40532272  0.15256619  0.89694952  1.0
+  Te  Te8  1  0.25000000  0.75000000  0.50000000  1.0
+  Te  Te9  1  0.00000000  0.00000000  0.00000000  1.0
+  Ir  Ir10  1  0.62500000  0.50336585  0.37836585  1.0
+  Ir  Ir11  1  0.12500000  0.24663415  0.62163415  1.0
+  Ir  Ir12  1  0.75336585  0.37500000  0.87836585  1.0
+  Ir  Ir13  1  0.49663415  0.87500000  0.12163415  1.0

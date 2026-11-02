@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_SmYCoI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98674614
+_cell_length_b   3.98674614
+_cell_length_c   8.27594770
+_cell_angle_alpha   76.06249428
+_cell_angle_beta   76.06249428
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmYCoI
+_chemical_formula_sum   'Sm1 Y1 Co1 I1'
+_cell_volume   109.42163102
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.17272142  0.17272142  0.48183574  1.0
+  Y  Y1  1  0.95912668  0.95912668  0.12261996  1.0
+  Co  Co2  1  0.56577363  0.56577363  0.30267910  1.0
+  I  I3  1  0.39549574  0.39549574  0.81351279  1.0

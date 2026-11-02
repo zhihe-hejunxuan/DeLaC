@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScTl2InF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35885927
+_cell_length_b   6.36377849
+_cell_length_c   6.37063499
+_cell_angle_alpha   63.88550536
+_cell_angle_beta   63.88473803
+_cell_angle_gamma   63.82637297
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScTl2InF6
+_chemical_formula_sum   'Sc1 Tl2 In1 F6'
+_cell_volume   197.82562155
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.00000000  0.00000000  0.00000000  1.0
+  Tl  Tl1  1  0.24361623  0.24329083  0.24277895  1.0
+  Tl  Tl2  1  0.75638377  0.75670917  0.75722105  1.0
+  In  In3  1  0.50000000  0.50000000  0.50000000  1.0
+  F  F4  1  0.87188704  0.18674689  0.70148657  1.0
+  F  F5  1  0.70193433  0.87062299  0.18583919  1.0
+  F  F6  1  0.18900907  0.70152897  0.87135394  1.0
+  F  F7  1  0.29806567  0.12937701  0.81416081  1.0
+  F  F8  1  0.81099093  0.29847103  0.12864606  1.0
+  F  F9  1  0.12811296  0.81325311  0.29851343  1.0

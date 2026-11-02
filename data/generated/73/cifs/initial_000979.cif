@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Sb6O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.42629555
+_cell_length_b   6.53270282
+_cell_length_c   8.81871489
+_cell_angle_alpha   104.40079002
+_cell_angle_beta   72.25227630
+_cell_angle_gamma   82.05187918
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sb6O
+_chemical_formula_sum   'Sb6 O1'
+_cell_volume   228.80982740
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.91981953  0.96135296  0.98458279  1
+  Sb  Sb1  1  0.49096363  0.55444505  0.48429928  1
+  Sb  Sb2  1  0.44166040  0.16087463  0.57577656  1
+  Sb  Sb3  1  0.04373051  0.35720013  0.16954855  1
+  Sb  Sb4  1  0.77777534  0.41338680  0.76914910  1
+  Sb  Sb5  1  0.28798076  0.95145040  0.20584569  1
+  O  O6  1  0.76234578  0.62139349  0.63218751  1

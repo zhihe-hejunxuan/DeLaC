@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CdNiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.16918053
+_cell_length_b   5.62541313
+_cell_length_c   5.53397998
+_cell_angle_alpha   79.46188324
+_cell_angle_beta   73.01319502
+_cell_angle_gamma   89.89040230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdNiO2
+_chemical_formula_sum   'Cd2 Ni2 O4'
+_cell_volume   92.62440394
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.29854888  0.29716349  0.35936351  1
+  Cd  Cd1  1  0.03577723  0.54968627  0.87486201  1
+  Ni  Ni2  1  0.79184284  0.80619631  0.36752921  1
+  Ni  Ni3  1  0.54702930  0.04065804  0.86607030  1
+  O  O4  1  -0.06798817  0.13864540  0.09252776  1
+  O  O5  1  0.40935890  0.70688257  0.13989659  1
+  O  O6  1  1.17250134  0.92302989  0.61476740  1
+  O  O7  1  0.66695620  0.42299521  0.61735187  1

@@ -1,0 +1,17 @@
+{
+  "command": "train",
+  "cache": "artifacts/mp20_niggli_train_scaler.npz",
+  "output": "runs/mp20_ablation_B_niggli_properties",
+  "device": "cuda",
+  "epochs": 200,
+  "batch_size": 256,
+  "workers": 4,
+  "latent_dim": 256,
+  "lr": 0.0005,
+  "kl_weight": 2.0,
+  "property_weight": 10.0,
+  "disable_properties": false,
+  "modern_loss_scaling": false,
+  "seed": 42,
+  "amp": true
+}

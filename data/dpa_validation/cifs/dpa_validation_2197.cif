@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaCdInHg3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81344538
+_cell_length_b   7.98583445
+_cell_length_c   8.47758698
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   106.49265463
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCdInHg3
+_chemical_formula_sum   'Ca2 Cd2 In2 Hg6'
+_cell_volume   312.46548940
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.81586612  0.75000000  0.63173224  1.0
+  Ca  Ca1  1  0.18413388  0.25000000  0.36826776  1.0
+  Cd  Cd2  1  0.00000000  0.50000000  0.00000000  1.0
+  Cd  Cd3  1  0.00000000  0.00000000  0.00000000  1.0
+  In  In4  1  0.51401830  0.25000000  0.02803660  1.0
+  In  In5  1  0.48598170  0.75000000  0.97196340  1.0
+  Hg  Hg6  1  0.34879090  0.01249963  0.69758179  1.0
+  Hg  Hg7  1  0.65120910  0.98750037  0.30241821  1.0
+  Hg  Hg8  1  0.65120910  0.51249963  0.30241821  1.0
+  Hg  Hg9  1  0.34879090  0.48750037  0.69758179  1.0
+  Hg  Hg10  1  0.83122097  0.25000000  0.66244193  1.0
+  Hg  Hg11  1  0.16877903  0.75000000  0.33755807  1.0

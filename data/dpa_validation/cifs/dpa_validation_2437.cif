@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TbSmBr6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.14249683
+_cell_length_b   7.14249683
+_cell_length_c   7.69755389
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   62.35797748
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbSmBr6
+_chemical_formula_sum   'Tb1 Sm1 Br6'
+_cell_volume   287.16397805
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.00000000  0.50000000  0.50000000  1.0
+  Sm  Sm1  1  0.00000000  0.00000000  0.00000000  1.0
+  Br  Br2  1  0.49499673  0.90393046  0.25211394  1.0
+  Br  Br3  1  0.15681978  0.25288932  0.25211394  1.0
+  Br  Br4  1  0.15604440  0.40893372  0.74788606  1.0
+  Br  Br5  1  0.84318022  0.74711068  0.74788606  1.0
+  Br  Br6  1  0.50500327  0.09606954  0.74788606  1.0
+  Br  Br7  1  0.84395560  0.59106628  0.25211394  1.0

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Li4NiH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01274712
+_cell_length_b   4.75887153
+_cell_length_c   4.77145987
+_cell_angle_alpha   79.74416889
+_cell_angle_beta   65.13720255
+_cell_angle_gamma   65.26600821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4NiH4
+_chemical_formula_sum   'Li4 Ni1 H4'
+_cell_volume   75.08704091
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.61435055  0.59336452  0.17807832  1.0
+  Li  Li1  1  0.38564945  0.40663548  0.82192168  1.0
+  Li  Li2  1  0.20769654  0.17877475  0.40696747  1.0
+  Li  Li3  1  0.79230346  0.82122525  0.59303253  1.0
+  Ni  Ni4  1  0.00000000  0.00000000  0.00000000  1.0
+  H  H5  1  0.92312788  0.33491847  0.81572282  1.0
+  H  H6  1  0.07687212  0.66508153  0.18427718  1.0
+  H  H7  1  0.25934278  0.81622259  0.66630008  1.0
+  H  H8  1  0.74065722  0.18377741  0.33369992  1.0

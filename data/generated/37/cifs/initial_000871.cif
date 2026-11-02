@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Dy2Ga7Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29551246
+_cell_length_b   5.83302951
+_cell_length_c   8.96563842
+_cell_angle_alpha   111.81081686
+_cell_angle_beta   90.06335798
+_cell_angle_gamma   112.52304484
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Ga7Pd
+_chemical_formula_sum   'Dy2 Ga7 Pd1'
+_cell_volume   189.93965199
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.98220773  0.50855353  0.71385052  1
+  Dy  Dy1  1  0.33312242  0.19529947  0.10360200  1
+  Ga  Ga2  1  0.29659809  0.13706804  0.45479516  1
+  Ga  Ga3  1  0.70932774  -0.02368262  0.81808652  1
+  Ga  Ga4  1  -0.03323006  0.42939298  0.36198476  1
+  Ga  Ga5  1  0.60645886  0.69419954  0.50392343  1
+  Ga  Ga6  1  0.30619700  0.16450759  0.75861329  1
+  Ga  Ga7  1  0.04354498  0.62513053  0.13537666  1
+  Ga  Ga8  1  0.57963748  0.69267731  0.98515072  1
+  Pd  Pd9  1  0.68137905  0.91671021  0.30001918  1

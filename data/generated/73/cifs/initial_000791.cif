@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_MgF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98809384
+_cell_length_b   4.04883291
+_cell_length_c   5.50249847
+_cell_angle_alpha   74.77175619
+_cell_angle_beta   76.64049518
+_cell_angle_gamma   87.03864414
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgF6
+_chemical_formula_sum   'Mg1 F6'
+_cell_volume   83.40601738
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.76759156  0.77810787  0.30056431  1
+  F  F1  1  0.91029907  0.88168187  0.89810001  1
+  F  F2  1  0.26713920  0.77862661  0.30263509  1
+  F  F3  1  0.20232475  0.24699502  0.66189141  1
+  F  F4  1  0.63629039  0.69783402  0.70481621  1
+  F  F5  1  0.76765545  0.27846826  0.30050187  1
+  F  F6  1  0.34236190  0.33867031  0.94920139  1

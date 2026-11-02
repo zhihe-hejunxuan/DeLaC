@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaInCuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74945808
+_cell_length_b   3.72850271
+_cell_length_c   12.84361256
+_cell_angle_alpha   71.62396258
+_cell_angle_beta   70.59648950
+_cell_angle_gamma   90.42301469
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaInCuO6
+_chemical_formula_sum   'Ba1 In1 Cu1 O6'
+_cell_volume   159.45242451
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.31831782  0.43510518  0.09411523  1
+  In  In1  1  0.83770193  0.42744229  0.64463202  1
+  Cu  Cu2  1  1.04414611  0.14306960  0.89936237  1
+  O  O3  1  0.34424313  0.74861688  0.34656770  1
+  O  O4  1  0.85249849  0.96233497  0.06508829  1
+  O  O5  1  0.01711702  0.61704715  0.92310548  1
+  O  O6  1  0.92729738  1.01188989  0.56738612  1
+  O  O7  1  0.60788634  0.01118853  0.31367639  1
+  O  O8  1  0.23117952  0.32101931  0.73752389  1

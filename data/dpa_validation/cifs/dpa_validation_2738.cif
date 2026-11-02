@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr2AgPbCl8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47102680
+_cell_length_b   6.89401443
+_cell_length_c   9.61077336
+_cell_angle_alpha   84.55531277
+_cell_angle_beta   88.18516759
+_cell_angle_gamma   85.44049992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2AgPbCl8
+_chemical_formula_sum   'Sr2 Ag1 Pb1 Cl8'
+_cell_volume   359.60898067
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.56951008  0.49315719  0.25305760  1.0
+  Sr  Sr1  1  0.43048992  0.50684281  0.74694240  1.0
+  Ag  Ag2  1  0.00000000  0.00000000  0.00000000  1.0
+  Pb  Pb3  1  0.00000000  0.00000000  0.50000000  1.0
+  Cl  Cl4  1  0.91600982  0.67385106  0.71541378  1.0
+  Cl  Cl5  1  0.33775444  0.72388974  0.00188050  1.0
+  Cl  Cl6  1  0.14441808  0.14092542  0.77127927  1.0
+  Cl  Cl7  1  0.08399018  0.32614894  0.28458622  1.0
+  Cl  Cl8  1  0.66224556  0.27611026  0.99811950  1.0
+  Cl  Cl9  1  0.85558192  0.85907458  0.22872073  1.0
+  Cl  Cl10  1  0.43631093  0.75104343  0.47562218  1.0
+  Cl  Cl11  1  0.56368907  0.24895657  0.52437782  1.0

@@ -1,0 +1,80 @@
+experiment:
+  name: latent_sampler_h_rmsnorm
+  seed: 42
+  num_samples: 1000
+  samplers: [empirical_gaussian, gmm, maf, rq_nsf, latent_ddpm]
+
+fixed:
+  ae_config_suffix: h_rmsnorm
+  ae_checkpoint: result/FlowPrep/mp_20/large/h_rmsnorm/model_899.pth
+  normalized_latents: data/mp_20/norm_flow_feature_h_rmsnorm_ep899.pt
+  maf_checkpoint: result/MAF/no_cond/mp_20/h_rmsnorm/0.0003/512/model_best.pt
+  dpa_model: mlff_choosing/dpa-3.1-mptrj.pth
+
+paths:
+  output_root: result/final_experiments/latent_sampler_h_rmsnorm
+  official_nflows: final_experiments/experiment_2/vendor/nflows-official
+  official_tab_ddpm: final_experiments/experiment_2/vendor/tab-ddpm-official
+  relaxation_metrics_module_root: third_party/FTCP
+
+split:
+  # 既有 MAF 在全部 33808 条 latent 上训练。为保持论文前后口径一致，
+  # 其他 sampler 也训练全量；固定子集只报告 diagnostic NLL，不用于选 checkpoint。
+  train_on_all: true
+  validation_fraction: 0.1
+
+gmm:
+  components: 16
+  covariance_type: diag
+  reg_covar: 1.0e-6
+  max_iter: 500
+  n_init: 3
+
+rq_nsf:
+  hidden_features: 256
+  num_layers: 10
+  num_blocks: 2
+  num_bins: 8
+  tail_bound: 4.0
+  batch_size: 512
+  learning_rate: 3.0e-4
+  epochs: 1200
+  patience: 100
+  grad_clip: 5.0
+
+latent_ddpm:
+  preprocessing: quantile_normal
+  quantile_n_quantiles: 1000
+  model_type: mlp
+  dim_t: 128
+  d_layers: [512, 1024, 1024]
+  dropout: 0.0
+  num_timesteps: 1000
+  gaussian_loss_type: mse
+  scheduler: cosine
+  batch_size: 512
+  learning_rate: 1.0e-3
+  weight_decay: 0.0
+  steps: 25000
+  use_ema: true
+  # TabDDPM 官方 Trainer 每一步都更新 EMA。
+  ema_every: 1
+  sample_batch_size: 256
+  sample_use_ema: true
+  # Quantile-normal 训练数据理论/实际支持约为 [-5.2, 5.2]。在每个 reverse
+  # step 约束 pred_x0，避免 144 维长链误差累积导致轨迹爆炸。
+  sample_pred_x0_clip: 3.0
+  # 在进入 AE 前检查 inverse-quantile 后的标准化 latent。
+  quality_gate:
+    global_std_min: 0.25
+    global_std_max: 3.0
+    row_absmax_p99_max: 12.0
+    absolute_max: 20.0
+
+decode_gate:
+  minimum_success_fraction: 0.50
+
+relaxation:
+  mode: cell
+  fmax: 0.05
+  max_steps: 300

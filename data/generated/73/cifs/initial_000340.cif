@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2BaO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62257299
+_cell_length_b   4.74365044
+_cell_length_c   13.06184176
+_cell_angle_alpha   76.48003077
+_cell_angle_beta   74.34229959
+_cell_angle_gamma   90.07731526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2BaO2
+_chemical_formula_sum   'K4 Ba2 O4'
+_cell_volume   267.51114218
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.87532051  0.40372850  0.56660153  1
+  K  K1  1  0.95705934  0.29484536  0.07059482  1
+  K  K2  1  0.64566923  -0.01379093  0.43108328  1
+  K  K3  1  0.56399321  0.09479560  0.92705001  1
+  Ba  Ba4  1  0.19885270  0.78789922  0.74881861  1
+  Ba  Ba5  1  0.32216634  0.60196067  0.24887703  1
+  O  O6  1  0.12364148  0.25045293  0.84898174  1
+  O  O7  1  0.77048308  0.85406372  0.64428088  1
+  O  O8  1  0.39740350  0.13951971  0.14869582  1
+  O  O9  1  0.75051326  0.53580139  0.35338742  1

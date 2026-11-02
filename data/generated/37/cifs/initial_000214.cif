@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Si2I2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.89569287
+_cell_length_b   8.48135798
+_cell_length_c   9.77176114
+_cell_angle_alpha   115.70171108
+_cell_angle_beta   81.56125928
+_cell_angle_gamma   80.27529898
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si2I2O5
+_chemical_formula_sum   'Si2 I2 O5'
+_cell_volume   206.49451742
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.08376943  0.69134792  0.36234456  1
+  Si  Si1  1  0.35568697  0.52662972  -0.01616498  1
+  I  I2  1  0.17473987  0.08960752  0.15105725  1
+  I  I3  1  0.72043123  0.11016126  0.67043707  1
+  O  O4  1  0.84714955  0.59052867  0.93731225  1
+  O  O5  1  0.22117970  0.60580467  0.17281332  1
+  O  O6  1  0.50596651  0.30485441  0.90405428  1
+  O  O7  1  -0.06407027  0.91287489  0.43753264  1
+  O  O8  1  0.59000524  0.62985602  0.41114560  1

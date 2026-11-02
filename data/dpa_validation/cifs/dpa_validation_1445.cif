@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ZrNbGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87970342
+_cell_length_b   3.87970342
+_cell_length_c   7.99230018
+_cell_angle_alpha   104.04684165
+_cell_angle_beta   104.04684165
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrNbGe
+_chemical_formula_sum   'Zr2 Nb2 Ge2'
+_cell_volume   112.99185719
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.67721724  0.67721724  0.35443448  1.0
+  Zr  Zr1  1  0.32278276  0.32278276  0.64556552  1.0
+  Nb  Nb2  1  0.00000000  0.50000000  0.00000000  1.0
+  Nb  Nb3  1  0.50000000  0.00000000  0.00000000  1.0
+  Ge  Ge4  1  0.13503225  0.13503225  0.27006449  1.0
+  Ge  Ge5  1  0.86496775  0.86496775  0.72993551  1.0

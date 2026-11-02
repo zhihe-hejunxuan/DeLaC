@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LaTb2PrAs4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24376404
+_cell_length_b   7.34074245
+_cell_length_c   7.34676804
+_cell_angle_alpha   109.46939823
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTb2PrAs4
+_chemical_formula_sum   'La1 Tb2 Pr1 As4'
+_cell_volume   215.78247297
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.00000000  1.0
+  Tb  Tb1  1  0.00000000  0.50000000  0.50000000  1.0
+  Tb  Tb2  1  0.50000000  0.50000000  0.00000000  1.0
+  Pr  Pr3  1  0.50000000  0.00000000  0.50000000  1.0
+  As  As4  1  0.00000000  0.73928496  0.24729502  1.0
+  As  As5  1  0.00000000  0.26071504  0.75270498  1.0
+  As  As6  1  0.50000000  0.73840353  0.74527988  1.0
+  As  As7  1  0.50000000  0.26159647  0.25472012  1.0

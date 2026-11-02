@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CdGe2Sb2Au7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.16041424
+_cell_length_b   4.16041424
+_cell_length_c   15.83494340
+_cell_angle_alpha   82.53765857
+_cell_angle_beta   82.53765857
+_cell_angle_gamma   88.92199889
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdGe2Sb2Au7
+_chemical_formula_sum   'Cd1 Ge2 Sb2 Au7'
+_cell_volume   269.46410043
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1.0
+  Ge  Ge1  1  0.37573572  0.37573572  0.24154649  1.0
+  Ge  Ge2  1  0.62426428  0.62426428  0.75845351  1.0
+  Sb  Sb3  1  0.21124759  0.21124759  0.57704528  1.0
+  Sb  Sb4  1  0.78875241  0.78875241  0.42295472  1.0
+  Au  Au5  1  0.50000000  0.50000000  0.00000000  1.0
+  Au  Au6  1  0.70437618  0.70437618  0.59773609  1.0
+  Au  Au7  1  0.29562382  0.29562382  0.40226391  1.0
+  Au  Au8  1  0.57236394  0.07445800  0.85804421  1.0
+  Au  Au9  1  0.07445800  0.57236394  0.85804421  1.0
+  Au  Au10  1  0.92554200  0.42763606  0.14195579  1.0
+  Au  Au11  1  0.42763606  0.92554200  0.14195579  1.0

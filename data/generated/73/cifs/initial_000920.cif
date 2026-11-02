@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Ho2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01561013
+_cell_length_b   6.20666812
+_cell_length_c   7.84933879
+_cell_angle_alpha   71.61836941
+_cell_angle_beta   90.00849319
+_cell_angle_gamma   90.20205823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Sb
+_chemical_formula_sum   'Ho4 Sb2'
+_cell_volume   185.65043672
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.74891743  0.78587743  0.59548484  1
+  Ho  Ho1  1  0.74992735  0.81640071  0.05271077  1
+  Ho  Ho2  1  0.25130038  0.21419224  0.70603302  1
+  Ho  Ho3  1  0.25029225  0.18366638  0.24880784  1
+  Sb  Sb4  1  0.75208730  0.36774739  0.94204305  1
+  Sb  Sb5  1  0.24814317  0.63231781  0.35947560  1
